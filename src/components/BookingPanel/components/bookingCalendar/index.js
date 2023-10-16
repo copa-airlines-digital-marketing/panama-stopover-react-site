@@ -12,7 +12,6 @@ import clsx from "clsx";
 
 import "react-dates/initialize"
 import "react-dates/lib/css/_datepicker.css"
-import "./react_dates_override.css"
 import useStyles from "./styles"
 import { ReactComponent as Left } from "../../assets/icons/Arrow-Left.svg"
 import { ReactComponent as Right } from "../../assets/icons/Arrow-Right.svg"
