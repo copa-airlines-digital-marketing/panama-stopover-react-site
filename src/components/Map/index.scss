@@ -1,0 +1,22 @@
+@import "../../assets/styles/_rem.scss";
+
+.map {
+    min-width: 505px;
+    max-width: 505px;
+    width: 100%;
+    .map-title {
+        font-family: "Raleway";
+        font-size: rem(25px);
+        color: #195dff;
+        font-weight: 600;
+    }
+    @media(max-width: 480px) {
+        min-width: 480px;
+    }
+    @media(max-width: 375px) {
+        min-width: 375px;
+    }
+    @media(max-width: 320px) {
+        min-width: 320px;
+    }
+}

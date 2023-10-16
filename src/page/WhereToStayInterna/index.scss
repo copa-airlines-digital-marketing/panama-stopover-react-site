@@ -1,0 +1,144 @@
+@import "../../assets/styles/_rem.scss";
+
+.where-to-stay-page-interna {
+  font-family: "Raleway", sans-serif;
+  color: #101010;
+  font-size: rem(25px);
+  font-weight: 400;
+
+  ul.details-info {
+    padding: 0;
+    margin: rem(0 0 80px 0);
+
+    li {
+      list-style: inside;
+      list-style-type: disc;
+      display: inline-block;
+      vertical-align: top;
+      width: 50%;
+
+      &::marker {
+        color: #ffcc26;
+      }
+    }
+
+  }
+
+  .smaller-text {
+    font-size: rem(12px);
+    line-height: rem(16px);
+    width: 100%;
+    text-align: center;
+    color: #8B8B8B;
+    margin: rem(30px auto -15px);
+    padding: 0;
+  }
+
+
+  .fee {
+    margin: 1em 0;
+    background: #dedede;
+    text-align: left;
+    padding: rem(15px 0);
+    color: #707070;
+    font-size: rem(25px);
+
+    strong:first-child {
+      color: #707070;
+    }
+
+    p {
+      color: #707070;
+      padding: 0;
+      margin: 0;
+      display: flex;
+
+      strong:first-child {
+        color: #707070;
+        margin-right: rem(15px);
+      }
+
+      span {
+        margin-left: rem(35px);
+
+        strong {
+          font-size: rem(25px);
+          line-height: rem(37px);
+          color: #101010 !important;
+          margin-right: rem(15px);
+        }
+      }
+    }
+
+  }
+
+  .text-cont {
+    display: flex;
+
+    .col-left {
+      padding-right: 1em;
+      flex: 2;
+
+      h1 {
+        font-size: rem(50px);
+        font-weight: 800;
+        padding-bottom: 1em;
+        margin-bottom: 0;
+
+        @media(max-width: 480px) {
+          padding-bottom: 0;
+        }
+
+      }
+
+      h2 {
+        font-size: rem(25px);
+        font-weight: 800;
+        line-height: rem(37px);
+        padding-bottom: 0;
+        margin-bottom: 0;
+        text-align: left;
+        color: #195DFF;
+
+        @media(max-width: 480px) {
+          padding-bottom: 0;
+        }
+
+      }
+
+      h3 {
+        font-size: rem(25px);
+        font-weight: 800;
+        line-height: rem(37px);
+        padding-bottom: 1em;
+        text-align: left;
+        color: #101010;
+      }
+
+      @media(max-width: 480px) {
+        padding-right: 0;
+      }
+    }
+
+    .col-right {
+      @media(max-width: 992px) {
+        margin: 0 auto;
+      }
+    }
+
+    @media(max-width: 992px) {
+      flex-direction: column;
+    }
+  }
+
+  .fee {
+    margin: 1em 0;
+    background: #dedede;
+    text-align: left;
+
+    strong:first-of-type {
+      color: #707070;
+      margin-right: 1em;
+    }
+  }
+}

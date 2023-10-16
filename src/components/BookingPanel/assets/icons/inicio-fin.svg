@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="26" viewBox="0 0 87 26">
+  <defs>
+    <rect id="group-24-b" width="81" height="20" x="0" y="0" rx="1"/>
+    <filter id="group-24-a" width="112.3%" height="150%" x="-6.2%" y="-20%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter2"/>
+      <feOffset dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 2)">
+    <use fill="#000" filter="url(#group-24-a)" xlink:href="#group-24-b"/>
+    <use fill="#FFF" xlink:href="#group-24-b"/>
+    <path fill="#AAAAAB" fill-rule="nonzero" d="M10.42,14 L10.42,6.75 L9.15,6.75 L9.15,14 L10.42,14 Z M13.9433333,14 L13.9433333,8.21 L17.0133333,14 L18.7133333,14 L18.7133333,6.75 L17.4833333,6.75 L17.4833333,12.54 L14.4133333,6.75 L12.7133333,6.75 L12.7133333,14 L13.9433333,14 Z M22.2766667,14 L22.2766667,6.75 L21.0066667,6.75 L21.0066667,14 L22.2766667,14 Z M27.63,14.13 C29.3,14.13 30.46,13.21 30.76,11.59 L29.54,11.59 C29.32,12.58 28.62,13.09 27.64,13.09 C26.48,13.09 25.59,12.11 25.59,10.35 C25.59,8.6 26.5,7.66 27.65,7.66 C28.59,7.66 29.3,8.18 29.52,9.16 L30.74,9.16 C30.45,7.54 29.3,6.62 27.69,6.62 C25.59,6.62 24.28,8.07 24.28,10.35 C24.28,12.62 25.51,14.13 27.63,14.13 Z M33.9333333,14 L33.9333333,6.75 L32.6633333,6.75 L32.6633333,14 L33.9333333,14 Z M39.3966667,14.13 C41.5266667,14.13 42.8566667,12.6 42.8566667,10.37 C42.8566667,8.14 41.5266667,6.62 39.3966667,6.62 C37.2666667,6.62 35.9366667,8.14 35.9366667,10.37 C35.9366667,12.6 37.2666667,14.13 39.3966667,14.13 Z M39.3966667,13.09 C38.1966667,13.09 37.2466667,12.13 37.2466667,10.37 C37.2466667,8.61 38.1966667,7.66 39.3966667,7.66 C40.5966667,7.66 41.5466667,8.61 41.5466667,10.37 C41.5466667,12.13 40.5966667,13.09 39.3966667,13.09 Z M48.3533333,14 L51.1733333,6.75 L50.0333333,6.75 L47.2133333,14 L48.3533333,14 Z M57.09,14 L57.09,10.8 L60.66,10.8 L60.66,9.75 L57.09,9.75 L57.09,7.81 L60.88,7.81 L60.88,6.75 L55.82,6.75 L55.82,14 L57.09,14 Z M63.7233333,14 L63.7233333,6.75 L62.4533333,6.75 L62.4533333,14 L63.7233333,14 Z M67.2466667,14 L67.2466667,8.21 L70.3166667,14 L72.0166667,14 L72.0166667,6.75 L70.7866667,6.75 L70.7866667,12.54 L67.7166667,6.75 L66.0166667,6.75 L66.0166667,14 L67.2466667,14 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,139 @@
+@import "../../assets/styles/_rem.scss";
+
+.tours-page {
+  font-family: "Raleway";
+  color: #101010;
+  font-size: rem(25px);
+  font-weight: normal;
+  text-align: left;
+
+  .tours-main {
+    .main-title-block {
+      display: flex;
+      align-items: flex-start;
+      justify-content: left;
+      flex-direction: column;
+      max-width: 100%;
+      margin: 0 auto;
+      padding-bottom: 3em;
+      text-align: left;
+    }
+
+    .main-title-block .title {
+      text-align: left;
+    }
+
+    .main-title-block .subtitle-cont {
+      text-align: left;
+    }
+
+    .main-title-block .thirdtitle {
+      text-align: left;
+    }
+
+  }
+
+  .extra {
+    .extra-social {
+      a {
+        color: #101010;
+        text-decoration: underline;
+      }
+    }
+
+    .extra-discount-code {
+      color: #195dff;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-family: Lato, sans-serif;
+    }
+  }
+
+  .fee {
+    margin: 1em 0;
+    background: #dedede;
+    text-align: left;
+    padding: rem(15px 0);
+  }
+
+  .extra-web {
+    color: #101010;
+    font-weight: bold;
+  }
+
+  @media (max-width: 992px) {
+    text-align: left;
+  }
+
+
+  .smaller-text {
+    font-size: rem(12px);
+    line-height: rem(16px);
+    width: 100%;
+    text-align: center;
+    color: #8B8B8B;
+    margin: rem(30px auto -15px);
+    padding: 0;
+  }
+  
+}
+
+
+.container-small {
+  small {
+    font-size: rem(14px);
+    line-height: rem(18px);
+    display: block;
+
+    &.display-none {
+      display: none;
+    }
+  }
+}
+
+
+
+/* tours-page */
+.tours-page {
+  .fee {
+    color: #707070;
+    font-size: rem(25px);
+
+    strong:first-child {
+      color: #707070;
+    }
+
+    p {
+      color: #707070;
+      padding: 0;
+      margin: 0;
+
+      strong:first-child {
+        color: #707070;
+        margin-right: rem(15px);
+      }
+
+      span {
+        strong {
+          font-size: rem(25px);
+          line-height: rem(37px);
+          color: #101010 !important;
+          margin-right: rem(15px);
+        }
+      }
+    }
+
+  }
+
+  .extra {
+    p {
+      font-size: rem(25px);
+      line-height: rem(37px);
+    }
+
+    a {
+      font-weight: bold;
+    }
+
+  }
+}

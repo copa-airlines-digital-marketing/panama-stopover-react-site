@@ -1,0 +1,1711 @@
+@media (max-width: 768px) {
+
+  html {
+    font-size: 24px;
+  }
+
+  .ant-back-top {
+    display: none;
+  }
+
+  // .banner-user {
+  //   min-height: rem(768px);
+  // }
+
+  .mobile-view {
+    display: flex !important;
+  }
+
+  .desktop-view {
+    display: none !important;
+  }
+
+  .container-small {
+    max-width: rem(260px);
+    margin: 0 auto;
+  }
+
+  /* sticked */
+  .como-hacer-stopover-box {
+
+    .sticky-mobile {
+      display: flex;
+      margin-top: rem(300px);
+      margin-right: rem(15px);
+      overflow: hidden;
+    }
+
+    .sticky-desktop {
+      display: none;
+    }
+
+    .yellow-box-stopover {
+      background-color: transparent;
+      width: rem(62px);
+      height: rem(61px);
+      // background-image: url("./../../img/mobile/cta-phone.png");
+      background-image: url("./../../img/mobile/i-avion.png");
+      background-position: 50% 50%;
+      background-size: contain;
+      background-repeat: no-repeat;
+      overflow: hidden;
+      float: right;
+      margin: 0;
+      padding: 0;
+    }
+
+    .sticky-mobile.yellow-box-stopover {
+      display: none;
+    }
+
+    .yellow-box-stopover,
+    .sticked {
+      width: rem(62px);
+      height: rem(61px);
+      left: auto;
+      bottom: rem(10px);
+      right: rem(10px);
+
+      .btn-booking,
+      // .btn-booking-border,
+      .text-call,
+      .btn-build {
+        display: none;
+      }
+
+      .btn-booking-border {
+        width: rem(62px);
+        height: rem(61px);
+        opacity: 0;
+      }
+
+      .btn-call {
+        width: 100%;
+        display: block;
+        height: 100%;
+        text-indent: -999999px;
+        background-image: none;
+        margin-left: 0;
+      }
+    }
+
+    .sticked {
+      .sticky-mobile.yellow-box-stopover {
+        a.btn-call {
+          top: rem(150px);
+        }
+      }
+    }
+
+  }
+
+  .como-hacer-stopover-box .the-btn-call-container {
+    display: block !important;
+  }
+
+  body .btn-primary {
+    width: auto;
+    height: rem(36px);
+    padding: rem(0 15px);
+    font-size: rem(12px);
+    line-height: rem(36px);
+
+    &.btn--border {
+      margin-top: rem(50px);
+    }
+  }
+
+  /* header */
+  .hero-box-data {
+    min-height: rem(272px);
+    max-height: rem(272px);
+
+    .hero-box-item {
+      min-height: rem(272px);
+      max-height: rem(272px);
+    }
+  }
+
+  .bm-menu-wrap {
+    min-width: 100% !important;
+  }
+
+  .header-box .primary-nav .navs-area {
+    position: absolute;
+    z-index: 9897;
+    top: rem(32px);
+    right: rem(70px);
+    max-width: rem(80px);
+
+    .language-box {
+      width: rem(40px);
+      height: rem(22px);
+
+      li {
+        button {
+          font-size: rem(9px);
+          line-height: rem(20px);
+          padding: rem(0px 5px 0 7px);
+
+          .caret:before {
+            content: '';
+            position: absolute;
+            top: rem(-13px);
+            left: rem(20px);
+            border-top: rem(3px solid #fff);
+            border-left: rem(3px solid transparent);
+            border-right: rem(3px solid transparent);
+          }
+
+          .caret:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            border-top: rem(-74px solid #ffffff);
+            border-left: rem(-74px solid transparent);
+            border-right: rem(-74px solid transparent);
+          }
+
+        }
+      }
+
+      &:hover {
+
+        li button {
+          color: #FFCC24;
+
+          .caret:before {
+            border-top: rem(3px solid #FFCC24);
+          }
+
+          .caret:after {
+            border-top: rem(-74px solid #FFCC249);
+          }
+        }
+      }
+    }
+  }
+
+  body .bm-burger-button {
+    width: rem(25px);
+    height: rem(30px);
+    top: rem(28px) !important;
+    display: block !important;
+  }
+
+  body {
+    .bm-cross-button {
+      width: rem(12px) !important;
+      height: rem(16px) !important;
+      top: rem(36px) !important;
+      right: rem(36px) !important;
+    }
+  }
+
+  .header-box .primary-nav {
+    min-height: rem(70px);
+    position: fixed;
+
+    .top-area {
+      padding: rem(0);
+      position: relative;
+
+      .logo-header {
+        max-width: rem(140px);
+        min-width: rem(140px);
+        height: rem(42px);
+        min-height: rem(42px);
+        position: relative;
+        z-index: 987;
+        top: rem(12px);
+        left: rem(16px);
+        padding: 0;
+        margin: 0;
+
+        a {
+          background-repeat: no-repeat;
+          padding: 0;
+          margin: 0;
+          background-position: 0 0;
+          max-width: rem(140px);
+          min-width: rem(140px);
+          height: rem(42px);
+          min-height: rem(42px);
+          display: block;
+          text-indent: -999999px;
+          text-decoration: none;
+          background-size: contain;
+        }
+
+      }
+
+    }
+
+  }
+
+  .top-area .top-nav-area .top-nav-area-item,
+  .header-box .primary-nav .navs-area .primary-nav-area {
+    display: none !important;
+  }
+
+  /* slider */
+  // .banner-anim-thumb-default {
+  //   bottom: rem(100px);
+  // }
+
+  .slider-item .slider-zonas .left-zone .logo-slider {
+    width: rem(62px);
+    height: rem(61px);
+  }
+
+  .slider-item .slider-zonas .left-zone h1 {
+    font-size: rem(40px);
+    line-height: rem(44px);
+    padding-top: rem(64px);
+  }
+
+  .slider-item .slider-zonas .left-zone h1 span {
+    font-size: rem(56px);
+    line-height: rem(56px);
+  }
+
+  .slider-item .slider-zonas .right-zone .slider-item-title {
+    font-size: rem(14px);
+    line-height: rem(21px);
+  }
+
+  .slider-item {
+
+    .linker-copy {
+      font-size: rem(10px);
+    }
+
+    .slider-zonas {
+      padding-top: rem(95px);
+      flex-direction: column;
+
+      .left-zone {
+        padding: rem(0 15px);
+        width: 85%;
+      }
+
+      .right-zone {
+        padding: rem(15px 15px 0 15px);
+      }
+
+      .btn-primary {
+        width: auto;
+        height: rem(50px);
+        font-size: rem(16px);
+        line-height: rem(50px);
+        text-align: center;
+      }
+    }
+
+    &.type-complex .slider-zonas .right-zone {
+      padding: rem(15px 15px 15px 15px);
+    }
+
+    &.type-complex .slider-zonas .left-zone h1 {
+      font-size: rem(42px);
+      line-height: rem(48px);
+      padding-top: rem(10px);
+
+      span {
+        font-size: rem(45px);
+        line-height: rem(48px);
+      }
+    }
+
+    &.type-complex .slider-zonas {
+
+      .left-zone .logo-slider {
+        left: inherit;
+        right: rem(0);
+        top: rem(0px);
+      }
+
+      .btn-primary {
+        margin: rem(75px auto 0);
+      }
+
+      .right-zone .slider-item-title {
+        font-size: rem(12px);
+        line-height: rem(18px);
+      }
+
+      .right-zone .slider-item-subtext {
+        margin-top: rem(10px);
+        font-size: rem(10px);
+        line-height: rem(18px);
+      }
+
+    }
+
+
+  }
+
+  .banner-anim-thumb-default span {
+    width: rem(7px);
+    height: rem(7px);
+  }
+
+
+  /* submenuHomeBox */
+  .submenuHomeBox {
+    position: relative;
+
+    .container {
+      padding: 0;
+      margin: 0;
+    }
+
+    .submenu-list-box-item {
+      border-radius: 0;
+      padding: 0;
+      margin: 0;
+      max-width: 100%;
+
+      a.submenu-list-box-item-a {
+        border-radius: 0;
+
+        span {
+          font-size: rem(16px);
+          line-height: rem(19px);
+        }
+      }
+
+
+    }
+  }
+
+  /* como-hacer-stopover-box */
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item h2 {
+    font-size: rem(73px);
+    line-height: rem(80px);
+  }
+
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item h3 {
+    font-size: rem(22px);
+    line-height: rem(26px);
+    margin-bottom: rem(15px);
+  }
+
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item p,
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item p span,
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item p span a .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item p a {
+    font-size: rem(14px) !important;
+    line-height: rem(21px) !important;
+  }
+
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .como-hacer-stopover-items .como-hacer-stopover-item p a {
+    font-size: rem(14px) !important;
+    line-height: rem(21px) !important;
+    margin-left: rem(4px) !important;
+  }
+
+  .como-hacer-stopover-box .como-hacer-stopover-list-box .linker-copy {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    margin-top: rem(60px);
+    margin-bottom: rem(60px);
+  }
+
+  .como-hacer-stopover-box {
+    background-image: url("./../../img/home/stopover-bg-mob.jpg");
+
+    .lo-que-debes-saber-stopover-list-box {
+      max-width: rem(280px);
+      padding: rem(80px 0 50px 0);
+
+      h2 {
+        font-size: rem(14px);
+        line-height: rem(21px);
+      }
+
+      .lo-que-debes-saber-stopover-list-box-items {
+        width: 100%;
+        margin: 0 auto;
+        max-width: rem(375px);
+
+        .img-saber-box {
+          padding: rem(0 40px);
+        }
+
+        h1 {
+          font-size: rem(14px);
+          line-height: rem(16px);
+        }
+
+        p {
+          font-size: rem(14px);
+          line-height: rem(18px);
+        }
+      }
+
+    }
+
+    .lo-que-debes-saber-stopover-list-box h1,
+    h1 {
+      font-weight: 700;
+      font-size: rem(35px);
+      line-height: rem(42px);
+    }
+  }
+
+
+  /* conoce-panama-box */
+  body .conoce-panama-box h1.iti-title {
+    font-size: rem(35px);
+    line-height: rem(41px);
+    max-width: rem(190px);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  body .conoce-panama-box h2.iti-subtitle {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    font-weight: 500;
+    max-width: rem(260px);
+
+    strong {
+      margin-top: rem(28px) !important;
+      font-weight: bold;
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container {
+    min-width: rem(210px);
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container {
+    margin: rem(5px 0 5px 0);
+    min-height: rem(384px);
+    min-width: rem(211px);
+
+    .preview-area-active {
+      background: rgba(16, 16, 16, 0.2);
+
+      .preview-area-active-title {
+        top: 0;
+        font-size: rem(22px);
+        line-height: rem(24px);
+        opacity: 1;
+      }
+
+      .preview-area-active-summary {
+        visibility: visible;
+        top: 0;
+        font-size: rem(12px);
+        line-height: rem(18px);
+        min-height: rem(60px);
+        opacity: 1;
+      }
+
+      .preview-container-btns {
+        top: rem(0);
+        visibility: visible;
+        opacity: 1;
+      }
+
+    }
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .btn-see-more {
+    font-size: rem(11px);
+    line-height: rem(30px) !important;
+    padding: 0;
+    text-align: center !important;
+    min-width: rem(89px);
+    height: rem(30px);
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active {
+    padding: rem(15px);
+    width: 100%;
+    height: 100%;
+    background: none !important;
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container .effect-scale::before {
+    display: block !important;
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .preview-area-active-all {
+    top: 0;
+  }
+
+  /* crea-tu-itinerario-list-box */
+  .crea-tu-itinerario-list-box .itinerario-tour-box h1.itinerario-tour-box-title,
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-area h1.iti-title {
+    font-size: rem(35px);
+    line-height: rem(45px);
+    text-align: center;
+  }
+
+  .crea-tu-itinerario-list-box .itinerario-tour-box .itinerario-tour-box-text,
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-area h2.iti-subtitle {
+    font-size: rem(14px);
+    text-align: center;
+    line-height: rem(22px);
+    padding: rem(0 45px);
+    width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-toparea .the-placeholder {
+    font-size: rem(14px);
+    line-height: rem(22px);
+    margin-top: rem(75px);
+  }
+
+  .radio-button-box label,
+  .radio-group label {
+    margin: rem(0 5px);
+  }
+
+  .crea-tu-itinerario-list-box .section-btn-itinerario {
+    margin: rem(50px 0 75px 0);
+  }
+
+  .crea-tu-itinerario-list-box .video-itinerario-box .video-itinerario-box-play {
+    background-size: rem(68px 68px);
+  }
+
+  .crea-tu-itinerario-list-box .video-itinerario-box .video-itinerario-box-h2 {
+    font-weight: 600;
+    font-size: rem(18px);
+    line-height: rem(24px);
+    padding: rem(0 25px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-items-numbers {
+    margin-top: rem(85px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items h1 {
+    font-size: rem(28px);
+    line-height: rem(34px);
+  }
+
+  .crea-tu-itinerario-list-box .video-itinerario-box {
+    height: rem(470px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items h2 {
+    font-size: rem(14px);
+    line-height: rem(24px);
+    margin-bottom: rem(15px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-toparea {
+    padding: rem(72px 15px 0px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item .left-itinerario-item {
+    margin-bottom: rem(25px);
+    min-width: 100%;
+    max-height: rem(340px);
+    min-height: rem(340px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-items-grey {
+    padding: rem(0 28px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item h1 {
+    font-size: rem(20px);
+    line-height: rem(24px);
+    font-weight: 700;
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items h2 {
+    padding: rem(0 15px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item p {
+    font-size: rem(14px);
+    line-height: rem(24px);
+    margin-bottom: rem(20px);
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item .right-itinerario-item .btn-iti-see-more {
+    font-size: rem(14px);
+    line-height: rem(19px);
+    background-size: rem(19px 19px);
+    padding-right: rem(25px);
+    text-decoration: none;
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item .right-itinerario-item {
+    padding: rem(0 35px);
+    width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item .right-itinerario-item .iti-read-more {
+    max-width: 100%;
+
+    .displayed-text {
+      font-size: rem(14px);
+      line-height: rem(24px);
+      margin-bottom: rem(20px);
+    }
+
+    .read-more-button {
+      font-size: rem(14px);
+      line-height: rem(19px);
+      background-size: rem(19px 19px);
+      padding-right: rem(25px);
+      text-decoration: underline;
+
+      &::after {
+        background-size: rem(19px 19px);
+      }
+
+      &:hover {
+        color: #FFCC24;
+      }
+    }
+
+  }
+
+  .crea-tu-itinerario-list-box .itinerario-tour-box {
+    padding: rem(72px 15px 15px);
+    overflow: hidden;
+  }
+
+  .crea-tu-itinerario-list-box .itinerario-tour-box h1.itinerario-tour-box-title {
+    font-size: rem(35px);
+    line-height: rem(42px);
+  }
+
+  .btn-see-all {
+    background-size: rem(42px 42px);
+    font-size: rem(16px);
+    padding-top: rem(45px);
+    line-height: rem(24px);
+    text-transform: none;
+  }
+
+  .itinerario-tour-box-slider .itinerario-tour-box-slider-item .itinerario-tour-box-slider-item-data h3 {
+    padding-left: rem(25px);
+    font-size: rem(9px);
+    line-height: rem(12px);
+    margin-bottom: rem(0);
+  }
+
+  .itinerario-tour-box-slider .itinerario-tour-box-slider-item .itinerario-tour-box-slider-item-data h1 {
+    padding-left: rem(25px);
+    font-size: rem(14px);
+    line-height: rem(18px);
+    margin-top: rem(0);
+  }
+
+  body .itinerario-tour-box-slider .slick-dots li button,
+  body .itinerario-tour-box-slider .slick-dots li {
+    width: rem(4px);
+    height: rem(4px);
+  }
+
+  .itinerario-tour-box-slider .slick-dots {
+    margin-top: rem(15px);
+  }
+
+  body .slick-dots li button {
+    padding: rem(2px);
+  }
+
+  .itinerario-tour-box-slider .itinerario-tour-box-slider-item .itinerario-tour-box-slider-item-data .btn-primary {
+    min-width: rem(89px);
+    margin-left: auto;
+    margin-top: 0;
+    float: right;
+    margin-right: rem(25px);
+    font-size: rem(11px);
+    text-align: center;
+    height: rem(30px);
+    line-height: rem(30px);
+    position: absolute;
+    bottom: 0px;
+  }
+
+  .itinerario-tour-box-slider .itinerario-tour-box-slider-item .itinerario-tour-box-slider-item-data h1 {
+    padding-bottom: rem(17px);
+  }
+
+  /* conoce panama page */
+  .conoce-panama-box h1.iti-title {
+    font-size: rem(46px);
+    line-height: rem(50px);
+    margin-bottom: rem(15px);
+  }
+
+  .conoce-panama-box h2.iti-subtitle {
+    font-size: rem(32px);
+    line-height: rem(44px);
+  }
+
+  /* tours home */
+  .itinerario-tour-box-slider .itinerario-tour-box-slider-item .itinerario-tour-box-slider-item-image {
+    max-height: rem(320px);
+    min-height: rem(340px);
+  }
+
+  /* package-home */
+  .package-home {
+    padding: rem(90px 0);
+
+    .main-area {
+      max-width: rem(260px);
+      margin: 0 auto;
+
+      h1 {
+        font-size: rem(35px);
+        line-height: rem(40px);
+      }
+
+      p {
+        font-size: rem(14px);
+        line-height: rem(21px);
+      }
+    }
+
+  }
+
+  .package-home .radio-days-box .radio-button-box label>span::before,
+  .package-home .radio-days-box .radio-group label>span::before {
+    vertical-align: rem(5px);
+  }
+
+  .package-home .radio-days-box .radio-button-box label,
+  .package-home .radio-days-box .radio-group label {
+    margin: rem(0 5px);
+    width: rem(29px);
+    height: rem(29px);
+  }
+
+  .package-home .main-bar .main-bar-left .radio-button-box {
+    position: unset;
+  }
+
+  .packages-box-slider .packages-box-slider-item .packages-box-slider-item-data {
+    padding: 4px 0;
+  }
+
+  .package-home .radio-days-box .radio-button-box label span,
+  .package-home .radio-days-box .radio-group label span {
+    width: rem(29px);
+    height: rem(29px);
+  }
+
+  .package-home .radio-days-box .radio-button-box label span b,
+  .package-home .radio-days-box .radio-group label span b {
+    font-size: rem(14px);
+    line-height: rem(29px);
+    width: rem(29px);
+    height: rem(29px);
+  }
+
+  .package-home .radio-days-box .radio-button-box label>span::before,
+  .package-home .radio-days-box .radio-group label>span::before {
+    width: rem(29px);
+    height: rem(29px);
+  }
+
+  //radio-prices-box
+  .package-home .radio-button-box .radio-prices-box label>span::before,
+  .package-home .radio-prices-box .radio-group label>span::before {
+    vertical-align: rem(5px);
+  }
+
+  .package-home .radio-button-box .radio-prices-box label,
+  .package-home .radio-prices-box .radio-group label {
+    //margin: rem(0px 28px);
+    width: 6rem;
+    height: 1.7rem;
+  }
+
+  .package-home .radio-button-box .radio-prices-box label span,
+  .package-home .radio-prices-box .radio-group label span {
+    width: 6rem;
+    height: 1.7rem;
+  }
+
+  .package-home .radio-button-box .radio-prices-box label span b,
+  .package-home .radio-prices-box .radio-group label span b {
+    //font-size: rem(10px);
+    //line-height: rem(14px);
+    width: 6rem;
+    height: 1.7rem;
+    padding-top: 0;
+    font-size: .75rem;
+  }
+
+  .package-home .radio-button-box .radio-prices-box label>span::before,
+  .package-home .radio-prices-box .radio-group label>span::before {
+    width: 6rem;
+    height: 1.7rem;
+  }
+
+  .package-home .main-bar .main-bar-left p {
+    margin: rem(15px);
+    font-size: rem(16px);
+    margin-left: 0 !important;
+  }
+
+  .package-home .main-bar .main-bar-right p {
+    margin: rem(15px);
+    font-size: rem(16px);
+    margin-left: 0 !important;
+  }
+
+  .list-of-item-panama {
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+
+  .package-home .radio-days-box {
+    display: block;
+  }
+
+  .package-home .main-bar .main-bar-left,
+  .package-home .main-bar .main-bar-right {
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+    display: block;
+  }
+
+  .package-home .radio-button-box .radio-prices-box .step_one,
+  .package-home .radio-button-box .radio-prices-box .step_two {
+    width: rem(142px);
+    top: rem(7px);
+    left: rem(30px);
+    height: rem(2px);
+  }
+
+  .list-prices-ul {
+    max-width: rem(170px);
+    margin: rem(0 0 9px);
+  }
+
+  .package-home .list-prices-ul li {
+    font-size: rem(8px);
+    line-height: rem(12px);
+    min-width: rem(55px);
+    margin: rem(0 5px);
+  }
+
+  .tabs .content {
+    padding: 1.25rem 0;
+  }
+
+  .tabs .tab {
+    width: 33.3%;
+    margin: 0;
+  }
+
+  .tabs .tab p {
+    font-size: rem(8px);
+    line-height: rem(12px);
+    padding: rem(0 5px);
+    margin: 0;
+    width: rem(64px);
+  }
+
+  .tabs .tab button {
+    width: rem(100%);
+    padding: rem(15px 5px);
+    height: rem(54px);
+
+    &.tabs.tab-2 {
+      border-right: 2px solid #DEDEDE;
+    }
+  }
+
+  .tabs .tab button span {
+    width: rem(24px);
+    height: rem(22px);
+    background-size: rem(22px 22px);
+    background-repeat: no-repeat;
+  }
+
+  .result-list-packages .packages-box-slider-item-data-title {
+    font-size: 0.8rem;
+    line-height: 1.25rem;
+    margin-bottom: 0.625rem;
+  }
+
+  .result-list-packages .packages-box-slider-item .packages-box-slider-item-image {
+    height: 6.5rem;
+  }
+
+  /* packages home */
+  .package-home .main-bar .main-bar-left {
+    border-bottom: rem(5px solid #f2f2f2);
+  }
+
+  /* hero */
+  .hero-box-data .hero-box-item {
+    min-height: rem(272px);
+    max-height: rem(272px);
+  }
+
+  .page-home .conoce-panama-box {
+    padding: rem(50px 0);
+  }
+
+  .conoce-panama-box {
+    padding: rem(50px 0 0);
+  }
+
+  /* know panama */
+  .submenuHomeBox .submenu-list-box ul {
+    padding: 0;
+    margin: 0;
+    display: block;
+  }
+
+  .conoce-panama-box-in-home {
+    .conoce-panama-cards-page-list {
+      flex-direction: row;
+      width: 100%;
+      overflow-x: auto;
+      max-width: rem(100%);
+    }
+  }
+
+  .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .preview-area-active-summary {
+    height: auto;
+  }
+
+  .page-know-panama {
+    .conoce-panama-box .conoce-panama-cards-page-list {
+      flex-direction: column;
+    }
+
+    .conoce-panama-box .conoce-panama-cards-page-list .preview-container {
+      margin: rem(5px 0);
+      min-height: rem(244px);
+      min-width: 100%;
+    }
+
+    .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .preview-area-active-title {
+      font-size: rem(21px);
+      line-height: rem(25px);
+      font-weight: bold;
+    }
+
+    .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .preview-area-active-summary {
+      font-size: rem(13px);
+      line-height: rem(17px);
+      min-height: rem(1px);
+    }
+
+    .conoce-panama-box .conoce-panama-cards-page-list .preview-container .preview-area-active .btn-see-more {
+      min-width: rem(89px);
+    }
+
+  }
+
+
+  /* horizontal-list-container */
+  .horizontal-list-container .container-box-list-item {
+    min-height: rem(201px);
+    max-height: rem(201px);
+  }
+
+  .horizontal-list-container .container-box-list-item .preview-area-active {
+    padding: rem(25px);
+  }
+
+  .horizontal-list-container .container-box-list-item .preview-area-active .preview-area-active-title {
+    font-size: rem(21px);
+    line-height: rem(25px);
+    margin-bottom: rem(20px);
+  }
+
+  .horizontal-list-container .container-box-list-item .preview-area-active .btn-see-more {
+    font-size: rem(11px);
+    line-height: rem(28px);
+    min-width: rem(89px);
+    min-height: rem(30px);
+  }
+
+  /* welcome-box */
+  .welcome-box {
+    padding: rem(40px 0 0 0);
+  }
+
+  .welcome-box .intro-box h1 {
+    font-size: rem(35px);
+    line-height: rem(21px);
+    margin-bottom: rem(35px);
+  }
+
+  .welcome-box .intro-box p {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    max-width: rem(260px);
+    margin: 0 auto;
+  }
+
+  /* breadcrumb */
+  .breadcrumbs {
+    font-size: rem(10px);
+    max-width: rem(260px);
+    margin: 0 auto;
+    padding: 0;
+
+    li a,
+    li strong,
+    li span {
+      font-size: rem(10px);
+    }
+
+  }
+
+  /* generic-details-box */
+  .generic-details-box {
+    padding: 0;
+    width: 100%;
+  }
+
+  .generic-details-box-container {
+    .container-full {
+      max-width: rem(260px);
+      margin: 0 auto;
+    }
+  }
+
+  .generic-details-box .generic-details-box-container h1 {
+    font-size: rem(35px);
+    line-height: rem(38px);
+  }
+
+  .generic-details-box .generic-details-box-container h2 {
+    font-size: rem(16px);
+    font-weight: bold;
+    line-height: rem(21px);
+  }
+
+  .generic-details-box .generic-details-box-container p {
+    font-size: rem(14px);
+    line-height: rem(21px);
+  }
+
+  .generic-details-box .generic-details-box-container .generic-details-box-container__text {
+    padding-right: 0;
+    padding-bottom: rem(15px);
+
+    p {
+      font-size: rem(14px);
+      line-height: rem(21px);
+    }
+  }
+
+  .generic-details-box .generic-details-box-container .did-you-know-box .did-you-know-box__left .did-you-know-box__image {
+    width: 100%;
+    height: 100%;
+    max-width: rem(182px);
+    max-height: rem(182px);
+    margin: rem(0 auto 35px);
+  }
+
+  .generic-details-box .generic-details-box-container .did-you-know-box .did-you-know-box__right h1 {
+    font-size: rem(25px);
+    line-height: rem(35px);
+    padding-right: 0;
+    background-image: url("./../../img/mobile/i-information-mob.png");
+    background-position: 100% 0;
+    background-size: rem(43px 48px);
+  }
+
+  .generic-details-box .generic-details-box-container .did-you-know-box .did-you-know-box__right h1 {
+    font-size: rem(25px);
+    line-height: rem(35px);
+    background-position: 50% 0;
+    width: 100%;
+    text-align: center;
+    padding: rem(60px 0 0 0);
+  }
+
+  .generic-details-box .generic-details-box-container .did-you-know-box .did-you-know-box__right h2 {
+    font-size: rem(12px);
+    line-height: rem(14px);
+    text-align: center;
+  }
+
+  .generic-details-box .generic-details-box-container .distance-box p,
+  .generic-details-box .generic-details-box-container .did-you-know-box .did-you-know-box__right p {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    text-align: justify;
+  }
+
+  .generic-details-box .generic-details-box-container .distance-box {
+    padding: rem(60px 0 15px 0);
+  }
+
+  /* tours */
+  .map {
+    min-width: rem(290px);
+    max-width: rem(290px);
+    overflow: hidden;
+    margin: rem(0);
+
+    .map-one-element {
+      height: rem(360px);
+    }
+
+    .map-title {
+      font-size: rem(16px);
+    }
+
+  }
+
+  .tours-page .main-title-block .title {
+    text-align: left;
+    width: 100%;
+  }
+
+  .tours-page .mobile-view .btn-primary {
+    width: auto;
+    height: rem(50px);
+    font-size: rem(16px);
+    line-height: rem(50px);
+    padding: rem(0 25px);
+  }
+
+  .tours-page .fee {
+    font-size: rem(12px);
+    line-height: rem(21px);
+    padding: rem(15px 0);
+
+    .container {
+      max-width: rem(260px);
+      padding: 0;
+    }
+
+    p,
+    b,
+    strong {
+      font-size: rem(12px) !important;
+      line-height: rem(21px) !important;
+    }
+  }
+
+  .tours-page .extra-web {
+    font-size: rem(14px);
+    line-height: rem(21px);
+
+    p {
+      font-size: rem(14px);
+      line-height: rem(21px);
+    }
+  }
+
+
+  /* tour single */
+  .main-title-block .title {
+    font-size: rem(35px);
+    line-height: rem(37px);
+    text-align: center;
+    width: 100%;
+  }
+
+  .tours-page {
+    .container-card {
+      padding: 0;
+
+      ul {
+        padding: 0;
+        font-size: rem(14px);
+        line-height: rem(21px);
+
+        li {
+          margin-bottom: 1em;
+          font-size: rem(14px);
+          line-height: rem(21px);
+        }
+      }
+
+      .tour-card {
+        box-shadow: 0 0 0 transparent;
+        min-height: 1px;
+        height: 100%;
+        margin: 0;
+        padding: rem(0 0 30px 0);
+      }
+
+      .mb-5,
+      .my-5 {
+        margin-bottom: 0 !important;
+      }
+    }
+
+    .main-title-block .subtitle-cont .subtitle {
+      text-align: left;
+    }
+
+    .extra {
+      p {
+        font-size: rem(14px);
+        line-height: rem(21px);
+      }
+    }
+  }
+
+
+  .main-title-block.wseemore {
+    padding-bottom: rem(25px);
+  }
+
+  /* car */
+  .main-title-block .title {
+    font-size: rem(35px);
+    line-height: rem(41px);
+    max-width: rem(260px);
+    text-align: center;
+  }
+
+  .main-title-block .subtitle-cont .subtitle {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    text-align: center;
+    max-width: rem(260px);
+  }
+
+
+
+  .main-title-block p p {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    text-align: center;
+    max-width: rem(260px);
+  }
+
+
+
+  .main-title-block .thirdtitle {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    text-align: center;
+    max-width: rem(260px);
+  }
+
+
+  .row-card {
+    .col-sm-12.col-md-6 {
+      padding: 0;
+      margin: 0;
+    }
+
+    .item__card .item-card-body .heading {
+      margin-bottom: rem(25px);
+    }
+
+    .item__card .item-card-body .heading .heading-title {
+      font-size: rem(14px);
+      line-height: rem(21px);
+      padding-top: rem(35px);
+      padding-bottom: rem(25px);
+    }
+
+    .item__card .item-card-body .body .considerations ul li {
+      margin-bottom: 1em;
+      font-size: rem(14px);
+      line-height: rem(24px);
+    }
+
+    .item__card .item-card-body .heading .heading-img {
+      top: rem(-45px);
+    }
+
+    .item__card .item-card-body .body .reservation-code {
+      font-size: rem(16px);
+      line-height: rem(24px);
+    }
+
+    .item__card .item-card-body .body {
+      min-height: rem(1px);
+      font-size: rem(14px);
+      line-height: rem(24px);
+    }
+
+    .item__card {
+      box-shadow: 0 0 0 transparent;
+      margin-bottom: 0;
+    }
+  }
+
+  /* footer */
+  .footer-box .footer-area-box .text-panama-terms .linker-copy a {
+    font-size: rem(11px);
+  }
+
+  body .footer-box {
+    width: 100%;
+    overflow: hidden;
+
+    .footer-area-box {
+
+      .footer-brands {
+        margin: 0 auto;
+
+        .footer-brands-li {
+          width: rem(78px);
+          height: rem(54px);
+          margin: rem(0 20px);
+
+          .footer-brands-a {
+            width: rem(78px);
+            height: rem(54px);
+          }
+
+        }
+
+      }
+
+      .copyright-area {
+        font-size: rem(11px);
+        line-height: rem(14px);
+        padding: rem(0 15px);
+      }
+
+      .footer-social {
+
+        .footer-li {
+          margin: rem(0 15px);
+
+          .footer-a {
+            padding-left: rem(35px);
+            background-size: rem(22px 22px);
+            font-size: rem(12px);
+          }
+
+        }
+
+      }
+    }
+  }
+
+  /* where-to-stay-page */
+  .where-to-stay-page {
+
+    .gallery .preview-container {
+      padding: 0;
+      margin: 0;
+      height: rem(201px);
+      overflow: hidden;
+      min-height: rem(201px);
+      margin-bottom: rem(10px);
+      border-right: 0;
+      border-left: 0;
+    }
+
+  }
+
+  /* hotel-filter */
+  .hotel-filter {
+    max-width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+
+    .range-cont {
+      padding: rem(15px 0);
+      width: rem(260px);
+      max-width: rem(260px);
+
+      .first-row .price {
+        color: #707070;
+        font-size: rem(14px);
+        line-height: rem(18px);
+      }
+
+      .first-row .caret {
+        border-bottom: rem(5px solid #707070);
+        border-top: rem(5px solid transparent);
+        border-right: rem(5px solid transparent);
+        border-left: rem(5px solid transparent);
+      }
+
+      .second-row .minvalue,
+      .second-row .maxvalue {
+        font-size: rem(12px);
+        line-height: rem(16px);
+      }
+
+    }
+
+    .btn-primary {
+      width: auto;
+      height: rem(50px);
+      font-size: rem(16px);
+      line-height: rem(50px);
+      padding: rem(0 25px);
+    }
+
+    select {
+      width: 100%;
+    }
+  }
+
+  /* btn-cont */
+  .slider-item .btn-primary {
+    margin: 0rem auto !important;
+  }
+
+  .btn-primary:not(:disabled):not(.disabled):active,
+  .btn-primary:not(:disabled):not(.disabled).active,
+  .show>.btn-primary.dropdown-toggle {
+    background-color: #101010 !important;
+    color: #ffffff !important;
+  }
+
+
+  body .btn-primary.btn--yellow {
+    width: auto;
+    height: rem(50px);
+    font-size: rem(16px);
+    line-height: rem(50px);
+    padding: rem(0 25px);
+
+    &:hover {
+      background: #FFCC26 0 0 no-repeat padding-box;
+      color: #101010 !important;
+    }
+
+  }
+
+  body .btn-primary.btn--border {
+    width: auto;
+    height: rem(50px);
+    font-size: rem(16px);
+    line-height: rem(50px);
+    padding: rem(0 25px);
+  }
+
+  .btn-cont {
+    .btn-primary {
+      width: auto;
+      height: rem(50px);
+      font-size: rem(16px);
+      line-height: rem(50px);
+      padding: rem(0 25px);
+    }
+  }
+
+  /* where-to-stay-page-interna */
+  .where-to-stay-page-interna {
+
+    .fee {
+      font-size: rem(14px);
+      line-height: rem(21px);
+      padding: rem(15px 0);
+
+      .container {
+        max-width: rem(260px);
+        padding: 0;
+      }
+
+      p,
+      b,
+      strong {
+        font-size: rem(14px) !important;
+        line-height: rem(21px) !important;
+      }
+    }
+
+    .col-left.text-left {
+
+      h1 {
+        font-size: rem(35px);
+        line-height: rem(37px);
+        text-align: center;
+        width: 100%;
+      }
+
+      .py-3 {
+        font-size: rem(14px);
+        line-height: rem(21px);
+        max-width: rem(260px);
+        margin: 0 auto;
+
+        strong {
+          font-size: rem(14px);
+          line-height: rem(21px);
+        }
+
+      }
+
+    }
+  }
+
+  /* sticky-itinerary-parent */
+  .sticky-itinerary-parent {
+    /*display: none !important;*/
+  }
+
+  /*  .gallery .preview-container  */
+  .gallery .preview-container .preview-area-active .preview-area-active-title {
+    font-size: rem(21px);
+    line-height: rem(25px);
+  }
+
+  .gallery .preview-container .preview .preview-area-active .btn-see-more {
+    font-size: rem(11px);
+    line-height: rem(30px);
+    width: rem(89px);
+    height: rem(30px);
+    padding: 0;
+    text-align: center;
+  }
+
+
+  /* .page-packages-page-interna */
+  .page-packages-page-interna .text-cont .col-left h1 {
+    font-size: rem(35px);
+    line-height: rem(41px);
+  }
+
+  .page-packages-page-interna .text-cont .col-left h2 {
+    font-size: rem(16px);
+    line-height: rem(19px);
+  }
+
+  .page-packages-page-interna .text-cont .col-left h3 {
+    font-size: rem(14px);
+    line-height: rem(21px);
+  }
+
+  .page-packages-page-interna ul {
+    font-size: rem(14px);
+    line-height: rem(21px);
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  .page-packages-page-interna .text-cont .col-left {
+    padding-right: 0;
+    margin: 0 auto;
+    max-width: rem(260px);
+  }
+
+  .page-packages-page-interna ul li {
+    font-size: rem(14px);
+    line-height: rem(21px);
+  }
+
+  .page-packages-page-interna .fee {
+    font-size: rem(12px);
+    line-height: rem(21px);
+    padding: rem(15px 0);
+
+    .container {
+      max-width: rem(260px);
+      padding: 0;
+    }
+
+    p,
+    b,
+    strong {
+      font-size: rem(12px) !important;
+      line-height: rem(21px) !important;
+    }
+  }
+
+  .page-packages-page-interna .fee p span {
+    margin-left: rem(10px);
+  }
+
+  /* new footer */
+  .footer-box {
+    margin-top: 0px;
+  }
+
+  .footer-box .footer-area-box .linker-coupon {
+    font-size: rem(10px);
+  }
+
+  .footer-box .footer-area-box .text-panama-terms-btns a,
+  .footer-box .footer-area-box .linker-coupon a {
+    font-size: rem(14px) !important;
+    display: inline-block;
+    vertical-align: top;
+    width: rem(102px);
+    height: rem(48px);
+    line-height: rem(24px);
+    margin-top: rem(10px);
+  }
+
+  .footer-box .footer-area-box .text-panama-terms-btns a {
+    width: auto;
+  }
+
+  .footer-box .footer-area-box .footer-social .footer-li .footer-a {
+    width: rem(40px) !important;
+    height: rem(40px) !important;
+    background-size: rem(40px 40px) !important;
+  }
+
+  body .footer-box .footer-area-box .footer-social .footer-li {
+    margin: rem(0 35px) !important;
+  }
+
+  .footer-box .footer-area-box .text-panama {
+    font-size: rem(10px);
+    line-height: rem(15px);
+    margin-top: rem(25px);
+  }
+
+  .footer-box .footer-area-box .disclaimer-box-area .disclaimer-area {
+    font-size: rem(10px);
+    line-height: rem(15px);
+  }
+
+  .footer-box .footer-area-box .disclaimer-box-area .copyright-area {
+    font-size: rem(12px);
+    line-height: rem(15px);
+  }
+
+  body .footer-box .footer-area-box .footer-brands {
+    padding: rem(50px 0);
+  }
+
+  .footer-box .footer-area-box .footer-social {
+    padding: rem(30px 0);
+  }
+
+  /* menu-mobile-area */
+  .menu-mobile-area {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 987654;
+
+    .bm-item {
+      margin: rem(8px auto);
+    }
+
+  }
+
+  /* page-packages-page-interna */
+  .page-packages-page-interna ul.details-info {
+    li {
+      display: inline-block;
+      vert-align: top;
+      width: 100%;
+    }
+  }
+
+}

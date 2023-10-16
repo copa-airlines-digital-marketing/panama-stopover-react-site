@@ -1,0 +1,45 @@
+@import "./../../assets/styles/_rem.scss";
+
+.breadcrumbs-slug {
+  display: inline-block;
+  vertical-align: top;
+  max-width: rem(1395px);
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 0;
+  padding-right: 0;
+
+  li {
+    list-style: none;
+    margin-right: rem(5px);
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+
+    a {
+      font-size: .875rem;
+      font-family: Raleway, sans-serif;
+      color: #101010;
+      text-align: left;
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+
+      &:hover {
+        color: #101010;
+        text-decoration: underline;
+      }
+    }
+
+    span {
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      color: #195dff;
+      font-weight: bold;
+    }
+
+  }
+
+}

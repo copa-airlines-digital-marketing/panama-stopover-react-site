@@ -1,0 +1,84 @@
+{
+  "name": "copa-arlines-stopover",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/styles": "^4.11.4",
+    "@wicked_query/react-sticky": "^1.0.0-rc1",
+    "antd": "^3.26.20",
+    "autosuggest-highlight": "^3.2.0",
+    "bootstrap": "^4.6.0",
+    "classnames": "^2.3.1",
+    "express": "^4.17.1",
+    "express-force-https": "^1.0.0",
+    "formik": "^2.2.9",
+    "lodash": "^4.17.21",
+    "match-sorter": "^6.3.1",
+    "popmotion": "^8.7.6",
+    "rc-banner-anim": "^2.4.5",
+    "react": "^16.14.0",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-burger-menu": "^2.9.2",
+    "react-dates": "^21.8.0",
+    "react-device-detect": "^1.9.10",
+    "react-dom": "^16.14.0",
+    "react-input-range": "^1.3.0",
+    "react-localize-redux": "^3.5.3",
+    "react-pose": "^4.0.10",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^1.2.2",
+    "react-scripts": "3.2.0",
+    "react-slick": "^0.25.2",
+    "react-video-markers": "^1.1.4",
+    "read-more-react": "^1.0.10",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "slick-carousel": "^1.8.1",
+    "universal-cookie": "^4.0.4",
+    "video-react": "^0.14.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "seed:translations": "node seed-translations.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^22.1.3",
+    "@types/node": "^9.6.61",
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "16.0.4",
+    "@types/react-router": "^4.0.24",
+    "html-webpack-plugin": "^3.2.0",
+    "lorem-ipsum": "^1.0.4",
+    "react-google-maps": "^9.4.5",
+    "react-localize-redux": "^3.5.3",
+    "react-simple-maps": "^1.0.0",
+    "sass": "^1.68.0",
+    "sass-loader": "^13.3.2",
+    "semantic-ui-react": "^0.88.2",
+    "typescript": "^3.2.1",
+    "write-json-file": "^2.3.0"
+  }
+}

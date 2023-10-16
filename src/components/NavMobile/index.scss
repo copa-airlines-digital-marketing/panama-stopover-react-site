@@ -1,0 +1,134 @@
+@import "./../../assets/styles/_rem.scss";
+
+/* nav-mobile */
+/*-------------------------------------------------------------------------------------------------------------------*/
+.bm-burger-button {
+    display: none;
+    right: rem(36px) !important;
+    left: inherit !important;
+    top: rem(73px) !important;
+}
+
+#page-wrap {
+    text-align: center;
+
+    /* Prevent sidebar from showing a scrollbar on page */
+    overflow: auto;
+}
+
+/* Individual item */
+.bm-item {
+    display: inline-block;
+
+    /* Our sidebar item styling */
+    text-decoration: none;
+    margin-bottom: rem(10px);
+    color: #ffffff;
+    transition: color 0.2s;
+}
+
+/* Change color on hover */
+.bm-item:hover {
+    color: #d1d1d1;
+}
+
+/* The rest copied directly from react-burger-menu docs */
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: rem(36px);
+    height: rem(30px);
+    left: rem(36px);
+    top: rem(36px);
+
+    background-image: url("./../../assets/img/nav/i-nav.png") !important;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    text-indent: -99999px;
+    background-size: contain;
+
+    span {
+        visibility: hidden;
+    }
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+    background: #373a47;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+    height: rem(24px);
+    width: rem(24px);
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+    background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+    background-image: linear-gradient(#163C95, #195DFF);
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+    fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+    color: #b8b7ad;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.bm-menu-wrap {
+    background-image: linear-gradient(#163C95, #195DFF);
+    min-width: rem(375px);
+}
+
+.bm-item-list {
+    color: #b8b7ad;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bm-item {
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none !important;
+    transition: color 0.2s;
+    font-size: rem(12px);
+    font-weight: bold;
+    line-height: rem(20px);
+    margin: rem(20px auto);
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    border-bottom: 2px solid #FFCC26;
+}
+
+.bm-cross-button {
+    background-image: url("./../../assets/img/nav/i-close.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    text-indent: -99999px;
+    background-size: contain;
+    right: rem(25px);
+    top: rem(25px);
+}
+
+@media (max-width: 767px) {
+
+    .bm-burger-button {
+        display: block;
+    }
+}

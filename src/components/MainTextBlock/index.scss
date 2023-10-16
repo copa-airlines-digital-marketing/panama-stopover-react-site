@@ -1,0 +1,80 @@
+@import "../../assets/styles/_rem.scss";
+
+.main-title-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 927px;
+  margin: 0 auto;
+  padding-bottom: 3em;
+
+  .title {
+    font-size: rem(50px);
+    font-family: "Raleway";
+    font-weight: 800;
+  }
+
+  .subtitle-cont {
+    text-align: center;
+
+    .subtitle {
+      font-size: rem(25px);
+      font-family: "Raleway";
+    }
+
+    a {
+      display: none;
+    }
+  }
+
+  .thirdtitle,
+  .disclaimer {
+    font-size: rem(25px);
+    font-family: "Raleway";
+    text-align: center;
+  }
+
+  .disclaimer {
+    max-width: 660px;
+    font-size: rem(25px);
+    font-family: "Raleway";
+    margin-top: 30px;
+    text-align: center;
+
+    a {
+      color: #262626;
+    }
+  }
+
+  &.wseemore {
+    align-items: flex-start;
+    max-width: 100%;
+
+    .subtitle-cont {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+
+      a {
+        margin: 0;
+        width: 144px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: rem(11px);
+        padding: 0;
+
+        @media (max-width: 480px) {
+          margin-top: 1em;
+        }
+      }
+
+      @media (max-width: 480px) {
+        flex-direction: column;
+      }
+    }
+  }
+}

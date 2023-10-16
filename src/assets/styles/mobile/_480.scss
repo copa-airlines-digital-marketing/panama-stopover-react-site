@@ -1,0 +1,35 @@
+@media (max-width: 580px) {
+  html {
+    font-size: 20px;
+  }
+
+  .list-of-item-panama {
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+
+  .banner-user {
+    min-height: rem(480px);
+  }
+
+  .footer-box .footer-area-box .text-panama-terms {
+    padding: rem(35px 40px);
+    font-size: rem(12px);
+    line-height: rem(18px);
+  }
+
+  .footer-box .footer-area-box .text-panama-terms-btns {
+    padding: rem(35px 20px);
+  }
+
+  .footer-box .footer-area-box .disclaimer-box-area .disclaimer-area {
+    padding: rem(15px 20px 55px);
+  }
+
+  .footer-box .footer-area-box .text-panama-terms-btns a,
+  .footer-box .footer-area-box .linker-coupon {
+    font-size: rem(11px);
+  }
+
+}

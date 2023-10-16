@@ -1,0 +1,65 @@
+@media (max-width: 375px) {
+  html {
+    font-size: 16px;
+  }
+
+  .crea-tu-itinerario-list-box .itinerario-tour-box h1.itinerario-tour-box-title, .crea-tu-itinerario-list-box .crea-tu-itinerario-area h1.iti-title {
+    padding: rem(0 25px) !important;
+  }
+
+  .menu-mobile-area {
+
+    .bm-item {
+      margin: rem(15px auto);
+    }
+
+  }
+
+  .breadcrumbs {
+    font-size: rem(10px);
+    max-width: rem(260px);
+    margin: 0 auto;
+    padding: 0;
+
+    li a,
+    li strong,
+    li span {
+      font-size: rem(10px);
+    }
+
+  }
+
+}
+
+@media (max-width: 320px) {
+  html {
+    font-size: 14px;
+  }
+
+  .container {
+    max-width: 320px;
+  }
+
+  .crea-tu-itinerario-list-box .crea-tu-itinerario-items .crea-tu-itinerario-item .left-itinerario-item {
+    max-width: 300px;
+  }
+
+  .conoce-panama-box-in-home .conoce-panama-cards-page-list {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .header-box .primary-nav .navs-area .language-box li button .caret {
+    position: relative;
+    display: none !important;
+  }
+
+  .horizontal-list-container {
+    margin: 0 auto 0.4rem;
+  }
+
+  .map {
+    margin: 0 auto;
+  }
+
+}

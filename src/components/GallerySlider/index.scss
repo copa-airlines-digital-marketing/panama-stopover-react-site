@@ -1,0 +1,163 @@
+@import '../../assets/styles/rem';
+
+.gallery-slider {
+    overflow: hidden;
+    padding: rem(40px 0);
+
+    .slick-dots {
+        position: relative;
+        bottom: 0;
+        margin-top: rem(20px);
+
+        li {
+            position: relative;
+            display: inline-block;
+            width: rem(10px);
+            height: rem(10px);
+            margin: rem(0 7px);
+            padding: 0;
+            cursor: pointer;
+
+            button {
+                width: rem(10px);
+                height: rem(10px);
+                background: transparent;
+                border: 1px solid #000;
+                border-radius: 100%;
+                text-indent: -999999px;
+            }
+
+            &.slick-active {
+                button {
+                    background: #000;
+                    border: 1px solid #000;
+                }
+            }
+
+        }
+    }
+
+    .gallery-slider-item {
+        border-radius: rem(16px);
+        padding: rem(0 8px);
+
+        a {
+            text-decoration: none;
+            color: #FFCC26;
+
+            &:hover {
+                text-decoration: none;
+
+                h3, h1 {
+                    color: #FFCC26;
+                }
+            }
+        }
+
+        .gallery-slider-image {
+            background-image: url("./../../assets/img/loader.gif");
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-color: #f2f2f2;
+            border-radius: rem(16px);
+            display: block;
+            width: 100%;
+            max-height: rem(768px);
+            position: relative;
+            z-index: 1;
+            overflow: hidden;
+
+            .child {
+                height: 100%;
+                width: 100%;
+                background-size: cover;
+                background-repeat: no-repeat;
+                position: absolute;
+                z-index: 987;
+                top: 0;
+                left: 0;
+                cursor: default;
+
+                -webkit-transition: all 0.5s ease-in-out;
+                -moz-transition: all 0.5s ease-in-out;
+                -o-transition: all 0.5s ease-in-out;
+                transition: all 0.5s ease-in-out;
+            }
+
+            &:hover .child, &:focus .child {
+                -ms-transform: scale(1.1);
+                -moz-transform: scale(1.1);
+                -webkit-transform: scale(1.1);
+                -o-transform: scale(1.1);
+                transform: scale(1.1);
+            }
+
+            &:hover .child:before, &:focus .child:before {
+                display: block;
+            }
+
+            &:hover a, &:focus a {
+                display: block;
+            }
+
+            .child:before {
+                content: "";
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                background-color: rgba(0, 0, 0, 0.15);
+            }
+
+            img {
+                width: 100%;
+            }
+
+        }
+
+        .gallery-slider-item-data {
+            position: absolute;
+            z-index: 987;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            display: block;
+            overflow: hidden;
+            text-align: left;
+
+            h3 {
+                padding-left: rem(118px);
+                text-align: left;
+                padding-bottom: rem(0);
+                font-family: Raleway, sans-serif;
+                font-weight: 500;
+                font-size: rem(18px);
+                line-height: rem(26px);
+                letter-spacing: 0;
+                color: #F2F2F2;
+                text-transform: uppercase;
+                opacity: 1;
+                text-decoration: none;
+            }
+
+            h1 {
+                padding-left: rem(118px);
+                text-align: left;
+                padding-bottom: rem(35px);
+                font-family: Raleway, sans-serif;
+                font-weight: 700;
+                font-size: rem(30px);
+                line-height: rem(35px);
+                letter-spacing: 0;
+                color: #F2F2F2;
+                opacity: 1;
+                text-decoration: none;
+            }
+
+        }
+
+    }
+
+}

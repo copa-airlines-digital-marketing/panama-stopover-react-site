@@ -1,0 +1,9000 @@
+import imgKnowPanamaHeroDesk from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_1920x730.jpg";
+import imgKnowPanamaHeroMob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_768x557.jpg";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////CULTURE
+import imgCultureHero0 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_1920x730.jpg";
+import imgCultureHero0Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_768x557.jpg";
+import imgCultureImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_001.jpg";
+import imgCultureImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_001.jpg";
+
+//CULTURE_1
+import imgCultureHero1 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_01ruinas_1920x730.jpg";
+import imgCultureHero1Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_01ruinas_768x557.jpg";
+import imgCultureList1 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_01_ruinas_1920x450.jpg";
+import imgCultureList1Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_01_ruinas_768x412.jpg";
+
+import imgCultureGallery1_1 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_galeria01_1088x690.jpg";
+import imgCultureGallery1_1Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_galeria01_768x816.jpg";
+
+import imgCultureGallery1_2 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_galeria02_1088x690.jpg";
+import imgCultureGallery1_2Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_galeria02_768x816.jpg";
+
+import imgCultureGallery1_3 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_galeria03_1088x690.jpg";
+import imgCultureGallery1_3Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_galeria03_768x816.jpg";
+
+import imgCultureGallery1_4 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_galeria04_1088x690.jpg";
+import imgCultureGallery1_4Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_galeria04_768x816.jpg";
+
+/*
+import imgCultureGallery1_5
+  from 'assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_galeria05_1088x690.jpg';
+import imgCultureGallery1_5Mob
+  from 'assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_galeria05_768x816.jpg';
+*/
+
+import imgCultureKnow1 from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_01ruinas_sabias_358x358.jpg";
+import imgCultureKnow1Mob from "assets/img/know-panama/culture/01_Ruinas_de_Panama_La_Vieja/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_01ruinas_sabias_768x768.jpg";
+
+//CULTURE_2
+import imgCultureHero2 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_02catedral_1920x730.jpg";
+import imgCultureHero2Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_02catedral_768x557.jpg";
+import imgCultureList2 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_02_santamaria_1920x450.jpg";
+import imgCultureList2Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_02_santamaria_768x412.jpg";
+
+import imgCultureGallery2_1 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria01_1088x690.jpg";
+import imgCultureGallery2_1Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria01_768x816.jpg";
+
+import imgCultureGallery2_2 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria02_1088x690.jpg";
+import imgCultureGallery2_2Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria02_768x816.jpg";
+
+import imgCultureGallery2_3 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria03_1088x690.jpg";
+import imgCultureGallery2_3Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria03_768x816.jpg";
+
+import imgCultureGallery2_4 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria04_1088x690.jpg";
+import imgCultureGallery2_4Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria04_768x816.jpg";
+
+import imgCultureGallery2_5 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria05_1088x690.jpg";
+import imgCultureGallery2_5Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria05_768x816.jpg";
+
+import imgCultureKnow2 from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_sabias_358x358.jpg";
+import imgCultureKnow2Mob from "assets/img/know-panama/culture/02_Catedral_Santa_Maria/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_sabias_768x768.jpg";
+
+//CULTURE_3
+import imgCultureHero3 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_03plaza_1920x730.jpg";
+import imgCultureHero3Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_03plaza_768x557.jpg";
+import imgCultureList3 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_03_catedral_1920x450.jpg";
+import imgCultureList3Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_03_catedral_768x412.jpg";
+
+import imgCultureGallery3_1 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_galeria01_1088x690.jpg";
+import imgCultureGallery3_1Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_galeria01_768x816.jpg";
+
+import imgCultureGallery3_2 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_galeria02_1088x690.jpg";
+import imgCultureGallery3_2Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_galeria02_768x816.jpg";
+
+import imgCultureGallery3_3 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_galeria03_1088x690.jpg";
+import imgCultureGallery3_3Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_galeria03_768x816.jpg";
+
+/*
+import imgCultureGallery3_4
+  from 'assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_galeria04_1088x690.jpg';
+import imgCultureGallery3_4Mob
+  from 'assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_galeria04_768x816.jpg';
+*/
+
+import imgCultureGallery3_5 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_galeria05_1088x690.jpg";
+import imgCultureGallery3_5Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_galeria05_768x816.jpg";
+
+import imgCultureKnow3 from "assets/img/know-panama/culture/03_Plaza_Catedral/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_03plaza_sabias_358x358.jpg";
+import imgCultureKnow3Mob from "assets/img/know-panama/culture/03_Plaza_Catedral/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_03plaza_sabias_768x768.jpg";
+
+//CULTURE_4
+import imgCultureHero4 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_04merced_1920x730.jpg";
+import imgCultureHero4Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_04merced_768x557.jpg";
+import imgCultureList4 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_04_lamerced_1920x450.jpg";
+import imgCultureList4Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_04_lamerced_768x412.jpg";
+
+import imgCultureGallery4_1 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_galeria01_1088x690.jpg";
+import imgCultureGallery4_1Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_galeria01_768x816.jpg";
+
+import imgCultureGallery4_2 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_galeria02_1088x690.jpg";
+import imgCultureGallery4_2Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_galeria02_768x816.jpg";
+
+import imgCultureGallery4_3 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_galeria03_1088x690.jpg";
+import imgCultureGallery4_3Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_galeria03_768x816.jpg";
+
+import imgCultureGallery4_4 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_galeria04_1088x690.jpg";
+import imgCultureGallery4_4Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_galeria04_768x816.jpg";
+
+import imgCultureGallery4_5 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_galeria05_1088x690.jpg";
+import imgCultureGallery4_5Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_galeria05_768x816.jpg";
+
+import imgCultureKnow4 from "assets/img/know-panama/culture/04_Iglesia_La_Merced/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_04merced_sabias_358x358.jpg";
+import imgCultureKnow4Mob from "assets/img/know-panama/culture/04_Iglesia_La_Merced/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_04merced_sabias_768x768.jpg";
+
+//CULTURE_5
+import imgCultureHero5 from "assets/img/know-panama/culture/05_Palacio_Las_Garzas/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_05palacio_1920x730.jpg";
+import imgCultureHero5Mob from "assets/img/know-panama/culture/05_Palacio_Las_Garzas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_05palacio_768x557.jpg";
+import imgCultureList5 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_05_palacio_1920x450.jpg";
+import imgCultureList5Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_05_palacio_768x412.jpg";
+
+//CULTURE_6
+import imgCultureHero6 from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_06herrera_1920x730.jpg";
+import imgCultureHero6Mob from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_06herrera_768x557.jpg";
+import imgCultureList6 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_06_herrera_1920x450.jpg";
+import imgCultureList6Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_06_herrera_768x412.jpg";
+
+import imgCultureGallery6_1 from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_06herrera_galeria01_1088x690.jpg";
+import imgCultureGallery6_1Mob from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_06herrera_galeria01_768x816.jpg";
+import imgCultureGallery6_2 from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_06herrera_galeria02_1088x690.jpg";
+import imgCultureGallery6_2Mob from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_06herrera_galeria02_768x816.jpg";
+import imgCultureGallery6_3 from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_06herrera_galeria03_1088x690.jpg";
+import imgCultureGallery6_3Mob from "assets/img/know-panama/culture/06_Plaza_Tomas_Herrera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_06herrera_galeria03_768x816.jpg";
+
+//CULTURE_7
+import imgCultureHero7 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_07teatro_1920x730.jpg";
+import imgCultureHero7Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_07teatro_768x557.jpg";
+import imgCultureList7 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_07_teatro_1920x450.jpg";
+import imgCultureList7Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_07_teatro_768x412.jpg";
+
+import imgCultureGallery7_1 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_02catedral_galeria01_1088x690.jpg";
+import imgCultureGallery7_1Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_02catedral_galeria01_768x816.jpg";
+import imgCultureGallery7_2 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_07teatro_galeria02_1088x690.jpg";
+import imgCultureGallery7_2Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_07teatro_galeria02_768x816.jpg";
+import imgCultureGallery7_3 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_07teatro_galeria03_1088x690.jpg";
+import imgCultureGallery7_3Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_07teatro_galeria03_768x816.jpg";
+import imgCultureGallery7_4 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_07teatro_galeria04_1088x690.jpg";
+import imgCultureGallery7_4Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_07teatro_galeria04_768x816.jpg";
+import imgCultureGallery7_5 from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_07teatro_galeria05_1088x690.jpg";
+import imgCultureGallery7_5Mob from "assets/img/know-panama/culture/07_Teatro_Nacional_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_07teatro_galeria05_768x816.jpg";
+
+//CULTURE_8
+import imgCultureHero8 from "assets/img/know-panama/culture/08_Plaza_Bolivar/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_08bolivar_1920x730.jpg";
+import imgCultureHero8Mob from "assets/img/know-panama/culture/08_Plaza_Bolivar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_08bolivar_768x557.jpg";
+import imgCultureList8 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_08_bolivar_1920x450.jpg";
+import imgCultureList8Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_08_bolivar_768x412.jpg";
+
+import imgCultureGallery8_1 from "assets/img/know-panama/culture/08_Plaza_Bolivar/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_08bolivar_galeria01_1088x690.jpg";
+import imgCultureGallery8_1Mob from "assets/img/know-panama/culture/08_Plaza_Bolivar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_08bolivar_galeria01_768x816.jpg";
+
+import imgCultureGallery8_2 from "assets/img/know-panama/culture/08_Plaza_Bolivar/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_08bolivar_galeria02_1088x690.jpg";
+import imgCultureGallery8_2Mob from "assets/img/know-panama/culture/08_Plaza_Bolivar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_08bolivar_galeria02_768x816.jpg";
+
+//CULTURE_9
+import imgCultureHero9 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_09festival_1920x730.jpg";
+import imgCultureHero9Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_09festival_768x557.jpg";
+import imgCultureList9 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_09_festivales_1920x450.jpg";
+import imgCultureList9Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_09_festivales_768x412.jpg";
+
+import imgCultureGallery9_1 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_09festival_galeria01_1088x690.jpg";
+import imgCultureGallery9_1Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_09festival_galeria01_768x816.jpg";
+
+import imgCultureGallery9_2 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_09festival_galeria02_1088x690.jpg";
+import imgCultureGallery9_2Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_09festival_galeria02_768x816.jpg";
+
+import imgCultureGallery9_3 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_09festival_galeria03_1088x690.jpg";
+import imgCultureGallery9_3Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_09festival_galeria03_768x816.jpg";
+
+import imgCultureGallery9_4 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_09festival_galeria04_1088x690.jpg";
+import imgCultureGallery9_4Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_09festival_galeria04_768x816.jpg";
+
+import imgCultureGallery9_5 from "assets/img/know-panama/culture/09_Festivales_Nacionales/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_09festival_galeria05_1088x690.jpg";
+import imgCultureGallery9_5Mob from "assets/img/know-panama/culture/09_Festivales_Nacionales/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_09festival_galeria05_768x816.jpg";
+
+//CULTURE_10
+import imgCultureHero10 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_010museos_1920x730.jpg";
+import imgCultureHero10Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_010museos_768x557.jpg";
+import imgCultureList10 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_010_museos_1920x450.jpg";
+import imgCultureList10Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_010_museos_768x412.jpg";
+
+import imgCultureGallery10_1 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_010museos_galeria01_1088x690.jpg";
+import imgCultureGallery10_1Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_010museos_galeria01_768x816.jpg";
+
+import imgCultureGallery10_2 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_010museos_galeria02_1088x690.jpg";
+import imgCultureGallery10_2Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_010museos_galeria02_768x816.jpg";
+
+import imgCultureGallery10_3 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_010museos_galeria03_1088x690.jpg";
+import imgCultureGallery10_3Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_010museos_galeria03_768x816.jpg";
+
+import imgCultureGallery10_4 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_010museos_galeria04_1088x690.jpg";
+import imgCultureGallery10_4Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_010museos_galeria04_768x816.jpg";
+
+import imgCultureGallery10_5 from "assets/img/know-panama/culture/10_Museos/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_010museos_galeria05_1088x690.jpg";
+import imgCultureGallery10_5Mob from "assets/img/know-panama/culture/10_Museos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_010museos_galeria05_768x816.jpg";
+
+//CULTURE_11
+import imgCultureHero11 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_cultura_011casco_1920x730.jpg";
+import imgCultureHero11Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_cultura_011casco_768x557.jpg";
+import imgCultureList11 from "assets/img/know-panama/culture/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_listado_011_cascoantiguo_1920x450.jpg";
+import imgCultureList11Mob from "assets/img/know-panama/culture/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_listado_011_cascoantiguo_768x412.jpg";
+
+import imgCultureGallery11_1 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_galeria01_1088x690.jpg";
+import imgCultureGallery11_1Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_galeria01_768x816.jpg";
+
+import imgCultureGallery11_2 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_galeria02_1088x690.jpg";
+import imgCultureGallery11_2Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_galeria02_768x816.jpg";
+
+import imgCultureGallery11_3 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_galeria03_1088x690.jpg";
+import imgCultureGallery11_3Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_galeria03_768x816.jpg";
+
+import imgCultureGallery11_4 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_galeria04_1088x690.jpg";
+import imgCultureGallery11_4Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_galeria04_768x816.jpg";
+
+import imgCultureGallery11_5 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_galeria05_1088x690.jpg";
+import imgCultureGallery11_5Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_galeria05_768x816.jpg";
+
+import imgCultureKnow11 from "assets/img/know-panama/culture/11_Casco_Antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_cultura_011casco_sabias_358x358.jpg";
+import imgCultureKnow11Mob from "assets/img/know-panama/culture/11_Casco_Antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_cultura_011casco_sabias_768x768.jpg";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////BEACHES
+import imgBeachesHero0 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_1920x730.jpg";
+import imgBeachesHero0Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_768x557.jpg";
+import imgBeachesImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_002.jpg";
+import imgBeachesImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_002.jpg";
+
+//BEACHES_1
+import imgBeachesHero1 from "assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_01sanblas_1920x730.jpg";
+import imgBeachesHero1Mob from "assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_01sanblas_768x557.jpg";
+import imgBeachesList1 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_01_sanblas_1920x450.jpg";
+import imgBeachesList1Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_01_sanblas_768x412.jpg";
+
+import imgBeachesGallery1_1 from "assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_galeria01_1088x690.jpg";
+import imgBeachesGallery1_1Mob from "assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_galeria01_768x816.jpg";
+
+import imgBeachesGallery1_2 from "assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_galeria02_1088x690.jpg";
+import imgBeachesGallery1_2Mob from "assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_galeria02_768x816.jpg";
+
+import imgBeachesGallery1_3 from "assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_galeria03_1088x690.jpg";
+import imgBeachesGallery1_3Mob from "assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_galeria03_768x816.jpg";
+
+/*
+import imgBeachesGallery1_4
+  from 'assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_galeria04_1088x690.jpg';
+import imgBeachesGallery1_4Mob
+  from 'assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_galeria04_768x816.jpg';
+
+import imgBeachesGallery1_5
+  from 'assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_galeria05_1088x690.jpg';
+import imgBeachesGallery1_5Mob
+  from 'assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_galeria05_768x816.jpg';
+*/
+
+import imgBeachesKnow1 from "assets/img/know-panama/beaches/01_San_Blas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_01sanblas_sabias_358x358.jpg";
+import imgBeachesKnow1Mob from "assets/img/know-panama/beaches/01_San_Blas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_01sanblas_sabias_768x768.jpg";
+
+//BEACHES_2
+import imgBeachesHero2 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_02bastimentos_1920x730.jpg";
+import imgBeachesHero2Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_02bastimentos_768x557.jpg";
+import imgBeachesList2 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_02_bastimentos_1920x450.jpg";
+import imgBeachesList2Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_02_bastimentos_768x412.jpg";
+
+import imgBeachesGallery2_1 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_galeria01_1088x690.jpg";
+import imgBeachesGallery2_1Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_galeria01_768x816.jpg";
+
+import imgBeachesGallery2_2 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_galeria02_1088x690.jpg";
+import imgBeachesGallery2_2Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_galeria02_768x816.jpg";
+
+import imgBeachesGallery2_3 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_galeria03_1088x690.jpg";
+import imgBeachesGallery2_3Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_galeria03_768x816.jpg";
+
+import imgBeachesGallery2_4 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_galeria04_1088x690.jpg";
+import imgBeachesGallery2_4Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_galeria04_768x816.jpg";
+
+import imgBeachesGallery2_5 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_galeria05_1088x690.jpg";
+import imgBeachesGallery2_5Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_galeria05_768x816.jpg";
+
+import imgBeachesKnow2 from "assets/img/know-panama/beaches/02_Isla_Bastimentos/CPA.1068_stopover_microsite_desktop_conocepanama_playas_02bastimentos_sabias_358x358.jpg";
+import imgBeachesKnow2Mob from "assets/img/know-panama/beaches/02_Isla_Bastimentos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_02bastimentos_sabias_768x768.jpg";
+
+//BEACHES_3
+import imgBeachesHero3 from "assets/img/know-panama/beaches/03_Santa_Catalina/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_03catalina_1920x730.jpg";
+import imgBeachesHero3Mob from "assets/img/know-panama/beaches/03_Santa_Catalina/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_03catalina_768x557.jpg";
+import imgBeachesList3 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_03_santacatalina_1920x450.jpg";
+import imgBeachesList3Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_03_santacatalina_768x412.jpg";
+
+//BEACHES_4
+import imgBeachesHero4 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_04venao_1920x730.jpg";
+import imgBeachesHero4Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_04venao_768x557.jpg";
+import imgBeachesList4 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_04_venao_1920x450.jpg";
+import imgBeachesList4Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_04_venao_768x412.jpg";
+
+import imgBeachesGallery4_1 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_galeria01_1088x690.jpg";
+import imgBeachesGallery4_1Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_galeria01_768x816.jpg";
+
+import imgBeachesGallery4_2 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_galeria02_1088x690.jpg";
+import imgBeachesGallery4_2Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_galeria02_768x816.jpg";
+
+import imgBeachesGallery4_3 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_galeria03_1088x690.jpg";
+import imgBeachesGallery4_3Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_galeria03_768x816.jpg";
+
+import imgBeachesGallery4_4 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_galeria04_1088x690.jpg";
+import imgBeachesGallery4_4Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_galeria04_768x816.jpg";
+
+import imgBeachesGallery4_5 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_galeria05_1088x690.jpg";
+import imgBeachesGallery4_5Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_galeria05_768x816.jpg";
+
+import imgBeachesKnow4 from "assets/img/know-panama/beaches/04_Playa_Venao/CPA.1068_stopover_microsite_desktop_conocepanama_playas_04venao_sabias_358x358.jpg";
+import imgBeachesKnow4Mob from "assets/img/know-panama/beaches/04_Playa_Venao/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_04venao_sabias_768x768.jpg";
+
+//BEACHES_5
+import imgBeachesHero5 from "assets/img/know-panama/beaches/05_Isla_Grande/CPA_1920x450.jpg";
+import imgBeachesHero5Mob from "assets/img/know-panama/beaches/05_Isla_Grande/mob/CPA_768x412.jpg";
+import imgBeachesList5 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_05_islagrande_1920x450.jpg";
+import imgBeachesList5Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_05_islagrande_768x412.jpg";
+
+//BEACHES_6
+import imgBeachesHero6 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_06palmar_1920x730.jpg";
+import imgBeachesHero6Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_06palmar_768x557.jpg";
+import imgBeachesList6 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_06_elpalmar_1920x450.jpg";
+import imgBeachesList6Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_06_elpalmar_768x412.jpg";
+
+import imgBeachesGallery6_1 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_playas_06palmar_galeria01_1088x690.jpg";
+import imgBeachesGallery6_1Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_06palmar_galeria01_768x816.jpg";
+
+import imgBeachesGallery6_2 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_playas_06palmar_galeria02_1088x690.jpg";
+import imgBeachesGallery6_2Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_06palmar_galeria02_768x816.jpg";
+
+import imgBeachesGallery6_3 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_playas_06palmar_galeria03_1088x690.jpg";
+import imgBeachesGallery6_3Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_06palmar_galeria03_768x816.jpg";
+
+import imgBeachesGallery6_4 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_playas_06palmar_galeria04_1088x690.jpg";
+import imgBeachesGallery6_4Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_06palmar_galeria04_768x816.jpg";
+
+import imgBeachesKnow6 from "assets/img/know-panama/beaches/06_El_Palmar/CPA.1068_stopover_microsite_desktop_conocepanama_playas_06palmar_sabias_358x358.jpg";
+import imgBeachesKnow6Mob from "assets/img/know-panama/beaches/06_El_Palmar/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_06palmar_sabias_768x768.jpg";
+
+//BEACHES_7
+import imgBeachesHero7 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_07perlas_1920x730.jpg";
+import imgBeachesHero7Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_07perlas_768x557.jpg";
+import imgBeachesList7 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_07_perlas_1920x450.jpg";
+import imgBeachesList7Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_07_perlas_768x412.jpg";
+
+import imgBeachesGallery7_1 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_galeria01_1088x690.jpg";
+import imgBeachesGallery7_1Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_galeria01_768x816.jpg";
+
+import imgBeachesGallery7_2 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_galeria02_1088x690.jpg";
+import imgBeachesGallery7_2Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_galeria02_768x816.jpg";
+
+import imgBeachesGallery7_3 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_galeria03_1088x690.jpg";
+import imgBeachesGallery7_3Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_galeria03_768x816.jpg";
+
+import imgBeachesGallery7_4 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_galeria04_1088x690.jpg";
+import imgBeachesGallery7_4Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_galeria04_768x816.jpg";
+
+import imgBeachesGallery7_5 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_galeria05_1088x690.jpg";
+import imgBeachesGallery7_5Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_galeria05_768x816.jpg";
+
+import imgBeachesKnow7 from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/CPA.1068_stopover_microsite_desktop_conocepanama_playas_07perlas_sabias_358x358.jpg";
+import imgBeachesKnow7Mob from "assets/img/know-panama/beaches/07_Archipielago_Las_Perlas/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_07perlas_sabias_768x768.jpg";
+
+//BEACHES_8
+import imgBeachesHero8 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_08_contadora_1920x730.jpg";
+import imgBeachesHero8Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_08_contadora_768x557.jpg";
+import imgBeachesList8 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_08_contadora_1920x450.jpg";
+import imgBeachesList8Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_08_contadora_768x412.jpg";
+
+import imgBeachesGallery8_1 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_galeria01_1088x690.jpg";
+import imgBeachesGallery8_1Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_galeria01_768x816.jpg";
+
+import imgBeachesGallery8_2 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_galeria02_1088x690.jpg";
+import imgBeachesGallery8_2Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_galeria02_768x816.jpg";
+
+import imgBeachesGallery8_3 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_galeria03_1088x690.jpg";
+import imgBeachesGallery8_3Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_galeria03_768x816.jpg";
+
+import imgBeachesGallery8_4 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_galeria04_1088x690.jpg";
+import imgBeachesGallery8_4Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_galeria04_768x816.jpg";
+
+import imgBeachesGallery8_5 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_galeria05_1088x690.jpg";
+import imgBeachesGallery8_5Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_galeria05_768x816.jpg";
+
+import imgBeachesKnow8 from "assets/img/know-panama/beaches/08_Isla_Contadora/CPA.1068_stopover_microsite_desktop_conocepanama_playas_08_contadora_sabias_358x358.jpg";
+import imgBeachesKnow8Mob from "assets/img/know-panama/beaches/08_Isla_Contadora/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_08_contadora_sabias_768x768.jpg";
+
+//BEACHES_9
+import imgBeachesHero9 from "assets/img/know-panama/beaches/09_Punta_Chame/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_09_chame_768x557.jpg";
+import imgBeachesHero9Mob from "assets/img/know-panama/beaches/09_Punta_Chame/mob/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_09_chame_1920x730.jpg";
+import imgBeachesList9 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_09_puntachame_1920x450.jpg";
+import imgBeachesList9Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_09_puntachame_768x412.jpg";
+
+//BEACHES_10
+import imgBeachesHero10 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_010_taboga_1920x730.jpg";
+import imgBeachesHero10Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_010_taboga_768x557.jpg";
+import imgBeachesList10 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_010_taboga_1920x450.jpg";
+import imgBeachesList10Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_010_taboga_768x412.jpg";
+
+import imgBeachesGallery10_1 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_galeria01_1088x690.jpg";
+import imgBeachesGallery10_1Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_galeria01_768x816.jpg";
+
+import imgBeachesGallery10_2 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_galeria02_1088x690.jpg";
+import imgBeachesGallery10_2Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_galeria02_768x816.jpg";
+
+import imgBeachesGallery10_3 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_galeria03_1088x690.jpg";
+import imgBeachesGallery10_3Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_galeria03_768x816.jpg";
+
+import imgBeachesGallery10_4 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_galeria04_1088x690.jpg";
+import imgBeachesGallery10_4Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_galeria04_768x816.jpg";
+
+import imgBeachesGallery10_5 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_galeria05_1088x690.jpg";
+import imgBeachesGallery10_5Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_galeria05_768x816.jpg";
+
+import imgBeachesKnow10 from "assets/img/know-panama/beaches/10_Taboga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_010_taboga_sabias_358x358.jpg";
+import imgBeachesKnow10Mob from "assets/img/know-panama/beaches/10_Taboga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_010_taboga_sabias_768x768.jpg";
+
+//BEACHES_11
+import imgBeachesHero11 from "assets/img/know-panama/beaches/11_Isla_Tortuga/CPA_1920x450.jpg";
+import imgBeachesHero11Mob from "assets/img/know-panama/beaches/11_Isla_Tortuga/mob/CPA_768x412.jpg";
+import imgBeachesList11 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_011_tortuga_1920x450.jpg";
+import imgBeachesList11Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_011_tortuga_768x412.jpg";
+
+import imgBeachesGallery11_1 from "assets/img/know-panama/beaches/11_Isla_Tortuga/CPA.1068_stopover_microsite_desktop_conocepanama_playas_011tortuga_galeria01_1088x690.jpg";
+import imgBeachesGallery11_1Mob from "assets/img/know-panama/beaches/11_Isla_Tortuga/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_011tortuga_galeria01_768x816.jpg";
+
+//BEACHES_12
+import imgBeachesHero12 from "assets/img/know-panama/beaches/12_Bahia_Pina/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_012_bahia_1920x730.jpg";
+import imgBeachesHero12Mob from "assets/img/know-panama/beaches/12_Bahia_Pina/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_012_bahia_768x557.jpg";
+import imgBeachesList12 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_012_bahia_1920x450.jpg";
+import imgBeachesList12Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_012_bahia_768x412.jpg";
+
+//BEACHES_13
+import imgBeachesHero13 from "assets/img/know-panama/beaches/13_Isla_Iguana/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_playas_013_iguana_1920x730.jpg";
+import imgBeachesHero13Mob from "assets/img/know-panama/beaches/13_Isla_Iguana/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_playas_013_iguana_768x557.jpg";
+import imgBeachesList13 from "assets/img/know-panama/beaches/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_playas_listado_013_iguana_1920x450.jpg";
+import imgBeachesList13Mob from "assets/img/know-panama/beaches/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_listado_013_iguana_768x412.jpg";
+
+import imgBeachesGallery13_1 from "assets/img/know-panama/beaches/13_Isla_Iguana/CPA.1068_stopover_microsite_desktop_conocepanama_playas_013_iguana_galeria01_1088x690.jpg";
+import imgBeachesGallery13_1Mob from "assets/img/know-panama/beaches/13_Isla_Iguana/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_013_iguana_galeria01_768x816.jpg";
+
+import imgBeachesGallery13_2 from "assets/img/know-panama/beaches/13_Isla_Iguana/CPA.1068_stopover_microsite_desktop_conocepanama_playas_013_iguana_galeria02_1088x690.jpg";
+import imgBeachesGallery13_2Mob from "assets/img/know-panama/beaches/13_Isla_Iguana/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_013_iguana_galeria02_768x816.jpg";
+
+import imgBeachesGallery13_3 from "assets/img/know-panama/beaches/13_Isla_Iguana/CPA.1068_stopover_microsite_desktop_conocepanama_playas_013_iguana_galeria03_1088x690.jpg";
+import imgBeachesGallery13_3Mob from "assets/img/know-panama/beaches/13_Isla_Iguana/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_013_iguana_galeria03_768x816.jpg";
+
+import imgBeachesKnow13 from "assets/img/know-panama/beaches/13_Isla_Iguana/CPA.1068_stopover_microsite_desktop_conocepanama_playas_013_iguana_sabias_358x358.jpg";
+import imgBeachesKnow13Mob from "assets/img/know-panama/beaches/13_Isla_Iguana/mob/CPA.1068_stopover_microsite_mobile_conocepanama_playas_013_iguana_sabias_768x768.jpg";
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////CITY
+import imgCityHero0 from "assets/img/know-panama/city/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_1920x730.jpg";
+import imgCityHero0Mob from "assets/img/know-panama/city/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_768x557.jpg";
+import imgCityImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_003.jpg";
+import imgCityImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_003.jpg";
+
+//CITY_1
+import imgCityHero1 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_01canal_1920x730.jpg";
+import imgCityHero1Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_01canal_768x557.jpg";
+import imgCityList1 from "assets/img/know-panama/city/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_01_canal_1920x450.jpg";
+import imgCityList1Mob from "assets/img/know-panama/city/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_01_canal_768x412.jpg";
+
+import imgCityGallery1_1 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_01canal_galeria01_1088x690.jpg";
+import imgCityGallery1_1Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_01canal_galeria01_768x816.jpg";
+
+import imgCityGallery1_2 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_01canal_galeria02_1088x690.jpg";
+import imgCityGallery1_2Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_01canal_galeria02_768x816.jpg";
+
+import imgCityGallery1_3 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_01canal_galeria03_1088x690.jpg";
+import imgCityGallery1_3Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_01canal_galeria03_768x816.jpg";
+
+import imgCityGallery1_4 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_01canal_galeria04_1088x690.jpg";
+import imgCityGallery1_4Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_01canal_galeria04_768x816.jpg";
+
+import imgCityGallery1_5 from "assets/img/know-panama/city/01_Canal_de_Panama/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_01canal_galeria05_1088x690.jpg";
+import imgCityGallery1_5Mob from "assets/img/know-panama/city/01_Canal_de_Panama/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_01canal_galeria05_768x816.jpg";
+
+//CITY_2
+import imgCityHero2 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_02skylines_1920x730.jpg";
+import imgCityHero2Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_02skylines_768x557.jpg";
+import imgCityList2 from "assets/img/know-panama/city/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_02_skylines_1920x450.jpg";
+import imgCityList2Mob from "assets/img/know-panama/city/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_02_skylines_768x412.jpg";
+
+import imgCityGallery2_1 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_galeria01_1088x690.jpg";
+import imgCityGallery2_1Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_galeria01_768x816.jpg";
+
+import imgCityGallery2_2 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_galeria02_1088x690.jpg";
+import imgCityGallery2_2Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_galeria02_768x816.jpg";
+
+import imgCityGallery2_3 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_galeria03_1088x690.jpg";
+import imgCityGallery2_3Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_galeria03_768x816.jpg";
+
+import imgCityGallery2_4 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_galeria04_1088x690.jpg";
+import imgCityGallery2_4Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_galeria04_768x816.jpg";
+
+import imgCityGallery2_5 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_galeria05_1088x690.jpg";
+import imgCityGallery2_5Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_galeria05_768x816.jpg";
+
+import imgCityKnow2 from "assets/img/know-panama/city/02_Skylines/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_02skylines_sabias_358x358.jpg";
+import imgCityKnow2Mob from "assets/img/know-panama/city/02_Skylines/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_02skylines_sabias_768x768.jpg";
+
+//CITY_3
+import imgCityHero3 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_03calzada_1920x730.jpg";
+import imgCityHero3Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_03calzada_768x557.jpg";
+import imgCityList3 from "assets/img/know-panama/city/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_03_calzada_1920x450.jpg";
+import imgCityList3Mob from "assets/img/know-panama/city/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_03_calzada_768x412.jpg";
+
+import imgCityGallery3_1 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_galeria01_1088x690.jpg";
+import imgCityGallery3_1Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_galeria01_768x816.jpg";
+
+import imgCityGallery3_2 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_galeria02_1088x690.jpg";
+import imgCityGallery3_2Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_galeria02_768x816.jpg";
+
+import imgCityGallery3_3 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_galeria03_1088x690.jpg";
+import imgCityGallery3_3Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_galeria03_768x816.jpg";
+
+import imgCityGallery3_4 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_galeria04_1088x690.jpg";
+import imgCityGallery3_4Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_galeria04_768x816.jpg";
+
+import imgCityGallery3_5 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_galeria05_1088x690.jpg";
+import imgCityGallery3_5Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_galeria05_768x816.jpg";
+
+import imgCityKnow3 from "assets/img/know-panama/city/03_Calzada_de_Amador/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_03calzada_sabias_358x358.jpg";
+import imgCityKnow3Mob from "assets/img/know-panama/city/03_Calzada_de_Amador/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_03calzada_sabias_768x768.jpg";
+
+//CITY_4
+import imgCityHero4 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_04shopping_1920x730.jpg";
+import imgCityHero4Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_04shopping_768x557.jpg";
+import imgCityList4 from "assets/img/know-panama/city/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_04_shopping_1920x450.jpg";
+import imgCityList4Mob from "assets/img/know-panama/city/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_04_shopping_768x412.jpg";
+
+import imgCityGallery4_1 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_04shopping_galeria01_1088x690.jpg";
+import imgCityGallery4_1Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_04shopping_galeria01_768x816.jpg";
+
+import imgCityGallery4_2 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_04shopping_galeria02_1088x690.jpg";
+import imgCityGallery4_2Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_04shopping_galeria02_768x816.jpg";
+
+import imgCityGallery4_3 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_04shopping_galeria03_1088x690.jpg";
+import imgCityGallery4_3Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_04shopping_galeria03_768x816.jpg";
+
+import imgCityGallery4_4 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_04shopping_galeria04_1088x690.jpg";
+import imgCityGallery4_4Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_04shopping_galeria04_768x816.jpg";
+
+import imgCityGallery4_5 from "assets/img/know-panama/city/04_Shopping/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_04shopping_galeria05_1088x690.jpg";
+import imgCityGallery4_5Mob from "assets/img/know-panama/city/04_Shopping/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_04shopping_galeria05_768x816.jpg";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////NIGHT LIFE
+import imgNightHero0 from "assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_ciudad_1920x730.jpg";
+import imgNightHero0Mob from "assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_ciudad_768x557.jpg";
+import imgNightLifeImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_004.jpg";
+import imgNightLifeImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_004.jpg";
+
+//NIGHT_1
+import imgNightHero1 from "assets/img/know-panama/night-life/01_Casco_antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_nocturna_01casco_1920x730.jpg";
+import imgNightHero1Mob from "assets/img/know-panama/night-life/01_Casco_antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_nocturna_01casco_768x557.jpg";
+import imgNightList1 from "assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_01_casco_1920x450.jpg";
+import imgNightList1Mob from "assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_01_casco_768x412.jpg";
+
+/*
+import imgNightGallery1_1
+  from 'assets/img/know-panama/night-life/01_Casco_antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria01_1088x690.jpg';
+import imgNightGallery1_1Mob
+  from 'assets/img/know-panama/night-life/01_Casco_antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria01_768x816.jpg';
+
+import imgNightGallery1_2
+  from 'assets/img/know-panama/night-life/01_Casco_antiguo/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria02_1088x690.jpg';
+import imgNightGallery1_2Mob
+  from 'assets/img/know-panama/night-life/01_Casco_antiguo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria02_768x816.jpg';
+*/
+
+/*
+//NIGHT_2
+import imgNightHero2 from 'assets/img/know-panama/night-life/02_360_Rooftop/CPA_1920x450.jpg';
+import imgNightHero2Mob from 'assets/img/know-panama/night-life/02_360_Rooftop/mob/CPA_768x412.jpg';
+import imgNightList2
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_02_360rooftop_1920x450.jpg';
+import imgNightList2Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_02_360rooftop_768x412.jpg';
+
+//NIGHT_3
+import imgNightHero3 from 'assets/img/know-panama/night-life/03_Casa_casco/CPA_1920x450.jpg';
+import imgNightHero3Mob from 'assets/img/know-panama/night-life/03_Casa_casco/mob/CPA_768x412.jpg';
+import imgNightList3
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_03_calzada_1920x450.jpg';
+import imgNightList3Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_03_calzada_768x412.jpg';
+
+//NIGHT_4
+import imgNightHero4
+  from 'assets/img/know-panama/night-life/04_Tantalo/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_nocturna_01casco_1920x730.jpg';
+import imgNightHero4Mob
+  from 'assets/img/know-panama/night-life/04_Tantalo/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_nocturna_01casco_768x557.jpg';
+import imgNightList4
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_04_tantalo_1920x450.jpg';
+import imgNightList4Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_04_tantalo_768x412.jpg';
+
+//NIGHT_5
+import imgNightHero5
+  from 'assets/img/know-panama/night-life/05_Casa_blanca/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_nocturna_01casco_1920x730.jpg';
+import imgNightHero5Mob
+  from 'assets/img/know-panama/night-life/05_Casa_blanca/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_nocturna_01casco_768x557.jpg';
+import imgNightList5
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_05_casablanca_1920x450.jpg';
+import imgNightList5Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_05_casablanca_768x412.jpg';
+
+//NIGHT_6
+import imgNightHero6 from 'assets/img/know-panama/night-life/06_Madrigal/CPA_1920x450.jpg';
+import imgNightHero6Mob from 'assets/img/know-panama/night-life/06_Madrigal/mob/CPA_768x412.jpg';
+import imgNightList6
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_06_madrigal_1920x450.jpg';
+import imgNightList6Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_06_madrigal_768x412.jpg';
+
+//NIGHT_7
+import imgNightHero7 from 'assets/img/know-panama/night-life/07_Calzada_de_amador/CPA_1920x450.jpg';
+import imgNightHero7Mob from 'assets/img/know-panama/night-life/07_Calzada_de_amador/mob/CPA_768x412.jpg';
+import imgNightList7
+  from 'assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_07_calzada_1920x450.jpg';
+import imgNightList7Mob
+  from 'assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_07_calzada_768x412.jpg';
+*/
+
+//NIGHT_8
+import imgNightHero8 from "assets/img/know-panama/night-life/08_Calle_Uruguay/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_nocturna_01casco_1920x730.jpg";
+import imgNightHero8Mob from "assets/img/know-panama/night-life/08_Calle_Uruguay/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_nocturna_01casco_768x557.jpg";
+import imgNightList8 from "assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_08_calleuruguay_1920x450.jpg";
+import imgNightList8Mob from "assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_08_calleuruguay_768x412.jpg";
+
+import imgNightGallery8_1 from "assets/img/know-panama/night-life/08_Calle_Uruguay/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria01_1088x690.jpg";
+import imgNightGallery8_1Mob from "assets/img/know-panama/night-life/08_Calle_Uruguay/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria01_768x816.jpg";
+import imgNightGallery8_2 from "assets/img/know-panama/night-life/08_Calle_Uruguay/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria02_1088x690.jpg";
+import imgNightGallery8_2Mob from "assets/img/know-panama/night-life/08_Calle_Uruguay/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria02_768x816.jpg";
+
+//NIGHT_9
+import imgNightHero9 from "assets/img/know-panama/night-life/09_Zona_Comercial/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_nocturna_01casco_1920x730.jpg";
+import imgNightHero9Mob from "assets/img/know-panama/night-life/09_Zona_Comercial/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_nocturna_01casco_768x557.jpg";
+import imgNightList9 from "assets/img/know-panama/night-life/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_ciudad_listado_02_zonacomercial_1920x450.jpg";
+import imgNightList9Mob from "assets/img/know-panama/night-life/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_ciudad_listado_02_zonacomercial_768x412.jpg";
+
+import imgNightGallery9_1 from "assets/img/know-panama/night-life/09_Zona_Comercial/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria01_1088x690.jpg";
+import imgNightGallery9_1Mob from "assets/img/know-panama/night-life/09_Zona_Comercial/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria01_768x816.jpg";
+import imgNightGallery9_2 from "assets/img/know-panama/night-life/09_Zona_Comercial/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria02_1088x690.jpg";
+import imgNightGallery9_2Mob from "assets/img/know-panama/night-life/09_Zona_Comercial/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria02_768x816.jpg";
+import imgNightGallery9_3 from "assets/img/know-panama/night-life/09_Zona_Comercial/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria03_1088x690.jpg";
+import imgNightGallery9_3Mob from "assets/img/know-panama/night-life/09_Zona_Comercial/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria03_768x816.jpg";
+import imgNightGallery9_4 from "assets/img/know-panama/night-life/09_Zona_Comercial/CPA.1068_stopover_microsite_desktop_conocepanama_nocturna_01casco_galeria04_1088x690.jpg";
+import imgNightGallery9_4Mob from "assets/img/know-panama/night-life/09_Zona_Comercial/mob/CPA.1068_stopover_microsite_mobile_conocepanama_nocturna_01casco_galeria04_768x816.jpg";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////NATURE
+import imgNatureHero0 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_1920x730.jpg";
+import imgNatureHero0Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_768x557.jpg";
+import imgNatureImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_005.jpg";
+import imgNatureImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_005.jpg";
+
+//NATURE_1
+import imgNatureHero1 from "assets/img/know-panama/nature/01_Cerro_Ancon/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_01ancon_1920x730.jpg";
+import imgNatureHero1Mob from "assets/img/know-panama/nature/01_Cerro_Ancon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_01ancon_768x557.jpg";
+import imgNatureList1 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_01_ancon_1920x450.jpg";
+import imgNatureList1Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_01_ancon_768x412.jpg";
+
+import imgNatureGallery1_1 from "assets/img/know-panama/nature/01_Cerro_Ancon/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_01ancon_galeria01_1088x690.jpg";
+import imgNatureGallery1_1Mob from "assets/img/know-panama/nature/01_Cerro_Ancon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_01ancon_galeria01_768x816.jpg";
+
+import imgNatureGallery1_2 from "assets/img/know-panama/nature/01_Cerro_Ancon/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_01ancon_galeria02_1088x690.jpg";
+import imgNatureGallery1_2Mob from "assets/img/know-panama/nature/01_Cerro_Ancon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_01ancon_galeria02_768x816.jpg";
+
+import imgNatureGallery1_3 from "assets/img/know-panama/nature/01_Cerro_Ancon/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_01ancon_galeria03_1088x690.jpg";
+import imgNatureGallery1_3Mob from "assets/img/know-panama/nature/01_Cerro_Ancon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_01ancon_galeria03_768x816.jpg";
+
+import imgNatureKnow1 from "assets/img/know-panama/nature/01_Cerro_Ancon/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_01ancon_sabias_358x358.jpg";
+import imgNatureKnow1Mob from "assets/img/know-panama/nature/01_Cerro_Ancon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_01ancon_sabias_768x768.jpg";
+
+//NATURE_2
+import imgNatureHero2 from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_02canalera_1920x730.jpg";
+import imgNatureHero2Mob from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_02canalera_768x557.jpg";
+import imgNatureList2 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_02_canalera_1920x450.jpg";
+import imgNatureList2Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_02_canalera_768x412.jpg";
+
+import imgNatureGallery2_1 from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_02canalera_galeria01_1088x690.jpg";
+import imgNatureGallery2_1Mob from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_02canalera_galeria01_768x816.jpg";
+
+import imgNatureGallery2_2 from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_02canalera_galeria02_1088x690.jpg";
+import imgNatureGallery2_2Mob from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_02canalera_galeria02_768x816.jpg";
+
+import imgNatureGallery2_3 from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_02canalera_galeria03_1088x690.jpg";
+import imgNatureGallery2_3Mob from "assets/img/know-panama/nature/02_Antigua_Zona_canalera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_02canalera_galeria03_768x816.jpg";
+
+//NATURE_3
+import imgNatureHero3 from "assets/img/know-panama/nature/03_Camino_de_cruces/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_03cruces_1920x730.jpg";
+import imgNatureHero3Mob from "assets/img/know-panama/nature/03_Camino_de_cruces/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_03cruces_768x557.jpg";
+import imgNatureList3 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_03_cruces_1920x450.jpg";
+import imgNatureList3Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_03_cruces_768x412.jpg";
+
+import imgNatureGallery3_1 from "assets/img/know-panama/nature/03_Camino_de_cruces/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_03cruces_galeria01_1088x690.jpg";
+import imgNatureGallery3_1Mob from "assets/img/know-panama/nature/03_Camino_de_cruces/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_03cruces_galeria01_768x816.jpg";
+
+//NATURE_4
+import imgNatureHero4 from "assets/img/know-panama/nature/04_Parque_Nacional_Metropolitano/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_04parque_1920x730.jpg";
+import imgNatureHero4Mob from "assets/img/know-panama/nature/04_Parque_Nacional_Metropolitano/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_04parque_768x557.jpg";
+import imgNatureList4 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_04_parque_1920x450.jpg";
+import imgNatureList4Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_04_parque_768x412.jpg";
+
+/*
+//NATURE_5
+import imgNatureHero5
+  from 'assets/img/know-panama/nature/05_Chiriqui/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_05chiriqui_1920x730.jpg';
+import imgNatureHero5Mob
+  from 'assets/img/know-panama/nature/05_Chiriqui/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_05chiriqui_768x557.jpg';
+import imgNatureList5
+  from 'assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_05_chiriqui_1920x450.jpg';
+import imgNatureList5Mob
+  from 'assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_05_chiriqui_768x412.jpg';
+
+import imgNatureGallery5_1
+  from 'assets/img/know-panama/nature/05_Chiriqui/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_05chiriqui_galeria01_1088x690.jpg';
+import imgNatureGallery5_1Mob
+  from 'assets/img/know-panama/nature/05_Chiriqui/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_05chiriqui_galeria01_768x816.jpg';
+
+import imgNatureGallery5_2
+  from 'assets/img/know-panama/nature/05_Chiriqui/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_05chiriqui_galeria02_1088x690.jpg';
+import imgNatureGallery5_2Mob
+  from 'assets/img/know-panama/nature/05_Chiriqui/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_05chiriqui_galeria02_768x816.jpg';
+*/
+
+//NATURE_6
+import imgNatureHero6 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_06boquete_1920x730.jpg";
+import imgNatureHero6Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_06boquete_768x557.jpg";
+import imgNatureList6 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_06_boquete_1920x450.jpg";
+import imgNatureList6Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_06_boquete_768x412.jpg";
+
+import imgNatureGallery6_1 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_galeria01_1088x690.jpg";
+import imgNatureGallery6_1Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_galeria01_768x816.jpg";
+
+import imgNatureGallery6_2 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_galeria02_1088x690.jpg";
+import imgNatureGallery6_2Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_galeria02_768x816.jpg";
+
+import imgNatureGallery6_3 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_galeria03_1088x690.jpg";
+import imgNatureGallery6_3Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_galeria03_768x816.jpg";
+
+import imgNatureGallery6_4 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_galeria04_1088x690.jpg";
+import imgNatureGallery6_4Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_galeria04_768x816.jpg";
+
+import imgNatureGallery6_5 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_galeria05_1088x690.jpg";
+import imgNatureGallery6_5Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_galeria05_768x816.jpg";
+
+import imgNatureKnow6 from "assets/img/know-panama/nature/06_Boquete/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_06boquete_sabias_358x358.jpg";
+import imgNatureKnow6Mob from "assets/img/know-panama/nature/06_Boquete/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_06boquete_sabias_768x768.jpg";
+
+//NATURE_7
+/*
+import imgNatureHero7
+  from 'assets/img/know-panama/nature/07_Baru/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_07baru_1920x730.jpg';
+import imgNatureHero7Mob
+  from 'assets/img/know-panama/nature/07_Baru/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_07baru_768x557.jpg';
+import imgNatureList7
+  from 'assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_07_baru_1920x450.jpg';
+import imgNatureList7Mob
+  from 'assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_07_baru_768x412.jpg';
+*/
+
+//NATURE_8
+import imgNatureHero8 from "assets/img/know-panama/nature/08_Parque_La_Amistad/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_08amistad_1920x730.jpg";
+import imgNatureHero8Mob from "assets/img/know-panama/nature/08_Parque_La_Amistad/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_08amistad_768x557.jpg";
+import imgNatureList8 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_08_amistad_1920x450.jpg";
+import imgNatureList8Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_08_amistad_768x412.jpg";
+
+//NATURE_9
+import imgNatureHero9 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_09_volcan_1920x730.jpg";
+import imgNatureHero9Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_09volcan_768x557.jpg";
+import imgNatureList9 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_09_cerropunta_1920x450.jpg";
+import imgNatureList9Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_09_cerropunta_768x412.jpg";
+
+import imgNatureGallery09_1 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_09volcan_galeria01_1088x690.jpg";
+import imgNatureGallery09_1Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_09volcan_galeria01_768x816.jpg";
+
+import imgNatureGallery09_2 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_09volcan_galeria02_1088x690.jpg";
+import imgNatureGallery09_2Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_09volcan_galeria02_768x816.jpg";
+
+import imgNatureGallery09_3 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_09volcan_galeria03_1088x690.jpg";
+import imgNatureGallery09_3Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_09volcan_galeria03_768x816.jpg";
+
+import imgNatureGallery09_4 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_09volcan_galeria04_1088x690.jpg";
+import imgNatureGallery09_4Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_09volcan_galeria04_768x816.jpg";
+
+import imgNatureGallery09_5 from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_09volcan_galeria05_1088x690.jpg";
+import imgNatureGallery09_5Mob from "assets/img/know-panama/nature/09_Volcan_y_Cerro_Punta/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_09volcan_galeria05_768x816.jpg";
+
+//NATURE_10
+import imgNatureHero10 from "assets/img/know-panama/nature/10_Cosecha_del_cafe/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_010cafe_1920x730.jpg";
+import imgNatureHero10Mob from "assets/img/know-panama/nature/10_Cosecha_del_cafe/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_010cafe_768x557.jpg";
+import imgNatureList10 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_10_cafe_1920x450.jpg";
+import imgNatureList10Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_10_ccafe_768x412.jpg";
+
+import imgNatureGallery10_1 from "assets/img/know-panama/nature/10_Cosecha_del_cafe/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_010cafe_galeria01_1088x690.jpg";
+import imgNatureGallery10_1Mob from "assets/img/know-panama/nature/10_Cosecha_del_cafe/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_010cafe_galeria01_768x816.jpg";
+
+import imgNatureGallery10_2 from "assets/img/know-panama/nature/10_Cosecha_del_cafe/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_010cafe_galeria02_1088x690.jpg";
+import imgNatureGallery10_2Mob from "assets/img/know-panama/nature/10_Cosecha_del_cafe/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_010cafe_galeria02_768x816.jpg";
+
+import imgNatureGallery10_3 from "assets/img/know-panama/nature/10_Cosecha_del_cafe/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_010cafe_galeria03_1088x690.jpg";
+import imgNatureGallery10_3Mob from "assets/img/know-panama/nature/10_Cosecha_del_cafe/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_010cafe_galeria03_768x816.jpg";
+
+import imgNatureKnow10 from "assets/img/know-panama/nature/10_Cosecha_del_cafe/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_010cafe_sabias_358x358.jpg";
+import imgNatureKnow10Mob from "assets/img/know-panama/nature/10_Cosecha_del_cafe/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_010cafe_sabias_768x768.jpg";
+
+/*
+//NATURE_11
+import imgNatureHero11
+  from 'assets/img/know-panama/nature/11_Cocle/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_011cocle_1920x730.jpg';
+import imgNatureHero11Mob
+  from 'assets/img/know-panama/nature/11_Cocle/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_011cocle_768x557.jpg';
+import imgNatureList11
+  from 'assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_011_cocle_1920x450.jpg';
+import imgNatureList11Mob
+  from 'assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_11_cocle_768x412.jpg';
+*/
+
+//NATURE_12
+import imgNatureHero12 from "assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_012anton_1920x730.jpg";
+import imgNatureHero12Mob from "assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_012anton_768x557.jpg";
+import imgNatureList12 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_012_anton_1920x450.jpg";
+import imgNatureList12Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_012_anton_768x412.jpg";
+
+import imgNatureGallery12_1 from "assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_galeria01_1088x690.jpg";
+import imgNatureGallery12_1Mob from "assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_galeria01_768x816.jpg";
+
+import imgNatureGallery12_2 from "assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_galeria02_1088x690.jpg";
+import imgNatureGallery12_2Mob from "assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_galeria02_768x816.jpg";
+
+import imgNatureGallery12_3 from "assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_galeria03_1088x690.jpg";
+import imgNatureGallery12_3Mob from "assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_galeria03_768x816.jpg";
+
+/*
+import imgNatureGallery12_4
+  from 'assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_galeria04_1088x690.jpg';
+import imgNatureGallery12_4Mob
+  from 'assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_galeria04_768x816.jpg';
+
+import imgNatureGallery12_5
+  from 'assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_galeria05_1088x690.jpg';
+import imgNatureGallery12_5Mob
+  from 'assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_galeria05_768x816.jpg';
+*/
+
+import imgNatureKnow12 from "assets/img/know-panama/nature/12_Valle_de_Anton/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_012anton_sabias_358x358.jpg";
+import imgNatureKnow12Mob from "assets/img/know-panama/nature/12_Valle_de_Anton/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_012anton_sabias_768x768.jpg";
+
+//NATURE_13
+import imgNatureHero13 from "assets/img/know-panama/nature/13_Colon/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_013colon_1920x730.jpg";
+import imgNatureHero13Mob from "assets/img/know-panama/nature/13_Colon/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_013colon_768x557.jpg";
+import imgNatureList13 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_013_colon_1920x450.jpg";
+import imgNatureList13Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_013_colon_768x412.jpg";
+
+//NATURE_14
+import imgNatureHero14 from "assets/img/know-panama/nature/14_Herrera/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_014herrera_1920x730.jpg";
+import imgNatureHero14Mob from "assets/img/know-panama/nature/14_Herrera/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_014herrera_768x557.jpg";
+import imgNatureList14 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_014_herrera_1920x450-2.jpg";
+import imgNatureList14Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_014_herrera_768x412.jpg";
+
+//NATURE_15
+import imgNatureHero15 from "assets/img/know-panama/nature/15_Darien/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_015darien_1920x730.jpg";
+import imgNatureHero15Mob from "assets/img/know-panama/nature/15_Darien/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_015darien_768x557.jpg";
+import imgNatureList15 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_015_darien_1920x450-2.jpg";
+import imgNatureList15Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_015_darien_768x412.jpg";
+
+import imgNatureGallery15_1 from "assets/img/know-panama/nature/15_Darien/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_015darien_galeria01_1088x690.jpg";
+import imgNatureGallery15_1Mob from "assets/img/know-panama/nature/15_Darien/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_015darien_galeria01_768x816.jpg";
+
+import imgNatureGallery15_2 from "assets/img/know-panama/nature/15_Darien/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_015darien_galeria02_1088x690.jpg";
+import imgNatureGallery15_2Mob from "assets/img/know-panama/nature/15_Darien/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_015darien_galeria02_768x816.jpg";
+
+import imgNatureGallery15_3 from "assets/img/know-panama/nature/15_Darien/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_0015darien_galeria03_1088x690.jpg";
+import imgNatureGallery15_3Mob from "assets/img/know-panama/nature/15_Darien/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_015darien_galeria03_768x816.jpg";
+
+import imgNatureGallery15_4 from "assets/img/know-panama/nature/15_Darien/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_0015darien_galeria04_1088x690.jpg";
+import imgNatureGallery15_4Mob from "assets/img/know-panama/nature/15_Darien/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_015darien_galeria04_768x816.jpg";
+
+//NATURE_16
+import imgNatureHero16 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_016chame_1920x730.jpg";
+import imgNatureHero16Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_016chame_768x557.jpg";
+import imgNatureList16 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_016_chame_1920x450.jpg";
+import imgNatureList16Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_016_chame_768x412.jpg";
+
+import imgNatureGallery16_1 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_016chame_galeria01_1088x690.jpg";
+import imgNatureGallery16_1Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_016oeste_galeria01_768x816.jpg";
+
+import imgNatureGallery16_2 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_016chame_galeria02_1088x690.jpg";
+import imgNatureGallery16_2Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_016oeste_galeria02_768x816.jpg";
+
+import imgNatureGallery16_3 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_016chame_galeria03_1088x690.jpg";
+import imgNatureGallery16_3Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_016oeste_galeria03_768x816.jpg";
+
+import imgNatureGallery16_4 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_016chame_galeria04_1088x690.jpg";
+import imgNatureGallery16_4Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_016oeste_galeria04_768x816.jpg";
+
+import imgNatureGallery16_5 from "assets/img/know-panama/nature/16_Panama_Oeste/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_016chame_galeria05_1088x690.jpg";
+import imgNatureGallery16_5Mob from "assets/img/know-panama/nature/16_Panama_Oeste/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_016oeste_galeria05_768x816.jpg";
+
+//NATURE_17
+import imgNatureHero17 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_naturaleza_017golf_1920x730.jpg";
+import imgNatureHero17Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_naturaleza_017golf_768x557.jpg";
+import imgNatureList17 from "assets/img/know-panama/nature/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_listado_017_golf_1920x450-2.jpg";
+import imgNatureList17Mob from "assets/img/know-panama/nature/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_listado_017_golf_768x412.jpg";
+
+import imgNatureGallery17_1 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_017golf_galeria01_1088x690.jpg";
+import imgNatureGallery17_1Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_017golf_galeria01_768x816.jpg";
+
+import imgNatureGallery17_2 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_017golf_galeria02_1088x690.jpg";
+import imgNatureGallery17_2Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_017golf_galeria02_768x816.jpg";
+
+import imgNatureGallery17_3 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_017golf_galeria03_1088x690.jpg";
+import imgNatureGallery17_3Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_017golf_galeria03_768x816.jpg";
+
+import imgNatureGallery17_4 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_017golf_galeria04_1088x690.jpg";
+import imgNatureGallery17_4Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_017golf_galeria04_768x816.jpg";
+
+import imgNatureGallery17_5 from "assets/img/know-panama/nature/17_Golf/CPA.1068_stopover_microsite_desktop_conocepanama_naturaleza_017golf_galeria05_1088x690.jpg";
+import imgNatureGallery17_5Mob from "assets/img/know-panama/nature/17_Golf/mob/CPA.1068_stopover_microsite_mobile_conocepanama_naturaleza_017golf_galeria05_768x816.jpg";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////GASTRONOMY
+import imgGastronomyHero0 from "assets/img/know-panama/gastronomy/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_gastronomia_1920x730.jpg";
+import imgGastronomyHero0Mob from "assets/img/know-panama/gastronomy/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_gastronomia_768x557.jpg";
+import imgGastronomyImgList0 from "assets/img/know-panama-page/CPA.1068_stopover_microsite_desktop_conocepanama_952x571_006.jpg";
+import imgGastronomyImgList0Mob from "assets/img/know-panama-page/mob/CPA.1068_stopover_microsite_mobile_conocepanama_768x395_006.jpg";
+
+//GASTRONOMY_1
+import imgGastronomyHero1 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_gastronomia_01tipicos_1920x730.jpg";
+import imgGastronomyHero1Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_gastronomia_01tipicos_768x557.jpg";
+import imgGastronomyList1 from "assets/img/know-panama/gastronomy/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_listado_01_tipicas_1920x450.jpg";
+import imgGastronomyList1Mob from "assets/img/know-panama/gastronomy/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_listado_01_tipicas_768x412.jpg";
+
+import imgGastronomyGallery1_1 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_01tipicos_galeria01_1088x690.jpg";
+import imgGastronomyGallery1_1Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_01tipicos_galeria01_768x816.jpg";
+
+import imgGastronomyGallery1_2 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_01tipicos_galeria02_1088x690.jpg";
+import imgGastronomyGallery1_2Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_01tipicos_galeria02_768x816.jpg";
+
+import imgGastronomyGallery1_3 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_01tipicos_galeria03_1088x690.jpg";
+import imgGastronomyGallery1_3Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_01tipicos_galeria03_768x816.jpg";
+
+import imgGastronomyGallery1_4 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_01tipicos_galeria04_1088x690.jpg";
+import imgGastronomyGallery1_4Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_01tipicos_galeria04_768x816.jpg";
+
+import imgGastronomyGallery1_5 from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_01tipicos_galeria05_1088x690.jpg";
+import imgGastronomyGallery1_5Mob from "assets/img/know-panama/gastronomy/01_Platos_Tipicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_01tipicos_galeria05_768x816.jpg";
+
+//GASTRONOMY_2
+import imgGastronomyHero2 from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_gastronomia_02eventos_1920x730.jpg";
+import imgGastronomyHero2Mob from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_gastronomia_02eventos_768x557.jpg";
+import imgGastronomyList2 from "assets/img/know-panama/gastronomy/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_listado_02_eventos_1920x450.jpg";
+import imgGastronomyList2Mob from "assets/img/know-panama/gastronomy/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_listado_02_eventos_768x412.jpg";
+
+import imgGastronomyHero3 from "assets/img/know-panama/gastronomy/03_Restaurantes/CPA.1068_stopover_microsite_desktop_conocepanama_masthead_gastronomia_03restaurantes_1920x730.jpg";
+import imgGastronomyHero3Mob from "assets/img/know-panama/gastronomy/03_Restaurantes/CPA.1068_stopover_microsite_mobile_conocepanama_masthead_gastronomia_03restaurantes_768x557.jpg";
+import imgGastronomyList3 from "assets/img/know-panama/gastronomy/00_Listado/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_listado_03_restaurantes_1920x450.jpg";
+import imgGastronomyList3Mob from "assets/img/know-panama/gastronomy/00_Listado/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_listado_03_restaurantes_768x412.jpg";
+
+import imgGastronomyGallery2_1 from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_02eventos_galeria01_1088x690.jpg";
+import imgGastronomyGallery2_1Mob from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_02eventos_galeria01_768x816.jpg";
+
+import imgGastronomyGallery2_2 from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/CPA.1068_stopover_microsite_desktop_conocepanama_gastronomia_02eventos_galeria02_1088x690.jpg";
+import imgGastronomyGallery2_2Mob from "assets/img/know-panama/gastronomy/02_Eventos_gastronomicos/mob/CPA.1068_stopover_microsite_mobile_conocepanama_gastronomia_02eventos_galeria02_768x816.jpg";
+
+export default {
+  es: {
+    info: [
+      {
+        slug: "conoce-panama",
+        title: "Conoce Panamá",
+        hero: imgKnowPanamaHeroDesk,
+        hero_mobile: imgKnowPanamaHeroMob,
+        subtitle:
+          "Panamá es un destino de película que lo tiene todo, y tú escribes el guion. Encuentra paraísos escondidos, cientos de islas desiertas y un equilibrio perfecto entre tradición y modernidad.",
+        extra_title: "Bienvenido a Panamá, elige tu propia experiencia.",
+        btn_name: "VOLVER",
+      },
+    ],
+    hero: [
+      {
+        id: "1",
+        type: "cultura",
+        img: imgCultureHero0,
+        img_mob: imgCultureHero0Mob,
+      },
+      {
+        id: "2",
+        type: "playas",
+        img: imgBeachesHero0,
+        img_mob: imgBeachesHero0Mob,
+      },
+      {
+        id: "3",
+        type: "ciudad",
+        img: imgCityHero0,
+        img_mob: imgCityHero0Mob,
+      },
+      {
+        id: "4",
+        type: "vida-nocturna",
+        img: imgNightHero0,
+        img_mob: imgNightHero0Mob,
+      },
+      {
+        id: "5",
+        type: "naturaleza",
+        img: imgNatureHero0,
+        img_mob: imgNatureHero0Mob,
+      },
+      {
+        id: "6",
+        type: "gastronomia",
+        img: imgGastronomyHero0,
+        img_mob: imgGastronomyHero0Mob,
+      },
+    ],
+    breadcrumb: [
+      {
+        title: "Conoce Panamá",
+        options: [
+          {
+            id: "1",
+            slug_parent: "conoce-panama",
+            slug: "cultura",
+            title: "Cultura",
+          },
+          {
+            id: "2",
+            slug_parent: "conoce-panama",
+            slug: "playas",
+            title: "Playas",
+          },
+          {
+            id: "3",
+            slug_parent: "conoce-panama",
+            slug: "ciudad",
+            title: "Ciudad",
+          },
+          {
+            id: "4",
+            slug_parent: "conoce-panama",
+            slug: "vida-nocturna",
+            title: "Vida Nocturna",
+          },
+          {
+            id: "5",
+            slug_parent: "conoce-panama",
+            slug: "naturaleza",
+            title: "Naturaleza",
+          },
+          {
+            id: "6",
+            slug_parent: "conoce-panama",
+            slug: "gastronomia",
+            title: "Gastronomía",
+          },
+        ],
+      },
+    ],
+    welcome: [
+      {
+        title: "Cultura",
+        type: "cultura",
+        info_short:
+          "Viaja en el tiempo y descubre la historia intacta de Panamá y su maravilloso legado multicultural.",
+        info_extra:
+          "Viaja en el tiempo y descubre la historia intacta de Panamá y su maravilloso legado multicultural. Ruinas, museos, plazas y festivales te invitan a conocer un lugar que dejará una huella en ti.",
+        img: imgCultureImgList0,
+        img_mobile: imgCultureImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Playas",
+        info_short:
+          "Descubre algunas de las playas más hermosas del continente americano.",
+        info_extra:
+          "Descubre algunas de las playas más hermosas del continente americano. Los amantes del surf, la arena y el sol encontrarán un paraíso en sus diversas playas e islas en el Mar Caribe y en el Océano Pacífico.",
+        type: "playas",
+        img: imgBeachesImgList0,
+        img_mobile: imgBeachesImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Ciudad",
+        info_short:
+          "La Ciudad de Panamá tiene el equilibrio perfecto entre tradición y modernidad, entre lo internacional y lo latino.",
+        info_extra:
+          "La ciudad de Panamá tiene el equilibrio perfecto entre tradición y modernidad, entre lo internacional y lo latino. Sus rascacielos la hacen una ciudad moderna y bella en Centroamérica, y el casco viejo mantiene su historia intacta. Descubre sus atractivos turísticos y todo lo que podrás hacer.",
+        type: "ciudad",
+        img: imgCityImgList0,
+        img_mobile: imgCityImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Vida Nocturna",
+        info_short:
+          "La Ciudad de Panamá es famosa por su excitante vida nocturna.",
+        info_extra:
+          "La vida nocturna de Panamá se desarrolla principalmente en dos áreas de la ciudad: el distrito de negocios en el centro de la ciudad y en medio de los edificios coloniales españoles del Casco Antiguo: el destino de vida nocturna más popular de Panamá.<br /><br />La vibrante vida nocturna del Casco Antiguo despierta luego de un día intenso. En sus 12 calles principales hay muchas opciones: bares, discotecas, los populares ‘rooftops’, restaurantes de tapas y vinos, sitios de jazz, bandas en vivo con música tropical, electrónica, reggae, reggaetón, salsa, merengue, hip-hop, rock y mucho más.<br /><br />Nos atrevemos a pronosticar que estarás regresando al Casco más de una vez por su espectacular vida nocturna.<br /><br />Conoce algunos de los restaurantes y bares ubicados en esta área.<br />",
+        type: "vida-nocturna",
+        img: imgNightLifeImgList0,
+        img_mobile: imgNightLifeImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Naturaleza",
+        info_short:
+          "Panamá se distingue por su abundante naturaleza, su actividad pesquera, sus numerosas playas y las más de mil islas paradisíacas en sus archipiélagos.",
+        info_extra:
+          "Panamá se distingue por su abundante naturaleza, su actividad pesquera, sus numerosas playas y las más de mil islas paradisíacas en sus archipiélagos. La belleza natural del país es uno de sus principales atractivos turísticos: es uno de los pocos lugares donde se puede apreciar una variedad tan amplia de hábitats, flora y fauna.",
+        type: "naturaleza",
+        img: imgNatureImgList0,
+        img_mobile: imgNatureImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Gastronomía",
+        info_short:
+          "Gracias a la influencia de los sabores europeos, asiáticos, africanos y americanos, la gastronomía panameña puede considerarse una de las más completas de la región.",
+        info_extra:
+          "Gracias a la influencia de los sabores europeos, asiáticos, africanos y americanos, la gastronomía panameña puede considerarse una de las más completas de la región. De hecho, un aspecto destacable de la gastronomía panameña es su amplia variedad de sabores. Y es que los contrastes y la historia de Panamá no se limitan solo a sus paisajes.<br><br>En los últimos años, surgió un movimiento gastronómico en Panamá que fusiona los ingredientes autóctonos de la cocina tradicional panameña con los de la cocina internacional italiana, peruana, española, colombiana, china, coreana, tailandesa, libanesa, francesa, brasileña, venezolana y argentina.",
+        type: "gastronomia",
+        img: imgGastronomyImgList0,
+        img_mobile: imgGastronomyImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+    ],
+    list: [
+      //cultura
+      {
+        id: "1",
+        img: imgCultureList1,
+        img_mob: imgCultureList1Mob,
+        hero: imgCultureHero1,
+        hero_mob: imgCultureHero1Mob,
+        title: "Ruinas de Panamá La Vieja",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "ruinas-de-panamá-la-vieja",
+        summary:
+          "A solo 5.2 km de la capital, podrás visitar la torre de la Catedral, el Puente del Rey, el Puente del Matadero, Museo de sitio y ruinas como las de San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús y los Conventos de la Concepción, entre otras.  ",
+        content:
+          "A solo 5.2 km de la capital, podrás visitar la torre de la Catedral, el Puente del Rey, el Puente del Matadero, Museo de sitio y ruinas como las de San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús y los Conventos de la Concepción, entre otras.  ",
+      },
+      {
+        id: "2",
+        img: imgCultureList2,
+        img_mob: imgCultureList2Mob,
+        hero: imgCultureHero2,
+        hero_mob: imgCultureHero2Mob,
+        title: "Catedral Basílica Santa María la Antigua",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "catedral-basílica-santa-maría-la-antigua",
+        summary:
+          "Mejor conocida como la Catedral Metropolitana de Panamá; su altar fue consagrado por el Papa Francisco y es la iglesia católica más importante de la ciudad. Se puede visitar todos los días de 7:00 a. m. a 7:00 p. m.",
+        content:
+          "Mejor conocida como la Catedral Metropolitana de Panamá; su altar fue consagrado por el Papa Francisco y es la iglesia católica más importante de la ciudad. Se puede visitar todos los días de 7:00 a. m. a 7:00 p. m.",
+      },
+      {
+        id: "3",
+        img: imgCultureList3,
+        img_mob: imgCultureList3Mob,
+        hero: imgCultureHero3,
+        hero_mob: imgCultureHero3Mob,
+        title: "Plaza de la Independencia",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-de-la-independencia",
+        summary:
+          "Es una de las plazas emblemáticas del Casco Antiguo y uno de los grandes sitios históricos de Panamá. Se la conoce oficialmente como la Plaza Independencia, pero también como Plaza Mayor. Está rodeada de edificios de la época colonial, entre ellos la Catedral Metropolitana, el Palacio Municipal y el Museo del Canal Interoceánico.",
+        content:
+          "Es una de las plazas emblemáticas del Casco Antiguo y uno de los grandes sitios históricos de Panamá. Se la conoce oficialmente como la Plaza Independencia, pero también como Plaza Mayor. Está rodeada de edificios de la época colonial, entre ellos la Catedral Metropolitana, el Palacio Municipal y el Museo del Canal Interoceánico.",
+      },
+      {
+        id: "4",
+        img: imgCultureList4,
+        img_mob: imgCultureList4Mob,
+        hero: imgCultureHero4,
+        hero_mob: imgCultureHero4Mob,
+        title: "Iglesia de la Merced de la Ciudad de Panamá",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "iglesia-de-la-merced-de-la-ciudad-de-panamá",
+        summary:
+          "Es un templo católico de más de 400 años de antigüedad y cuenta con sorprendentes piezas arquitectónicas y una rica historia. Encontrarás dos capillas: una de la Virgen de la Merced y otra de un mausoleo.",
+        content:
+          "Es un templo católico de más de 400 años de antigüedad y cuenta con sorprendentes piezas arquitectónicas y una rica historia. Encontrarás dos capillas: una de la Virgen de la Merced y otra de un mausoleo.",
+      },
+      {
+        id: "5",
+        img: imgCultureList5,
+        img_mob: imgCultureList5Mob,
+        hero: imgCultureHero5,
+        hero_mob: imgCultureHero5Mob,
+        title: "Palacio de las Garzas",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "palacio-de-las-garzas",
+        summary:
+          "Un edificio caracterizado por una arquitectura colonial, con una historia y patrimonio cultural importantes, que actualmente es la sede de la presidencia de la República de Panamá. Desde el palacio podrás disfrutar de una espectacular vista a la bahía de Panamá.",
+        content:
+          "Un edificio caracterizado por una arquitectura colonial, con una historia y patrimonio cultural importantes, que actualmente es la sede de la presidencia de la República de Panamá. Desde el palacio podrás disfrutar de una espectacular vista a la bahía de Panamá.",
+      },
+      {
+        id: "6",
+        img: imgCultureList6,
+        img_mob: imgCultureList6Mob,
+        hero: imgCultureHero6,
+        hero_mob: imgCultureHero6Mob,
+        title: "Plaza Tomás Herrera",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-tomás-herrera",
+        summary:
+          "Visita esta reconocida plaza ubicada en el Casco Antiguo. En el centro se puede observar un alto pedestal de granito con la estatua de bronce del general Tomás Herrera, héroe nacional que participó en la gesta emancipadora de América del Sur.",
+        content:
+          "Visita esta reconocida plaza ubicada en el Casco Antiguo. En el centro se puede observar un alto pedestal de granito con la estatua de bronce del general Tomás Herrera, héroe nacional que participó en la gesta emancipadora de América del Sur.",
+      },
+      {
+        id: "7",
+        img: imgCultureList7,
+        img_mob: imgCultureList7Mob,
+        hero: imgCultureHero7,
+        hero_mob: imgCultureHero7Mob,
+        title: "Teatro Nacional de Panamá",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "teatro-nacional-de-panamá",
+        summary:
+          "Ubicado en el corazón del Casco Antiguo, es una de las obras representativas de la arquitectura neoclásica, con esculturas que homenajean a figuras como Wagner, Shakespeare, Moliere, Rossini, Cervantes y Lope de Vega. En el techo del teatro se puede apreciar un fresco del artista panameño Roberto Lewis.",
+        content:
+          "Ubicado en el corazón del Casco Antiguo, es una de las obras representativas de la arquitectura neoclásica, con esculturas que homenajean a figuras como Wagner, Shakespeare, Moliere, Rossini, Cervantes y Lope de Vega. En el techo del teatro se puede apreciar un fresco del artista panameño Roberto Lewis.",
+      },
+      {
+        id: "8",
+        img: imgCultureList8,
+        img_mob: imgCultureList8Mob,
+        hero: imgCultureHero8,
+        hero_mob: imgCultureHero8Mob,
+        title: "Plaza Bolívar",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-bolívar",
+        summary:
+          "El monumento del Libertador Simón Bolívar, la iglesia de San Francisco de Asís, la Cancillería de la República, el Teatro Nacional, el Oratorio San Felipe Neri y las Bóvedas hacen de esta plaza un lugar inolvidable que no te puedes perder.",
+        content:
+          "El monumento del Libertador Simón Bolívar, la iglesia de San Francisco de Asís, la Cancillería de la República, el Teatro Nacional, el Oratorio San Felipe Neri y las Bóvedas hacen de esta plaza un lugar inolvidable que no te puedes perder.",
+      },
+      {
+        id: "9",
+        img: imgCultureList9,
+        img_mob: imgCultureList9Mob,
+        hero: imgCultureHero9,
+        hero_mob: imgCultureHero9Mob,
+        title: "Festivales Nacionales",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "festivales-nacionales",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "10",
+        img: imgCultureList10,
+        img_mob: imgCultureList10Mob,
+        hero: imgCultureHero10,
+        hero_mob: imgCultureHero10Mob,
+        title: "Museos",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "museos",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "11",
+        img: imgCultureList11,
+        img_mob: imgCultureList11Mob,
+        hero: imgCultureHero11,
+        hero_mob: imgCultureHero11Mob,
+        title: "Casco Antiguo",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "casco-antiguo",
+        summary: "",
+        content: null,
+      },
+      //playas//List////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "10",
+        img: imgBeachesList1,
+        img_mob: imgBeachesList1Mob,
+        hero: imgBeachesHero1,
+        hero_mob: imgBeachesHero1Mob,
+        title: "Archipiélago San Blas",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-san-blas",
+        summary:
+          "San Blas es un lugar ideal para descansar, pero también hay muchas actividades que podrás realizar, entre ellas:",
+        content:
+          "San Blas es un lugar ideal para descansar, pero también hay muchas actividades que podrás realizar, entre ellas:",
+      },
+      {
+        id: "11",
+        img: imgBeachesList2,
+        img_mob: imgBeachesList2Mob,
+        hero: imgBeachesHero2,
+        hero_mob: imgBeachesHero2Mob,
+        title: "Isla Bastimentos ",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-bastimentos ",
+        summary:
+          "Situada en el archipiélago de Bocas del Toro, puedes ver especies como monos aulladores, caimanes y las diminutas ranas rojas por la zona. Las playas más reconocidas son Red Frog, Playa Polo, Playa Wizard y Playa Larga. ",
+        content:
+          "Situada en el archipiélago de Bocas del Toro, puedes ver especies como monos aulladores, caimanes y las diminutas ranas rojas por la zona. Las playas más reconocidas son Red Frog, Playa Polo, Playa Wizard y Playa Larga. ",
+      },
+      {
+        id: "12",
+        img: imgBeachesList3,
+        img_mob: imgBeachesList3Mob,
+        hero: imgBeachesHero3,
+        hero_mob: imgBeachesHero3Mob,
+        title: "Santa Catalina",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "santa-catalina",
+        summary:
+          "Localizada en la provincia de Veraguas, en la zona encontrarás varios restaurantes, alojamientos y bares. Además, Santa Catalina es el punto de partida para Coiba, Reserva Nacional reconocido por la UNESCO, popular entre los buzos y aquellos que deseen practicar snorkel.",
+        content:
+          "Localizada en la provincia de Veraguas, en la zona encontrarás varios restaurantes, alojamientos y bares. Además, Santa Catalina es el punto de partida para Coiba, Reserva Nacional reconocido por la UNESCO, popular entre los buzos y aquellos que deseen practicar snorkel.",
+      },
+      {
+        id: "13",
+        img: imgBeachesList4,
+        img_mob: imgBeachesList4Mob,
+        hero: imgBeachesHero4,
+        hero_mob: imgBeachesHero4Mob,
+        title: "Playa Venao",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-venao",
+        summary:
+          "Ubicada en la provincia de Los Santos, del lado este se encuentra uno de los puntos más importantes para los que practican este deporte en Centroamérica. Playa Venao invita a sus visitantes a dar un tour por la selva, realizar deportes acuáticos (se puede bucear con tanque y hacer pesca deportiva) y disfrutar de su vida nocturna.",
+        content:
+          "Ubicada en la provincia de Los Santos, del lado este se encuentra uno de los puntos más importantes para los que practican este deporte en Centroamérica. Playa Venao invita a sus visitantes a dar un tour por la selva, realizar deportes acuáticos (se puede bucear con tanque y hacer pesca deportiva) y disfrutar de su vida nocturna.",
+      },
+      {
+        id: "14",
+        img: imgBeachesList5,
+        img_mob: imgBeachesList5Mob,
+        hero: imgBeachesHero5,
+        hero_mob: imgBeachesHero5Mob,
+        title: "Isla Grande",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-grande",
+        summary:
+          "La pintoresca Isla Grande se localiza a poco más de 10 kilómetros del legendario Portobelo, en la provincia de Colón.  Al extremo sur se encuentra La Punta, el principal balneario de la isla para disfrutar del mar y el sol caribeños.",
+        content:
+          "La pintoresca Isla Grande se localiza a poco más de 10 kilómetros del legendario Portobelo, en la provincia de Colón.  Al extremo sur se encuentra La Punta, el principal balneario de la isla para disfrutar del mar y el sol caribeños.",
+      },
+      {
+        id: "15",
+        img: imgBeachesList6,
+        img_mob: imgBeachesList6Mob,
+        hero: imgBeachesHero6,
+        hero_mob: imgBeachesHero6Mob,
+        title: "El Palmar",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "el-palmar",
+        summary:
+          "La playa es de fácil acceso, permitiendo que cada fin de semana la puedan visitar grupos de amigos que deseen correr las olas, o simplemente alejarse un rato del entorno citadino.",
+        content:
+          "La playa es de fácil acceso, permitiendo que cada fin de semana la puedan visitar grupos de amigos que deseen correr las olas, o simplemente alejarse un rato del entorno citadino.",
+      },
+      {
+        id: "16",
+        img: imgBeachesList7,
+        img_mob: imgBeachesList7Mob,
+        hero: imgBeachesHero7,
+        hero_mob: imgBeachesHero7Mob,
+        title: "Archipiélago Las Perlas",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-las-perlas",
+        summary:
+          "Un paraíso turístico en el Océano Pacífico, caracterizado por playas de arena blanca, turquesas aguas cristalinas y una suave brisa con sabor a mar. Gracias a su cercanía a la ciudad, es uno de los principales destinos para el avistamiento de ballenas que los turistas visitan cada año.",
+        content:
+          "Un paraíso turístico en el Océano Pacífico, caracterizado por playas de arena blanca, turquesas aguas cristalinas y una suave brisa con sabor a mar. Gracias a su cercanía a la ciudad, es uno de los principales destinos para el avistamiento de ballenas que los turistas visitan cada año.",
+      },
+      {
+        id: "17",
+        img: imgBeachesList8,
+        img_mob: imgBeachesList8Mob,
+        hero: imgBeachesHero8,
+        hero_mob: imgBeachesHero8Mob,
+        title: "Isla Contadora",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-contadora",
+        summary:
+          "Es una isla de arena blanca, aguas verdes y turquesas, cuyas playas más populares son Playa Larga, Playa las Suecas, Playa Cacique, Playa Ejecutiva y Playa Galeón. Ideal para hacer snorkel, navegar a vela alrededor de las islas, alquilar un paddle board y practicar windsurf, también es un paraíso maravilloso para los amantes del buceo con tanque.",
+        content:
+          "Es una isla de arena blanca, aguas verdes y turquesas, cuyas playas más populares son Playa Larga, Playa las Suecas, Playa Cacique, Playa Ejecutiva y Playa Galeón. Ideal para hacer snorkel, navegar a vela alrededor de las islas, alquilar un paddle board y practicar windsurf, también es un paraíso maravilloso para los amantes del buceo con tanque.",
+      },
+      {
+        id: "18",
+        img: imgBeachesList9,
+        img_mob: imgBeachesList9Mob,
+        hero: imgBeachesHero9,
+        hero_mob: imgBeachesHero9Mob,
+        title: "Punta Chame",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "punta-chame",
+        summary:
+          "Ubicada en el Pacífico, su playa ofrece el ambiente perfecto para practicar kiteboard y windsurf. El área se caracteriza por sus fuertes ráfagas regulares, que lo convierten en un lugar privilegiado para este tipo de deportes.",
+        content:
+          "Ubicada en el Pacífico, su playa ofrece el ambiente perfecto para practicar kiteboard y windsurf. El área se caracteriza por sus fuertes ráfagas regulares, que lo convierten en un lugar privilegiado para este tipo de deportes.",
+      },
+      {
+        id: "19",
+        img: imgBeachesList10,
+        img_mob: imgBeachesList10Mob,
+        hero: imgBeachesHero10,
+        hero_mob: imgBeachesHero10Mob,
+        title: "Taboga",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "taboga",
+        summary:
+          "Taboga es el balneario perfecto para pasar el día y tomar el sol.  Su geología indica que es una isla de origen volcánico. Puedes subir el cerro de la Cruz, el cerro Vigía y el cerro de San Pedro, que tiene una altura de alrededor de 300 m. Otro atractivo son sus casitas y calles coloridas. Además, puedes visitar los pequeños hoteles, restaurantes, ferias de artesanías, recorrer los alrededores de la isla y mucho más.",
+        content:
+          "Taboga es el balneario perfecto para pasar el día y tomar el sol.  Su geología indica que es una isla de origen volcánico. Puedes subir el cerro de la Cruz, el cerro Vigía y el cerro de San Pedro, que tiene una altura de alrededor de 300 m. Otro atractivo son sus casitas y calles coloridas. Además, puedes visitar los pequeños hoteles, restaurantes, ferias de artesanías, recorrer los alrededores de la isla y mucho más.",
+      },
+      {
+        id: "20",
+        img: imgBeachesList11,
+        img_mob: imgBeachesList11Mob,
+        hero: imgBeachesHero11,
+        hero_mob: imgBeachesHero11Mob,
+        title: "Playa Tortuga",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-tortuga",
+        summary:
+          "Ubicada en la provincia de Bocas del Toro al oeste del país, es un oasis natural sobre las aguas cristalinas del mar Caribe. Se destaca por su abundante vida marina y arrecifes de coral que hacen de este lugar un paraíso para practicar snorkel y otros deportes acuáticos.",
+        content:
+          "Ubicada en la provincia de Bocas del Toro al oeste del país, es un oasis natural sobre las aguas cristalinas del mar Caribe. Se destaca por su abundante vida marina y arrecifes de coral que hacen de este lugar un paraíso para practicar snorkel y otros deportes acuáticos.",
+      },
+      // {
+      //   id: "21",
+      //   img: imgBeachesList12,
+      //   img_mob: imgBeachesList12Mob,
+      //   hero: imgBeachesHero12,
+      //   hero_mob: imgBeachesHero12Mob,
+      //   title: "Bahía Piñas, Darién",
+      //   type: "playas",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "playas",
+      //   slug: "bahía-piñas,-darién",
+      //   summary:
+      //     "Bahía Piñas cuenta con un complejo turístico, el cual es una joya entre montañas, selva y playa privada. Además, el arrecife Zane Grey es todo un atractivo entre sus aguas. ",
+      //   content:
+      //     "Bahía Piñas cuenta con un complejo turístico, el cual es una joya entre montañas, selva y playa privada. Además, el arrecife Zane Grey es todo un atractivo entre sus aguas. ",
+      // },
+      {
+        id: "22",
+        img: imgBeachesList13,
+        img_mob: imgBeachesList13Mob,
+        hero: imgBeachesHero13,
+        hero_mob: imgBeachesHero13Mob,
+        title: "Isla Iguana",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-iguana",
+        summary:
+          "Se encuentra a una distancia muy corta desde Pedasí. Imaginarás por qué la isla se llama así: podrás observar una población de iguanas en su ambiente natural. También encontrarás cangrejos morados y tortugas marinas entre la fauna que rodea la isla.",
+        content:
+          "Se encuentra a una distancia muy corta desde Pedasí. Imaginarás por qué la isla se llama así: podrás observar una población de iguanas en su ambiente natural. También encontrarás cangrejos morados y tortugas marinas entre la fauna que rodea la isla.",
+      },
+      //ciudad//List////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgCityList1,
+        img_mob: imgCityList1Mob,
+        hero: imgCityHero1,
+        hero_mob: imgCityHero1Mob,
+        title: "Canal de Panamá",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "canal-de-panamá",
+        summary:
+          "Descubre una de las maravillas del mundo moderno que une el Oceánico Pacífico con el Océano Atlántico. Podrás observarlo desde el centro de visitantes del Canal de Miraflores, donde podrás ver el Canal original y en Agua Clara donde podrás observar el Canal ampliado. El Canal cuenta con 144 rutas marítimas, 160 países usuarios y 1700 puertos conectados.",
+        content:
+          "Descubre una de las maravillas del mundo moderno que une el Oceánico Pacífico con el Océano Atlántico. Podrás observarlo desde el centro de visitantes del Canal de Miraflores, donde podrás ver el Canal original y en Agua Clara donde podrás observar el Canal ampliado. El Canal cuenta con 144 rutas marítimas, 160 países usuarios y 1700 puertos conectados.",
+      },
+      {
+        id: "2",
+        img: imgCityList2,
+        img_mob: imgCityList2Mob,
+        hero: imgCityHero2,
+        hero_mob: imgCityHero2Mob,
+        title: "Skylines en Panamá",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "skylines",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgCityList3,
+        img_mob: imgCityList3Mob,
+        hero: imgCityHero3,
+        hero_mob: imgCityHero3Mob,
+        title: "Calzada de Amador",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "calzada-de-amador",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "4",
+        img: imgCityList4,
+        img_mob: imgCityList4Mob,
+        hero: imgCityHero4,
+        hero_mob: imgCityHero4Mob,
+        title: "Shopping",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "shopping",
+        summary: "",
+        content: null,
+      },
+      //vida-nocturna
+        /*
+      {
+        id: "1",
+        img: imgNightList1,
+        img_mob: imgNightList1Mob,
+        hero: imgNightHero1,
+        hero_mob: imgNightHero1Mob,
+        title: "Casco Antiguo",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "casco-antiguo-vida-nocturna",
+        summary:
+          "Cuenta con una gran variedad de clubes nocturnos, restaurantes y ambiente histórico, lo que lo convierte en el destino de vida nocturna más popular en la ciudad. En el Casco podrás encontrar una increíble variedad de clubes y bares con diferentes géneros musicales. Los visitantes no se pueden perder la oportunidad de visitar al menos un bar en la azotea de Casco Antiguo para experimentar increíbles vistas de la ciudad vieja y nueva. <br>Algunos de los lugares conocidos son:<br><ul>   <li>Tantalo Rooftop Bar: excelentes vistas del horizonte y la bahía de la Ciudad de Panamá.</li>   <li>Las Bóvedas: ubicado dentro de un antiguo calabozo de 300 años, Las Bóvedas ofrece cocina francesa y galería de artes. Este restaurante generalmente tiene jazz en vivo los viernes y sábados por la noche.</li>   <li>Casablanca: un restaurante y bar urbano con cocina internacional, una buena selección de vinos y música en vivo ocasionalmente. </li>   <li>También te recomendamos conocer bares como: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, entre otros. </li></ul>",
+        content:
+          "Cuenta con una gran variedad de clubes nocturnos, restaurantes y ambiente histórico, lo que lo convierte en el destino de vida nocturna más popular en la ciudad. En el Casco podrás encontrar una increíble variedad de clubes y bares con diferentes géneros musicales. Los visitantes no se pueden perder la oportunidad de visitar al menos un bar en la azotea de Casco Antiguo para experimentar increíbles vistas de la ciudad vieja y nueva. <br>Algunos de los lugares conocidos son:<br><ul>   <li>Tantalo Rooftop Bar: excelentes vistas del horizonte y la bahía de la Ciudad de Panamá.</li>   <li>Las Bóvedas: ubicado dentro de un antiguo calabozo de 300 años, Las Bóvedas ofrece cocina francesa y galería de artes. Este restaurante generalmente tiene jazz en vivo los viernes y sábados por la noche.</li>   <li>Casablanca: un restaurante y bar urbano con cocina internacional, una buena selección de vinos y música en vivo ocasionalmente. </li>   <li>También te recomendamos conocer bares como: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, entre otros. </li></ul>",
+      },
+         */
+      /*
+      {
+        id: "2",
+        img: imgNightList2,
+        img_mob: imgNightList2Mob,
+        hero: imgNightHero2,
+        hero_mob: imgNightHero2Mob,
+        title: '360 Rooftop',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '360-Rooftop',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgNightList3,
+        img_mob: imgNightList3Mob,
+        hero: imgNightHero3,
+        hero_mob: imgNightHero3Mob,
+        title: 'Casa casco',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-casco',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "4",
+        img: imgNightList4,
+        img_mob: imgNightList4Mob,
+        hero: imgNightHero4,
+        hero_mob: imgNightHero4Mob,
+        title: 'Tantalo',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'tantalo',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "5",
+        img: imgNightList5,
+        img_mob: imgNightList5Mob,
+        hero: imgNightHero5,
+        hero_mob: imgNightHero5Mob,
+        title: 'Casa Blanca',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-blanca',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "6",
+        img: imgNightList6,
+        img_mob: imgNightList6Mob,
+        hero: imgNightHero6,
+        hero_mob: imgNightHero6Mob,
+        title: 'Madrigal',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'madrigal',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "7",
+        img: imgNightList7,
+        img_mob: imgNightList7Mob,
+        hero: imgNightHero7,
+        hero_mob: imgNightHero7Mob,
+        title: 'Calzada de amador',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '_calzada-de-amador',
+        summary: '',
+        content: null,
+      },
+      */
+        /*
+      {
+        id: "8",
+        img: imgNightList8,
+        img_mob: imgNightList8Mob,
+        hero: imgNightHero8,
+        hero_mob: imgNightHero8Mob,
+        title: "Calle Uruguay",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "calle-uruguay",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "9",
+        img: imgNightList9,
+        img_mob: imgNightList9Mob,
+        hero: imgNightHero9,
+        hero_mob: imgNightHero9Mob,
+        title: "Zona Comercial",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "zona-comercial",
+        summary:
+          "Ubicado en el centro del centro de la ciudad, la zona comercial tiene mucho que ofrecer a los turistas. Aunque no es tan sencillo trasladarse a pie de un bar/restaurante a otro, como en Casco Antiguo, los visitantes quedarán encantados con el ambiente moderno de la ciudad. <br>Algunos de los lugares conocidos son:<br><ul><li>The Hard Rock Hotel: el Hard Rock Roof Lounge tiene impresionantes vistas de la ciudad y el océano 360, ideal para ver la puesta de sol.</li><li>Steinbock: pub alemán con una gran selección de cervezas alemanas y europeas, así como una variedad de delicias culinarias alemanas.<li>El Apartamento: uno de los puntos más modernos de la ciudad. El Apartamento tiene un interior rústico y artístico, y eventos semanales como exhibiciones de bandas locales y comedias de aficionados.</li></ul>",
+        content:
+          "Ubicado en el centro del centro de la ciudad, la zona comercial tiene mucho que ofrecer a los turistas. Aunque no es tan sencillo trasladarse a pie de un bar/restaurante a otro, como en Casco Antiguo, los visitantes quedarán encantados con el ambiente moderno de la ciudad. <br>Algunos de los lugares conocidos son:<br><ul><li>The Hard Rock Hotel: el Hard Rock Roof Lounge tiene impresionantes vistas de la ciudad y el océano 360, ideal para ver la puesta de sol.</li><li>Steinbock: pub alemán con una gran selección de cervezas alemanas y europeas, así como una variedad de delicias culinarias alemanas.<li>El Apartamento: uno de los puntos más modernos de la ciudad. El Apartamento tiene un interior rústico y artístico, y eventos semanales como exhibiciones de bandas locales y comedias de aficionados.</li></ul>",
+      },
+         */
+      //naturaleza/List/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNatureList1,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero1,
+        hero_mob: imgNatureHero1Mob,
+        title: "Cerro Ancón",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cerro-ancón",
+        summary:
+          "Descubre un bosque tropical en medio de una zona urbana y encuentra una amplia variedad de flora y fauna, como tucanes, armadillos, perezosos, coatíes, entre otros.",
+        content:
+          "Descubre un bosque tropical en medio de una zona urbana y encuentra una amplia variedad de flora y fauna, como tucanes, armadillos, perezosos, coatíes, entre otros.",
+      },
+      {
+        id: "2",
+        img: imgNatureList2,
+        img_mob: imgNatureList2Mob,
+        hero: imgNatureHero2,
+        hero_mob: imgNatureHero2Mob,
+        title: "Antigua Zona Canalera",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "antigua-zona-canalera",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgNatureList3,
+        img_mob: imgNatureList3Mob,
+        hero: imgNatureHero3,
+        hero_mob: imgNatureHero3Mob,
+        title: "Camino de Cruces",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "camino-de-cruces",
+        summary:
+          "A 20 minutos del centro de la Ciudad de Panamá, este parque cuenta con senderos que llevan a bosques con una riqueza natural, flora y fauna imponentes, desde donde se pueden apreciar diferentes animales y hermosas vistas panorámicas.",
+        content:
+          "A 20 minutos del centro de la Ciudad de Panamá, este parque cuenta con senderos que llevan a bosques con una riqueza natural, flora y fauna imponentes, desde donde se pueden apreciar diferentes animales y hermosas vistas panorámicas.",
+      },
+      {
+        id: "4",
+        img: imgNatureList4,
+        img_mob: imgNatureList4Mob,
+        hero: imgNatureHero4,
+        hero_mob: imgNatureHero4Mob,
+        title: "Parque Nacional Metropolitano",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-nacional-metropolitano",
+        summary:
+          "El parque se encuentra a 10 minutos de la Ciudad de Panamá. En este hermoso lugar podrás caminar por los senderos marcados, rodeados de orquídeas y árboles de cedro, y ver más de 200 especies diferentes de aves (algunas de las cuales se han descubierto en los predios de este parque), mamíferos y reptiles. También se ofrecen caminatas guiadas de una hora. ",
+        content:
+          "El parque se encuentra a 10 minutos de la Ciudad de Panamá. En este hermoso lugar podrás caminar por los senderos marcados, rodeados de orquídeas y árboles de cedro, y ver más de 200 especies diferentes de aves (algunas de las cuales se han descubierto en los predios de este parque), mamíferos y reptiles. También se ofrecen caminatas guiadas de una hora. ",
+      },
+      /*
+      {
+        id: "5",
+        img: imgNatureList5,
+        img_mob: imgNatureList5Mob,
+        hero: imgNatureHero5,
+        hero_mob: imgNatureHero5Mob,
+        title: 'Provincia de Chiriquí',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-chiriquí',
+        summary: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.',
+        content: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.'
+      },
+      */
+      {
+        id: "6",
+        img: imgNatureList6,
+        img_mob: imgNatureList6Mob,
+        hero: imgNatureHero6,
+        hero_mob: imgNatureHero6Mob,
+        title: "Boquete",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "boquete",
+        summary:
+          "Aquí puedes lanzarte a la aventura y hacer actividades como senderismo, canopy, rafting, paseos a caballo y avistamiento de aves. Es también un lugar destacado para el cultivo del café, donde se cosecha el famoso café Geisha, galardonado internacionalmente como uno de los mejores del mundo. <br>Durante el mes de enero, en este bello sitio se celebra anualmente la Feria Internacional de las Flores y Café, conocida en el distrito como la Feria de Boquete.",
+        content:
+          "Aquí puedes lanzarte a la aventura y hacer actividades como senderismo, canopy, rafting, paseos a caballo y avistamiento de aves. Es también un lugar destacado para el cultivo del café, donde se cosecha el famoso café Geisha, galardonado internacionalmente como uno de los mejores del mundo. <br>Durante el mes de enero, en este bello sitio se celebra anualmente la Feria Internacional de las Flores y Café, conocida en el distrito como la Feria de Boquete.",
+      },
+      /*
+      {
+        id: "7",
+        img: imgNatureList7,
+        img_mob: imgNatureList7Mob,
+        hero: imgNatureHero7,
+        hero_mob: imgNatureHero7Mob,
+        title: 'Volcán Barú',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'volcán-barú',
+        summary: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.',
+        content: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.'
+      },
+      */
+      {
+        id: "8",
+        img: imgNatureList8,
+        img_mob: imgNatureList8Mob,
+        hero: imgNatureHero8,
+        hero_mob: imgNatureHero8Mob,
+        title: "Parque Internacional La Amistad",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-internacional-la-amistad",
+        summary:
+          "Se pueden visitar senderos como Los Gigantes del Bosque, Valle del Silencio y Sabanas Esperanza, entre otros. También podrás observar una gran variedad de árboles gigantes como el roble blanco, aves como el tucán y el pájaro campana, y especies como colibríes, pinzones, quetzales y monos carablanca, entre otros.",
+        content:
+          "Se pueden visitar senderos como Los Gigantes del Bosque, Valle del Silencio y Sabanas Esperanza, entre otros. También podrás observar una gran variedad de árboles gigantes como el roble blanco, aves como el tucán y el pájaro campana, y especies como colibríes, pinzones, quetzales y monos carablanca, entre otros.",
+      },
+      {
+        id: "9",
+        img: imgNatureList9,
+        img_mob: imgNatureList9Mob,
+        hero: imgNatureHero9,
+        hero_mob: imgNatureHero9Mob,
+        title: "Volcán y Cerro Punta",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "volcán-y-cerro-punta",
+        summary:
+          "El Cerro Punta es un pueblo pintoresco y montañoso, con mosaicos de tierras cultivadas sobre la ladera montañosa que decoran el paisaje. Aquí, no puedes dejar de probar una tacita de chocolate caliente y un plato de fresas con crema.<br>El poblado es hermoso, con coloridas flores y áreas protegidas que lo convierten en uno de los mejores lugares de Centroamérica para vislumbrar al quetzal. También es el hogar de importantes crías de caballo y granjas agrícolas.",
+        content:
+          "El Cerro Punta es un pueblo pintoresco y montañoso, con mosaicos de tierras cultivadas sobre la ladera montañosa que decoran el paisaje. Aquí, no puedes dejar de probar una tacita de chocolate caliente y un plato de fresas con crema.<br>El poblado es hermoso, con coloridas flores y áreas protegidas que lo convierten en uno de los mejores lugares de Centroamérica para vislumbrar al quetzal. También es el hogar de importantes crías de caballo y granjas agrícolas.",
+      },
+      {
+        id: "10",
+        img: imgNatureList10,
+        img_mob: imgNatureList10Mob,
+        hero: imgNatureHero10,
+        hero_mob: imgNatureHero10Mob,
+        title: "Cosechas de Café",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cosechas-de-café",
+        summary:
+          "Boquete y Volcán poseen la altura óptima para la producción del café de altura, arriba de los 1300 m.s.n.m., lo cual le otorga su calidad mundialmente reconocida. ",
+        content:
+          "Boquete y Volcán poseen la altura óptima para la producción del café de altura, arriba de los 1300 m.s.n.m., lo cual le otorga su calidad mundialmente reconocida. ",
+      },
+      /*
+      {
+        id: "11",
+        img: imgNatureList11,
+        img_mob: imgNatureList11Mob,
+        hero: imgNatureHero11,
+        hero_mob: imgNatureHero11Mob,
+        title: 'Provincia de Coclé',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-coclé',
+        summary: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.',
+        content: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.'
+      },
+      */
+      {
+        id: "12",
+        img: imgNatureList12,
+        img_mob: imgNatureList12Mob,
+        hero: imgNatureHero12,
+        hero_mob: imgNatureHero12Mob,
+        title: "El Valle de Antón",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "el-valle-de-antón",
+        summary:
+          "Aquí se goza de un clima placentero y se aprecian cautivadores paisajes de la flora y fauna locales. El cerro de la India Dormida, con sus inigualables vistas panorámicas, es una de las principales atracciones de la ciudad, cuyo nombre se debe a su parecido con una india. En el Valle podrás encontrar: ",
+        content:
+          "Aquí se goza de un clima placentero y se aprecian cautivadores paisajes de la flora y fauna locales. El cerro de la India Dormida, con sus inigualables vistas panorámicas, es una de las principales atracciones de la ciudad, cuyo nombre se debe a su parecido con una india. En el Valle podrás encontrar: ",
+      },
+      {
+        id: "13",
+        img: imgNatureList13,
+        img_mob: imgNatureList13Mob,
+        hero: imgNatureHero13,
+        hero_mob: imgNatureHero13Mob,
+        title: "Provincia de Colón",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-colón",
+        summary:
+          "<strong>Parque Nacional Portobelo:</strong> se pueden explorar fortificaciones coloniales a través de los senderos en el bosque o hacer buceo en el mar Caribe. El parque cuenta con hoteles y restaurantes, y se pueden alquilar equipos de buceo y motos acuáticas.<br><strong>Parque Nacional Chagres:</strong> protege la cuenca hidrográfica del Canal de Panamá. El 80 % del agua destinada al funcionamiento del canal y al consumo de agua potable de la Ciudad de Panamá y Colón proviene de esta área, donde encontrarás especies endémicas como la salamandra kuna y el carpintero carirrayado, que se pueden ver en Cerro Azul, el tapir, el águila harpía, el jaguar y otros 4 felinos panameños. Los ríos que desembocan en el lago Alajuela son el hábitat de gatos de agua (nutrias), babillos y caimanes.",
+        content:
+          "<strong>Parque Nacional Portobelo:</strong> se pueden explorar fortificaciones coloniales a través de los senderos en el bosque o hacer buceo en el mar Caribe. El parque cuenta con hoteles y restaurantes, y se pueden alquilar equipos de buceo y motos acuáticas.<br><strong>Parque Nacional Chagres:</strong> protege la cuenca hidrográfica del Canal de Panamá. El 80 % del agua destinada al funcionamiento del canal y al consumo de agua potable de la Ciudad de Panamá y Colón proviene de esta área, donde encontrarás especies endémicas como la salamandra kuna y el carpintero carirrayado, que se pueden ver en Cerro Azul, el tapir, el águila harpía, el jaguar y otros 4 felinos panameños. Los ríos que desembocan en el lago Alajuela son el hábitat de gatos de agua (nutrias), babillos y caimanes.",
+      },
+      {
+        id: "14",
+        img: imgNatureList14,
+        img_mob: imgNatureList14Mob,
+        hero: imgNatureHero14,
+        hero_mob: imgNatureHero14Mob,
+        title: "Desierto de Sarigua",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "desierto-de-sarigua",
+        summary:
+          "Parque Nacional Sarigua: la vegetación en este parque se divide en cuatro categorías: leguminosas, arbóreas, cactáceas y portulacaceae. Además de la vegetación, otro de los principales puntos de interés son los descubrimientos arqueológicos.",
+        content:
+          "Parque Nacional Sarigua: la vegetación en este parque se divide en cuatro categorías: leguminosas, arbóreas, cactáceas y portulacaceae. Además de la vegetación, otro de los principales puntos de interés son los descubrimientos arqueológicos.",
+      },
+      {
+        id: "15",
+        img: imgNatureList15,
+        img_mob: imgNatureList15Mob,
+        hero: imgNatureHero15,
+        hero_mob: imgNatureHero15Mob,
+        title: "Provincia de Darién",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-darién",
+        summary:
+          "Es el hábitat de más de 300 especies de aves, como el águila harpía, cuatro especies de guacamayas, y muchas especies endémicas, que hacen de este territorio uno de los favoritos de los observadores de aves a nivel mundial. Esta provincia es rica en cultura y, además, es la tierra de los indios Emberá-Wounaan y Kuna.",
+        content:
+          "Es el hábitat de más de 300 especies de aves, como el águila harpía, cuatro especies de guacamayas, y muchas especies endémicas, que hacen de este territorio uno de los favoritos de los observadores de aves a nivel mundial. Esta provincia es rica en cultura y, además, es la tierra de los indios Emberá-Wounaan y Kuna.",
+      },
+      {
+        id: "16",
+        img: imgNatureList16,
+        img_mob: imgNatureList16Mob,
+        hero: imgNatureHero16,
+        hero_mob: imgNatureHero16Mob,
+        title: "Los cajones de Chame",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "los-cajones-de-chame",
+        summary:
+          "Cajones de Chame: es un conjunto de laberintos de rocas formadas por la erosión del Río de Chame, que constituye un lugar ideal para realizar actividades de aventura.",
+        content:
+          "Cajones de Chame: es un conjunto de laberintos de rocas formadas por la erosión del Río de Chame, que constituye un lugar ideal para realizar actividades de aventura.",
+      },
+      {
+        id: "17",
+        img: imgNatureList17,
+        img_mob: imgNatureList17Mob,
+        hero: imgNatureHero17,
+        hero_mob: imgNatureHero17Mob,
+        title: "Canchas de golf",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "canchas-de-golf",
+        summary:
+          "En la ciudad: <br>Tucan Country Club & Resort: esta bella cancha de golf está rodeada de bosques tropicales y ofrece vistas panorámicas del Canal y la Ciudad de Panamá.<br>Summit Golf & Resort: es una cancha profesional, diseñada por Jeffrey Myers, que ofrece lujosos fairways y true greens en un paraíso rodeado de colinas, llanuras y vida silvestre.<br>Club de Golf Panamá: diseñada para utilizarse en eventos profesionales nacionales e internacionales, ya que cumple con los requisitos a nivel internacional. Además, se puede disfrutar de su bello paisaje de variada naturaleza y distintos lagos.<br>Santa Maria Golf Club: diseñada por el multicampeón Jack Nicklaus; el campo se construyó con la más moderna tecnología, siguiendo las normas USGA para los greens. El diseño de la cancha permite que al jugador siga una ruta segura hacia el green, pero con un bunkering bien colocado.",
+        content:
+          "En la ciudad: <br>Tucan Country Club & Resort: esta bella cancha de golf está rodeada de bosques tropicales y ofrece vistas panorámicas del Canal y la Ciudad de Panamá.<br>Summit Golf & Resort: es una cancha profesional, diseñada por Jeffrey Myers, que ofrece lujosos fairways y true greens en un paraíso rodeado de colinas, llanuras y vida silvestre.<br>Club de Golf Panamá: diseñada para utilizarse en eventos profesionales nacionales e internacionales, ya que cumple con los requisitos a nivel internacional. Además, se puede disfrutar de su bello paisaje de variada naturaleza y distintos lagos.<br>Santa Maria Golf Club: diseñada por el multicampeón Jack Nicklaus; el campo se construyó con la más moderna tecnología, siguiendo las normas USGA para los greens. El diseño de la cancha permite que al jugador siga una ruta segura hacia el green, pero con un bunkering bien colocado.",
+      },
+      //gastronomia/list///////////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgGastronomyList1,
+        img_mob: imgGastronomyList1Mob,
+        hero: imgGastronomyHero1,
+        hero_mob: imgGastronomyHero1Mob,
+        title: "Platos típicos",
+        type: "gastronomia",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "platos-tipicos",
+        summary: "",
+        content: "",
+      },
+      // {
+      //   id: "2",
+      //   img: imgGastronomyList2,
+      //   img_mob: imgGastronomyList2Mob,
+      //   hero: imgGastronomyHero2,
+      //   hero_mob: imgGastronomyHero2Mob,
+      //   title: "Eventos gastronómicos",
+      //   type: "gastronomia",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "gastronomia",
+      //   slug: "eventos-gastronomicos",
+      //   summary: "",
+      //   content: ""
+      // },
+      // {
+      //   id: "3",
+      //   img: imgGastronomyList3,
+      //   img_mob: imgGastronomyList3Mob,
+      //   hero: imgGastronomyHero3,
+      //   hero_mob: imgGastronomyHero3Mob,
+      //   title: "Restaurantes",
+      //   type: "gastronomia",
+      //   slug_parent: "",
+      //   slug_child: "",
+      //   slug: "restaurant",
+      //   summary: "",
+      //   content: ""
+      // }
+    ],
+    //DETALLES//////////////////////////////////////////////////////////////////////////////////////////////////////////
+    detail: [
+      //cultura//detalle////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgCultureList1,
+        img_mob: imgCultureList1Mob,
+        hero: imgCultureHero1,
+        hero_mob: imgCultureHero1Mob,
+        title: "Ruinas de Panamá La Vieja",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "ruinas-de-panamá-la-vieja",
+        content:
+          "A solo 5.2 km de la capital, podrás visitar la torre de la Catedral, el Puente del Rey, el Puente del Matadero, Museo de sitio y ruinas como las de San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús y los Conventos de la Concepción, entre otras.",
+        did_you_know_img: imgCultureKnow1,
+        did_you_know_img_mobile: imgCultureKnow1Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Ruinas de Panamá La Vieja",
+        did_you_know_content:
+          " Es Patrimonio de la Humanidad y fue la primera ciudad fundada por los españoles en el Pacífico. En agosto de 2019, la Ciudad de Panamá cumplió 500 años.",
+        distance_title: "Ubicación: ",
+        distance_content:
+          "Ciudad de Panamá, sobre la Vía Cincuentenario, en el sudeste de la capital.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Ruinas de Panama La Vieja",
+            img: imgCultureGallery1_1,
+            img_mob: imgCultureGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Ruinas de Panama La Vieja",
+            img: imgCultureGallery1_2,
+            img_mob: imgCultureGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Ruinas de Panama La Vieja",
+            img: imgCultureGallery1_3,
+            img_mob: imgCultureGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Ruinas de Panama La Vieja",
+            img: imgCultureGallery1_4,
+            img_mob: imgCultureGallery1_4Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "5",
+            title: "Ruinas de Panama La Vieja",
+            img: imgCultureGallery1_5,
+            img_mob: imgCultureGallery1_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgCultureList2,
+        img_mob: imgCultureList2Mob,
+        hero: imgCultureHero2,
+        hero_mob: imgCultureHero2Mob,
+        title: "Catedral Basílica Santa María la Antigua",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "catedral-basílica-santa-maría-la-antigua",
+        content:
+          "Mejor conocida como la Catedral Metropolitana de Panamá; su altar fue consagrado por el Papa Francisco y es la iglesia católica más importante de la ciudad. Se puede visitar todos los días de 7:00 a. m. a 7:00 p. m.",
+        did_you_know_img: imgCultureKnow2,
+        did_you_know_img_mobile: imgCultureKnow2Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Catedral Basílica Santa María la Antigua",
+        did_you_know_content:
+          " Es Patrimonio Mundial de la Humanidad y Monumento Histórico Nacional.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Catedral Basílica Santa María la Antigua",
+            img: imgCultureGallery2_1,
+            img_mob: imgCultureGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Catedral Basílica Santa María la Antigua",
+            img: imgCultureGallery2_2,
+            img_mob: imgCultureGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Catedral Basílica Santa María la Antigua",
+            img: imgCultureGallery2_3,
+            img_mob: imgCultureGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Catedral Basílica Santa María la Antigua",
+            img: imgCultureGallery2_4,
+            img_mob: imgCultureGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Catedral Basílica Santa María la Antigua",
+            img: imgCultureGallery2_5,
+            img_mob: imgCultureGallery2_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgCultureList3,
+        img_mob: imgCultureList3Mob,
+        hero: imgCultureHero3,
+        hero_mob: imgCultureHero3Mob,
+        title: "Plaza de la Independencia",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-de-la-independencia",
+        content:
+          "Es una de las plazas emblemáticas del Casco Antiguo y uno de los grandes sitios históricos de Panamá. Se la conoce oficialmente como la Plaza Independencia, pero también como Plaza Mayor. Está rodeada de edificios de la época colonial, entre ellos la Catedral Metropolitana, el Palacio Municipal y el Museo del Canal Interoceánico.",
+        did_you_know_img: imgCultureKnow3,
+        did_you_know_img_mobile: imgCultureKnow3Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Plaza de la Independencia",
+        did_you_know_content:
+          " Fue la Plaza Mayor hasta comienzos del siglo XX y está rodeada de edificios muy importantes de Panamá.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Plaza de la Independencia",
+            img: imgCultureGallery3_1,
+            img_mob: imgCultureGallery3_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Plaza de la Independencia",
+            img: imgCultureGallery3_2,
+            img_mob: imgCultureGallery3_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Plaza de la Independencia",
+            img: imgCultureGallery3_3,
+            img_mob: imgCultureGallery3_3Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "4",
+            title: "Plaza de la Independencia",
+            img: imgCultureGallery3_4,
+            img_mob: imgCultureGallery3_4Mob,
+            url: null
+          },
+          */
+          /* {
+            identifier: "5",
+            title: "Plaza de la Independencia",
+            img: imgCultureGallery3_5,
+            img_mob: imgCultureGallery3_5Mob,
+            url: null
+          } */
+        ],
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgCultureList4,
+        img_mob: imgCultureList4Mob,
+        hero: imgCultureHero4,
+        hero_mob: imgCultureHero4Mob,
+        title: "Iglesia de la Merced de la Ciudad de Panamá",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "iglesia-de-la-merced-de-la-ciudad-de-panamá",
+        content:
+          "Es un templo católico de más de 400 años de antigüedad y cuenta con sorprendentes piezas arquitectónicas y una rica historia. Encontrarás dos capillas: una de la Virgen de la Merced y otra de un mausoleo.",
+        did_you_know_img: imgCultureKnow4,
+        did_you_know_img_mobile: imgCultureKnow4Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Iglesia de la Merced de la Ciudad de Panamá",
+        did_you_know_content:
+          " La iglesia y la ciudad fueron atacadas por piratas, y la fachada del templo se trasladó pieza por pieza hasta la nueva ciudad en 1680.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Iglesia de la Merced de la Ciudad de Panamá",
+            img: imgCultureGallery4_1,
+            img_mob: imgCultureGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Iglesia de la Merced de la Ciudad de Panamá",
+            img: imgCultureGallery4_2,
+            img_mob: imgCultureGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Iglesia de la Merced de la Ciudad de Panamá",
+            img: imgCultureGallery4_3,
+            img_mob: imgCultureGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Iglesia de la Merced de la Ciudad de Panamá",
+            img: imgCultureGallery4_4,
+            img_mob: imgCultureGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Iglesia de la Merced de la Ciudad de Panamá",
+            img: imgCultureGallery4_5,
+            img_mob: imgCultureGallery4_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "5",
+        img: imgCultureList5,
+        img_mob: imgCultureList5Mob,
+        hero: imgCultureHero5,
+        hero_mob: imgCultureHero5Mob,
+        title: "Palacio de las Garzas",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "palacio-de-las-garzas",
+        content:
+          "Un edificio caracterizado por una arquitectura colonial, con una historia y patrimonio cultural importantes, que actualmente es la sede de la presidencia de la República de Panamá. Desde el palacio podrás disfrutar de una espectacular vista a la bahía de Panamá.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Palacio de las Garzas",
+        did_you_know_content:
+          " Se utilizó como depósito en 1821, como escuela de varones entre 1872 y 1875, como Casa de Gobierno y como sede del Banco Nacional, hasta que en 1875 se convirtió en el Palacio Presidencial.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "6",
+        img: imgCultureList6,
+        img_mob: imgCultureList6Mob,
+        hero: imgCultureHero6,
+        hero_mob: imgCultureHero6Mob,
+        title: "Plaza Tomás Herrera",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-tomás-herrera",
+        content:
+          "Visita esta reconocida plaza ubicada en el Casco Antiguo. En el centro se puede observar un alto pedestal de granito con la estatua de bronce del general Tomás Herrera, héroe nacional que participó en la gesta emancipadora de América del Sur.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Plaza Tomás Herrera",
+        did_you_know_content:
+          " A mediados del siglo XIX, este espacio abierto se conocía como la Plaza del Triunfo, donde se celebraban corridas de toros y otras fiestas.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Plaza Tomás Herrera",
+            img: imgCultureGallery6_1,
+            img_mob: imgCultureGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Plaza Tomás Herrera",
+            img: imgCultureGallery6_2,
+            img_mob: imgCultureGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Plaza Tomás Herrera",
+            img: imgCultureGallery6_3,
+            img_mob: imgCultureGallery6_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "7",
+        img: imgCultureList7,
+        img_mob: imgCultureList7Mob,
+        hero: imgCultureHero7,
+        hero_mob: imgCultureHero7Mob,
+        title: "Teatro Nacional de Panamá",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "teatro-nacional-de-panamá",
+        content:
+          "Ubicado en el corazón del Casco Antiguo, es una de las obras representativas de la arquitectura neoclásica, con esculturas que homenajean a figuras como Wagner, Shakespeare, Moliere, Rossini, Cervantes y Lope de Vega. En el techo del teatro se puede apreciar un fresco del artista panameño Roberto Lewis.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Teatro Nacional de Panamá",
+        did_you_know_content:
+          " En 1904 se ordenó la construcción del teatro con un estilo de opereta italiano, que estuvo a cargo del arquitecto italiano Genaro Ruggieri.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Teatro Nacional de Panamá",
+            img: imgCultureGallery7_1,
+            img_mob: imgCultureGallery7_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Teatro Nacional de Panamá",
+            img: imgCultureGallery7_2,
+            img_mob: imgCultureGallery7_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Teatro Nacional de Panamá",
+            img: imgCultureGallery7_3,
+            img_mob: imgCultureGallery7_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Teatro Nacional de Panamá",
+            img: imgCultureGallery7_4,
+            img_mob: imgCultureGallery7_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Teatro Nacional de Panamá",
+            img: imgCultureGallery7_5,
+            img_mob: imgCultureGallery7_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "8",
+        img: imgCultureList8,
+        img_mob: imgCultureList8Mob,
+        hero: imgCultureHero8,
+        hero_mob: imgCultureHero8Mob,
+        title: "Plaza Bolívar",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-bolívar",
+        content:
+          "El monumento del Libertador Simón Bolívar, la iglesia de San Francisco de Asís, la Cancillería de la República, el Teatro Nacional, el Oratorio San Felipe Neri y las Bóvedas hacen de esta plaza un lugar inolvidable que no te puedes perder.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Plaza Bolívar",
+        did_you_know_content:
+          " El monumento del Libertador Simón Bolívar fue construido para recordar los 100 años de celebración del Congreso Anfictiónico.",
+        distance_title: "Ubicación: ",
+        distance_content: "Casco Antiguo de la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Plaza Bolívar",
+            img: imgCultureGallery8_1,
+            img_mob: imgCultureGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Plaza Bolívar",
+            img: imgCultureGallery8_2,
+            img_mob: imgCultureGallery8_2Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgCultureList9,
+        img_mob: imgCultureList9Mob,
+        hero: imgCultureHero9,
+        hero_mob: imgCultureHero9Mob,
+        title: "Festivales Nacionales",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "festivales-nacionales",
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Festivales Nacionales",
+            img: imgCultureGallery9_1,
+            img_mob: imgCultureGallery9_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Festivales Nacionales",
+            img: imgCultureGallery9_2,
+            img_mob: imgCultureGallery9_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Festivales Nacionales",
+            img: imgCultureGallery9_3,
+            img_mob: imgCultureGallery9_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Festivales Nacionales",
+            img: imgCultureGallery9_4,
+            img_mob: imgCultureGallery9_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Festivales Nacionales",
+            img: imgCultureGallery9_5,
+            img_mob: imgCultureGallery9_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Desfile de las Mil Polleras",
+            subtitle: null,
+            content:
+              "En enero, alrededor de 15 000 mujeres lucen las “polleras más bellas del mundo” en este evento folclórico que se celebra hace ya 8 años y que promueve las tradiciones culturales, folclóricas y artísticas de Panamá.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Carnavales",
+            subtitle: null,
+            content:
+              "En febrero y marzo, Panamá se viste de fiesta durante cuatro días y se llena de diversión, música y sus famosos “culecos” con camiones cisternas que rocían con agua a los visitantes. La noche también se enciende gracias a los desfiles, paradas de reinas y conciertos de artistas de talla nacional e internacional.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Festival de la Pollera",
+            subtitle: null,
+            content:
+              "El 22 de julio se celebra este evento folclórico en Las Tablas, en el que se destaca el traje nacional de Panamá y se difunden conocimientos sobre el uso correcto de la pollera y el trabajo artesanal de la provincia.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Festival de la Mejorana",
+            subtitle: null,
+            content:
+              "En septiembre llega este tradicional evento folclórico, que reconoce al instrumento más destacado y auténtico de la región. Cientos de delegaciones de todo el país se visten de fiesta para participar en el festival y todos sus concursos.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "10",
+        img: imgCultureList10,
+        img_mob: imgCultureList10Mob,
+        hero: imgCultureHero10,
+        hero_mob: imgCultureHero10Mob,
+        title: "Museos",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "museos",
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Museos",
+            img: imgCultureGallery10_1,
+            img_mob: imgCultureGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Museos",
+            img: imgCultureGallery10_2,
+            img_mob: imgCultureGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Museos",
+            img: imgCultureGallery10_3,
+            img_mob: imgCultureGallery10_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Museos",
+            img: imgCultureGallery10_4,
+            img_mob: imgCultureGallery10_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Museos",
+            img: imgCultureGallery10_5,
+            img_mob: imgCultureGallery10_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Museo Panamá la Vieja",
+            subtitle:
+              "Cuenta la historia de Panamá en sus etapas prehispánica, colonial y moderna y se ofrecen visitas guiadas para conocer más sobre la historia de este sitio arqueológico. Además del museo, se pueden recorrer las ruinas y visitar la Librería de Panamá Viejo.",
+            content:
+              "Horarios: El conjunto monumental está abierto al público de martes a domingos de 8:30 a. m. a 4:30 p. m.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Biomuseo",
+            subtitle:
+              "¿Sabías qué? Fue diseñado por el famoso arquitecto Frank Gehry y constituye su primera obra arquitectónica en Latinoamérica.",
+            content:
+              "Exhibe la naturaleza y la biodiversidad de Panamá. Único en la región, el museo incluye un atrio público, un espacio para exhibiciones temporales, una tienda, una cafetería y múltiples exhibiciones exteriores dispuestas en un parque botánico.<br />Horarios: está abierto de martes a viernes de 10:00 a. m. a 4:00 p. m. y de sábado a domingo de 10:00 a. m. a 5:00 p. m.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Museo de Arte Contemporáneo",
+            subtitle:
+              "¿Sabías qué? Conocido como el MAC, es el único museo de arte contemporáneo en Panamá.",
+            content:
+              "En el Museo de Arte Contemporáneo, se exhiben más de 600 obras de arte de todas las disciplinas: pintura, escultura, gráfica, fotografía y video. Además, cuenta con exposiciones permanentes, temporales, nacionales e internacionales.<br>Las visitas podrán hacerse de viernes a domingo de 10 am a 5 pm.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Museo del Canal Interoceánico de Panamá",
+            subtitle:
+              "¿Sabías qué? El Museo está dedicado a conservar, investigar y difundir la historia del canal.",
+            content:
+              "Conocido como el Museo del Canal de Panamá, expone la historia de la ruta interoceánica a través del istmo y de la construcción del Canal de Panamá. Allí podrás aprender sobre la evolución de las actividades canaleras y descubrir una gran exposición temporal perteneciente al ámbito de la cultura, arquitectura, historia, y conservación ambiental.<br>Horarios: abierto de martes a domingos de 10:00 a. m. a 5:00 p. m",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Centro de visitantes de Miraflores",
+            subtitle:
+              "¿Sabías qué? Es el lugar ideal para observar las operaciones del Canal de Panamá.",
+            content:
+              "El Museo tiene cuatro salas que exhiben la historia y el funcionamiento del canal, la importancia del agua, el rol en el comercio mundial y los avances de la ampliación. También hay un moderno teatro, tres terrazas de observación, dos refresquerías y un restaurante con vista panorámica al Canal de Panamá.<br>Horarios: está abierto al público de lunes a domingo de 9:00 a. m. a 4:30 p. m.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Museo de la Mola (MuMo)",
+            subtitle:
+              "¿Sabías qué? En el museo encontrarás unas 200 molas. Don Alberto Motta quería que se apreciaran como piezas de arte en Panamá y el mundo.",
+            content:
+              "El museo te invita a explorar y conocer sobre las molas desde su aspecto artístico a través de sus cinco exhibiciones:<br>- Técnica y evolución de la mola.<br>- Cosmovisión y Protección.<br>- Entorno.<br>- Molas en capas.<br>- Molas narrativas o molas de cuentos.<br><br>En el MuMo podrás aprender sobre la evolución de la mola, explorarás los valores estéticos, conocerás como se elaboran, su significado y también podrás confeccionar tu propia mola.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "11",
+        img: imgCultureList11,
+        img_mob: imgCultureList11Mob,
+        hero: imgCultureHero11,
+        hero_mob: imgCultureHero11Mob,
+        title: "Casco Antiguo",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "casco-antiguo",
+        content:
+          "Uno de los lugares más emblemáticos de Panamá, reconocido como Patrimonio de la Humanidad por la UNESCO en 1997. Descubre sus históricos y coloridos edificios y pintorescas calles llenas de creatividad y arte en cada rincón.<br/><br/><strong>Plazas</strong>: Plaza de la Independencia, Plaza Bolívar y Plaza de Francia.<br/><br/>\n" +
+          "<strong>Monumentos Religiosos e Iglesias</strong>: Iglesia de San José (Iglesia del Altar de Oro), Iglesia de San Francisco de Neri, Iglesia la Merced, Convento de los Jesuitas y Convento Santo Domingo.<br/><br/>\n" +
+          "<strong>Edificios Oficiales</strong>: Palacio Nacional, Palacio de Las Garzas, Palacio de Gobierno y Justicia, Teatro Nacional, Presidencia de la República, Palacio Bolívar, Instituto Nacional de Cultura, Palacio Municipal y Casa de la Municipalidad.<br/><br/>\n",
+        did_you_know_img: imgCultureKnow11,
+        did_you_know_img_mobile: imgCultureKnow11Mob,
+        did_you_know_title: "¿Sabías qué? ",
+        did_you_know_subtitle:
+          "Es una hermosa zona colonial, reconocida como Patrimonio de la Humanidad por la UNESCO en 1997",
+        did_you_know_content:
+          "Descubre sus coloridos edificios y pintorescas calles llenas de creatividad y arte en cada rincón. Aquí encontrarás:",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_1,
+            img_mob: imgCultureGallery11_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_2,
+            img_mob: imgCultureGallery11_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_3,
+            img_mob: imgCultureGallery11_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_4,
+            img_mob: imgCultureGallery11_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_5,
+            img_mob: imgCultureGallery11_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //playas//detalle/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "10",
+        img: imgBeachesList1,
+        img_mob: imgBeachesList1Mob,
+        hero: imgBeachesHero1,
+        hero_mob: imgBeachesHero1Mob,
+        title: "Archipiélago San Blas",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-san-blas",
+        content:
+          "San Blas es un lugar ideal para descansar, pero también hay muchas actividades que podrás realizar, entre ellas:<br><strong>Excursión por San Blas:</strong> en menos de 24 horas, recorre los sitios más populares, como la Isla Perro, el Barco Hundido y la Isla Tortuga, para disfrutar del tranquilo mar y hacer snorkel.<br><strong>Recorrido cultural:</strong> este territorio pertenece a la comarca Guna Yala, donde la comunidad mantiene su cultura y tradiciones desde hace siglos. Si visitas las islas más pobladas, podrás apreciar las danzas Guna, la belleza de la Mola y otras manifestaciones culturales típicas.<br><strong>Recorridos en bote:</strong> existen múltiples opciones para disfrutar de San Blas de una manera diferente, como tomar un catamarán o velero directamente desde el mar.",
+        did_you_know_img: imgBeachesKnow1,
+        did_you_know_img_mobile: imgBeachesKnow1Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Archipiélago San Blas",
+        did_you_know_content:
+          "Este paraíso terrenal, formado por alrededor de 363 islas, ofrece imágenes de postal con sus aguas cristalinas y arrecifes de coral rodeados de arena blanca y palmeras.",
+        distance_title: "Distancia de la ciudad: ",
+        distance_content:
+          "Distancia desde la ciudad: el archipiélago está ubicado a 148 km de la Ciudad de Panamá y se puede llegar a la parte costera de la comarca en un auto particular 4x4 o alquilando el servicio de transporte.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Archipiélago San Blas",
+            img: imgBeachesGallery1_1,
+            img_mob: imgBeachesGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Archipiélago San Blas",
+            img: imgBeachesGallery1_2,
+            img_mob: imgBeachesGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Archipiélago San Blas",
+            img: imgBeachesGallery1_3,
+            img_mob: imgBeachesGallery1_3Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "4",
+            title: "Archipiélago San Blas",
+            img: imgBeachesGallery1_4,
+            img_mob: imgBeachesGallery1_4Mob,
+            url: null
+          },
+          {
+            identifier: "5",
+            title: "Archipiélago San Blas",
+            img: imgBeachesGallery1_5,
+            img_mob: imgBeachesGallery1_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "11",
+        img: imgBeachesList2,
+        img_mob: imgBeachesList2Mob,
+        hero: imgBeachesHero2,
+        hero_mob: imgBeachesHero2Mob,
+        title: "Isla Bastimentos",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-bastimentos ",
+        content:
+          "Situada en el archipiélago de Bocas del Toro, puedes ver especies como monos aulladores, caimanes y las diminutas ranas rojas por la zona. Las playas más reconocidas son Red Frog, Playa Polo, Playa Wizard y Playa Larga. ",
+        did_you_know_img: imgBeachesKnow2,
+        did_you_know_img_mobile: imgBeachesKnow2Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Isla Bastimentos ",
+        did_you_know_content:
+          " Isla Bastimentos es hogar del Parque Nacional Marino, refugio natural de una gran diversidad de aves marinas y anfibios.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "la provincia de Bocas del Toro está ubicada a 615 kilómetros desde la Ciudad de Panamá y para llegar a la isla, se toma una lancha desde Almirante hacia Isla Colón y luego desde Isla Colón hacia Bastimento cuyo viaje no pasa de los 10 minutos.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Isla Bastimentos",
+            img: imgBeachesGallery2_1,
+            img_mob: imgBeachesGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Isla Bastimentos",
+            img: imgBeachesGallery2_2,
+            img_mob: imgBeachesGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Isla Bastimentos",
+            img: imgBeachesGallery2_3,
+            img_mob: imgBeachesGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Isla Bastimentos",
+            img: imgBeachesGallery2_4,
+            img_mob: imgBeachesGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Isla Bastimentos",
+            img: imgBeachesGallery2_5,
+            img_mob: imgBeachesGallery2_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "12",
+        img: imgBeachesList3,
+        img_mob: imgBeachesList3Mob,
+        hero: imgBeachesHero3,
+        hero_mob: imgBeachesHero3Mob,
+        title: "Santa Catalina",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "santa-catalina",
+        content:
+          "Localizada en la provincia de Veraguas, en la zona encontrarás varios restaurantes, alojamientos y bares. Además, Santa Catalina es el punto de partida para Coiba, Reserva Nacional reconocido por la UNESCO, popular entre los buzos y aquellos que deseen practicar snorkel.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Santa Catalina",
+        did_you_know_content:
+          " Es un lugar especial para los amantes del surf por sus gigantescas olas.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "la playa está ubicada a 5 horas y media del centro de la Ciudad de Panamá, a 366 kilómetros.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "13",
+        img: imgBeachesList4,
+        img_mob: imgBeachesList4Mob,
+        hero: imgBeachesHero4,
+        hero_mob: imgBeachesHero4Mob,
+        title: "Playa Venao",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-venao",
+        content:
+          "Ubicada en la provincia de Los Santos, del lado este se encuentra uno de los puntos más importantes para los que practican este deporte en Centroamérica. Playa Venao invita a sus visitantes a dar un tour por la selva, realizar deportes acuáticos (se puede bucear con tanque y hacer pesca deportiva).",
+        did_you_know_img: imgBeachesKnow4,
+        did_you_know_img_mobile: imgBeachesKnow4Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Playa Venao",
+        did_you_know_content:
+          " Es un lugar perfecto para relajarse con el sonido hipnótico de las olas, pero también es ideal para amantes del surf.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "la playa está ubicada a 5 horas y 15 minutos del centro de la Ciudad de Panamá, a 359 kilómetros.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Playa Venao",
+            img: imgBeachesGallery4_1,
+            img_mob: imgBeachesGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Playa Venao",
+            img: imgBeachesGallery4_2,
+            img_mob: imgBeachesGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Playa Venao",
+            img: imgBeachesGallery4_3,
+            img_mob: imgBeachesGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Playa Venao",
+            img: imgBeachesGallery4_4,
+            img_mob: imgBeachesGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Playa Venao",
+            img: imgBeachesGallery4_5,
+            img_mob: imgBeachesGallery4_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "14",
+        img: imgBeachesList5,
+        img_mob: imgBeachesList5Mob,
+        hero: imgBeachesHero5,
+        hero_mob: imgBeachesHero5Mob,
+        title: "Isla Grande",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-grande",
+        content:
+          "La pintoresca Isla Grande se localiza a poco más de 10 kilómetros del legendario Portobelo, en la provincia de Colón.  Al extremo sur se encuentra La Punta, el principal balneario de la isla para disfrutar del mar y el sol caribeños.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Isla Grande",
+        did_you_know_content:
+          " Se caracteriza por sus playas de arenas blancas y arrecifes coralinos, ideales para hacer snorkel.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "está ubicada en la provincia de Colón a 2 horas y media del centro de la Ciudad de Panamá, a 118 kilómetros de distancia.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "15",
+        img: imgBeachesList6,
+        img_mob: imgBeachesList6Mob,
+        hero: imgBeachesHero6,
+        hero_mob: imgBeachesHero6Mob,
+        title: "El Palmar",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "el-palmar",
+        content:
+          "La playa es de fácil acceso, permitiendo que cada fin de semana la puedan visitar grupos de amigos que deseen correr las olas, o simplemente alejarse un rato del entorno citadino.",
+        did_you_know_img: imgBeachesKnow6,
+        did_you_know_img_mobile: imgBeachesKnow6Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "El Palmar",
+        did_you_know_content:
+          " Es una de las playas más fascinantes para surfear, ideal para novatos, ya que cuenta con lugares donde se imparten clases y alquilan tablas.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "situada al oeste de la Ciudad de Panamá́, a poco menos de hora y media de distancia, a aproximadamente 97 kilómetros.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "El Palmar",
+            img: imgBeachesGallery6_1,
+            img_mob: imgBeachesGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "El Palmar",
+            img: imgBeachesGallery6_2,
+            img_mob: imgBeachesGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "El Palmar",
+            img: imgBeachesGallery6_3,
+            img_mob: imgBeachesGallery6_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "El Palmar",
+            img: imgBeachesGallery6_4,
+            img_mob: imgBeachesGallery6_4Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "16",
+        img: imgBeachesList7,
+        img_mob: imgBeachesList7Mob,
+        hero: imgBeachesHero7,
+        hero_mob: imgBeachesHero7Mob,
+        title: "Archipiélago Las Perlas",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-las-perlas",
+        content:
+          "Un paraíso turístico en el Océano Pacífico, caracterizado por playas de arena blanca, turquesas aguas cristalinas y una suave brisa con sabor a mar. Gracias a su cercanía a la ciudad, es uno de los principales destinos para el avistamiento de ballenas que los turistas visitan cada año.",
+        did_you_know_img: imgBeachesKnow7,
+        did_you_know_img_mobile: imgBeachesKnow7Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Archipiélago Las Perlas",
+        did_you_know_content:
+          " Está formado por 90 islas y aproximadamente 130 cayos y se destaca por su bella flora y variada fauna marina.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "a 48 kilómetros de distancia de la Ciudad de Panamá y podrás llegar a ella en ferry.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Archipiélago Las Perlas",
+            img: imgBeachesGallery7_1,
+            img_mob: imgBeachesGallery7_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Archipiélago Las Perlas",
+            img: imgBeachesGallery7_2,
+            img_mob: imgBeachesGallery7_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Archipiélago Las Perlas",
+            img: imgBeachesGallery7_3,
+            img_mob: imgBeachesGallery7_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Archipiélago Las Perlas",
+            img: imgBeachesGallery7_4,
+            img_mob: imgBeachesGallery7_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Archipiélago Las Perlas",
+            img: imgBeachesGallery7_5,
+            img_mob: imgBeachesGallery7_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "17",
+        img: imgBeachesList8,
+        img_mob: imgBeachesList8Mob,
+        hero: imgBeachesHero8,
+        hero_mob: imgBeachesHero8Mob,
+        title: "Isla Contadora",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-contadora",
+        content:
+          "Es una isla de arena blanca, aguas verdes y turquesas, cuyas playas más populares son Playa Larga, Playa las Suecas, Playa Cacique, Playa Ejecutiva y Playa Galeón. Ideal para hacer snorkel, navegar a vela alrededor de las islas, alquilar un paddle board y practicar windsurf, también es un paraíso maravilloso para los amantes del buceo con tanque.",
+        did_you_know_img: imgBeachesKnow8,
+        did_you_know_img_mobile: imgBeachesKnow8Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Isla Contadora",
+        did_you_know_content:
+          " En la época colonial, se encontró la perla más grande del mundo en sus aguas: la Peregrina.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "Se encuentra a 1 hora y 45 minutos desde la ciudad de Panamá. Puedes llegar en ferry a Contadora desde Isla Flamenco, Calzada de Amador en Panamá, o desde el muelle de JW Marriott en la ciudad con Ferry Las Perlas.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Isla Contadora",
+            img: imgBeachesGallery8_1,
+            img_mob: imgBeachesGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Isla Contadora",
+            img: imgBeachesGallery8_2,
+            img_mob: imgBeachesGallery8_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Isla Contadora",
+            img: imgBeachesGallery8_3,
+            img_mob: imgBeachesGallery8_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Isla Contadora",
+            img: imgBeachesGallery8_4,
+            img_mob: imgBeachesGallery8_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Isla Contadora",
+            img: imgBeachesGallery8_5,
+            img_mob: imgBeachesGallery8_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "18",
+        img: imgBeachesList9,
+        img_mob: imgBeachesList9Mob,
+        hero: imgBeachesHero9,
+        hero_mob: imgBeachesHero9Mob,
+        title: "Punta Chame",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "punta-chame",
+        content:
+          "Ubicada en el Pacífico, su playa ofrece el ambiente perfecto para practicar kiteboard y windsurf. El área se caracteriza por sus fuertes ráfagas regulares, que lo convierten en un lugar privilegiado para este tipo de deportes.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Punta Chame",
+        did_you_know_content:
+          " Es el lugar ideal para hacer kiteboard y windsurf.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "llegar desde la Ciudad de Panamá toma poco menos de dos horas en auto, convirtiendo a la zona en un importante punto de escape durante los fines de semana.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "19",
+        img: imgBeachesList10,
+        img_mob: imgBeachesList10Mob,
+        hero: imgBeachesHero10,
+        hero_mob: imgBeachesHero10Mob,
+        title: "Taboga",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "taboga",
+        content:
+          "Taboga es el balneario perfecto para pasar el día y tomar el sol.  Su geología indica que es una isla de origen volcánico. Puedes subir el cerro de la Cruz, el cerro Vigía y el cerro de San Pedro, que tiene una altura de alrededor de 300 m. Otro atractivo son sus casitas y calles coloridas. Además, puedes visitar los pequeños hoteles, restaurantes, ferias de artesanías, recorrer los alrededores de la isla y mucho más.",
+        did_you_know_img: imgBeachesKnow10,
+        did_you_know_img_mobile: imgBeachesKnow10Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Taboga",
+        did_you_know_content:
+          " Se conoce como la isla de las flores debido a los jardines de sus casas y la exuberante flora de sus cerros.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "aproximadamente a 45 minutos de la ciudad capital. Se puede llegar en lancha o ferry desde la Ciudad de Panamá.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Taboga",
+            img: imgBeachesGallery10_1,
+            img_mob: imgBeachesGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Taboga",
+            img: imgBeachesGallery10_2,
+            img_mob: imgBeachesGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Taboga",
+            img: imgBeachesGallery10_3,
+            img_mob: imgBeachesGallery10_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Taboga",
+            img: imgBeachesGallery10_4,
+            img_mob: imgBeachesGallery10_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Taboga",
+            img: imgBeachesGallery10_5,
+            img_mob: imgBeachesGallery10_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "20",
+        img: imgBeachesList11,
+        img_mob: imgBeachesList11Mob,
+        hero: imgBeachesHero11,
+        hero_mob: imgBeachesHero11Mob,
+        title: "Playa Tortuga",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-tortuga",
+        content:
+          "Ubicada en la provincia de Bocas del Toro al oeste del país, es un oasis natural sobre las aguas cristalinas del mar Caribe. Se destaca por su abundante vida marina y arrecifes de coral que hacen de este lugar un paraíso para practicar snorkel y otros deportes acuáticos.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Playa Tortuga",
+        did_you_know_content:
+          " Playa Tortuga recibió el premio Bandera Azul a las playas con estándares excepcionales.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "la playa queda a 9 horas y 45 minutos de la Ciudad de Panamá. Se puede llegar a Isla Colón por tierra conduciendo hasta el puerto Almirante y tomando un taxi acuático o ferry hacia la isla.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Taboga",
+            img: imgBeachesGallery11_1,
+            img_mob: imgBeachesGallery11_1Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      // {
+      //   id: "21",
+      //   img: imgBeachesList12,
+      //   img_mob: imgBeachesList12Mob,
+      //   hero: imgBeachesHero12,
+      //   hero_mob: imgBeachesHero12Mob,
+      //   title: "Bahía Piñas, Darién",
+      //   subtitle: null,
+      //   type: "playas",
+      //   type_name: "Playas",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "playas",
+      //   slug: "bahía-piñas,-darién",
+      //   content:
+      //     "Bahía Piñas cuenta con un complejo turístico, el cual es una joya entre montañas, selva y playa privada. Además, el arrecife Zane Grey es todo un atractivo entre sus aguas. ",
+      //   did_you_know_img: null,
+      //   did_you_know_img_mobile: null,
+      //   did_you_know_title: "¿Sabías qué?",
+      //   did_you_know_subtitle: "Bahía Piñas, Darién",
+      //   did_you_know_content:
+      //     " Es uno de los lugares más visitados por los amantes de la pesca deportiva, ya que en sus aguas se encontró el pez vela más grande del mundo.",
+      //   distance_title: "Distancia desde la ciudad: ",
+      //   distance_content:
+      //     "este maravilloso lugar solo se puede acceder por barco y la mejor fecha para visitarlo es de diciembre a mayo.",
+      //   gallery: null,
+      //   map: null,
+      // },
+      {
+        id: "22",
+        img: imgBeachesList13,
+        img_mob: imgBeachesList13Mob,
+        hero: imgBeachesHero13,
+        hero_mob: imgBeachesHero13Mob,
+        title: "Isla Iguana",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-iguana",
+        content:
+          "Se encuentra a una distancia muy corta desde Pedasí. Imaginarás por qué la isla se llama así: podrás observar una población de iguanas en su ambiente natural. También encontrarás cangrejos morados y tortugas marinas entre la fauna que rodea la isla.",
+        did_you_know_img: imgBeachesKnow13,
+        did_you_know_img_mobile: imgBeachesKnow13Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Isla Iguana",
+        did_you_know_content:
+          " Aquí se encuentra una amplia población de iguanas en su ambiente natural.",
+        distance_title: "Distancia desde la ciudad: ",
+        distance_content:
+          "para llegar a la isla, la primera parada es Pedasí que se encuentra a aproximadamente 4 horas y media de la Ciudad de Panamá, a 320 kilómetros, y luego tomar un bote para llegar a la isla.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_1,
+            img_mob: imgBeachesGallery13_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_2,
+            img_mob: imgBeachesGallery13_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_3,
+            img_mob: imgBeachesGallery13_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //ciudad//detalle/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "23",
+        img: imgCityList1,
+        img_mob: imgCityList1Mob,
+        hero: imgCityHero1,
+        hero_mob: imgCityHero1Mob,
+        title: "Canal de Panamá",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "Ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "canal-de-panamá",
+        content:
+          "Descubre una de las maravillas del mundo moderno que une el Oceánico Pacífico con el Océano Atlántico. Podrás observarlo desde el centro de visitantes del Canal de Miraflores, donde podrás ver el Canal original y en Agua Clara donde podrás observar el Canal ampliado. El Canal cuenta con 144 rutas marítimas, 160 países usuarios y 1700 puertos conectados.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Canal de Panamá",
+            img: imgCityGallery1_1,
+            img_mob: imgCityGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Canal de Panamá",
+            img: imgCityGallery1_2,
+            img_mob: imgCityGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Canal de Panamá",
+            img: imgCityGallery1_3,
+            img_mob: imgCityGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Canal de Panamá",
+            img: imgCityGallery1_4,
+            img_mob: imgCityGallery1_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Canal de Panamá",
+            img: imgCityGallery1_5,
+            img_mob: imgCityGallery1_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "24",
+        img: imgCityList2,
+        img_mob: imgCityList2Mob,
+        hero: imgCityHero2,
+        hero_mob: imgCityHero2Mob,
+        title: "Skylines en Panamá",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "Ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "skylines",
+        content:
+          "Panamá se ha convertido en la “ciudad de los rascacielos” de América Latina. Sus edificios sin duda representan un nuevo panorama urbano en el país, con vistas increíbles que dejan sin aliento a cualquiera.<br>Algunos de los rascacielos más altos de la Ciudad de Panamá son The Bahia Grand Panama, Vitri Tower, Ocean Two, Star Bay Tower, BICSA Financial Center, The Point, Arts Tower, Tower Financial Center, F&F Tower, Pearl Tower y Rivage, entre otros.<br>En la ciudad hay muchos miradores donde podrás disfrutar de vistas con el contraste característico de Panamá entre lo antiguo y lo moderno. Algunos de ellos son los siguientes:",
+        did_you_know_img: imgCityKnow2,
+        did_you_know_img_mobile: imgCityKnow2Mob,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Skylines",
+            img: imgCityGallery2_1,
+            img_mob: imgCityGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Skylines",
+            img: imgCityGallery2_2,
+            img_mob: imgCityGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Skylines",
+            img: imgCityGallery2_3,
+            img_mob: imgCityGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Skylines",
+            img: imgCityGallery2_4,
+            img_mob: imgCityGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Skylines",
+            img: imgCityGallery2_5,
+            img_mob: imgCityGallery2_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Mirador del Pacífico",
+            subtitle: null,
+            content:
+              "Justo frente a la Bahía de Panamá, tiene vista directa al océano Pacífico en la cinta costera. Qué mejor para terminar un movido día en la ciudad que sentarse en la estructura y relajarse apreciando el movimiento del agua.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Mirador Cerro Cedro",
+            subtitle: null,
+            content:
+              "Uno de los mejores lugares para conocer en la Ciudad de Panamá es el Parque Natural Metropolitano, que contrasta con los altos edificios de la ciudad y ofrece un escape natural en sus senderos y miradores. Desde el Cerro Cedro se aprecia el esplendor de los verdes follajes del parque, su fauna, la ciudad, el Canal de Panamá y los parques nacionales Soberanía y Caminos de Cruces.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Paseo Esteban Huertas",
+            subtitle: null,
+            content:
+              "Presenta hermosas vistas desde uno de los lugares más atractivos de la ciudad: el Casco Antiguo. Se ubica en una zona llena de restaurantes, cafeterías y otros lugares de esparcimiento, rodeado por la impresionante edificación colonial del lugar.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Mirador de la Torre de la Catedral de Panamá Viejo",
+            subtitle: null,
+            content:
+              "Uno de los lugares más bonitos de la Ciudad de Panamá, con la historia más antigua, se encuentra en Panamá Viejo. Hoy, tras su restauración y acondicionamiento, se conoce como Conjunto Monumental Histórico de Panamá Viejo.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "25",
+        img: imgCityList3,
+        img_mob: imgCityList3Mob,
+        hero: imgCityHero3,
+        hero_mob: imgCityHero3Mob,
+        title: "Calzada de Amador",
+        subtitle: "",
+        type: "ciudad",
+        type_name: "Ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "calzada-de-amador",
+        content:
+          "Es una vía que conecta la Ciudad de Panamá con cuatro islas del océano Pacífico y el segundo paseo marítimo más largo de la ciudad.<br>Highlights:<ul><li>Actividades al aire libre: puedes pasear a pie, en bicicleta o patines, andar en bote o pescar.</li><li>Andar en minikarts en una pista de karting de aproximadamente 1 kilómetro en la isla Perico, donde podrás sentir la adrenalina conduciendo a altas velocidades.</li><li>Visitar islas vecinas: desde aquí también salen los ferries para isla Taboga e isla Contadora, si quieres salir brevemente de la ciudad.</li><li>Stand-up paddling (SUP).</li><li>Museo de la Biodiversidad.</li><li>Centro de Visitantes de Punta Culebra del presitigioso Instituto Smithsonian.</li><li>Restaurantes.</li></ul>",
+        did_you_know_img: imgCityKnow3,
+        did_you_know_img_mobile: imgCityKnow3Mob,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Calzada de Amador",
+            img: imgCityGallery3_1,
+            img_mob: imgCityGallery3_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Calzada de Amador",
+            img: imgCityGallery3_2,
+            img_mob: imgCityGallery3_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Calzada de Amador",
+            img: imgCityGallery3_3,
+            img_mob: imgCityGallery3_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Calzada de Amador",
+            img: imgCityGallery3_4,
+            img_mob: imgCityGallery3_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Calzada de Amador",
+            img: imgCityGallery3_5,
+            img_mob: imgCityGallery3_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "26",
+        img: imgCityList4,
+        img_mob: imgCityList4Mob,
+        hero: imgCityHero4,
+        hero_mob: imgCityHero4Mob,
+        title: "Shopping",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "Ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "shopping",
+        content:
+          "Panamá es famoso por sus precios convenientes y accesibles. Conoce sus grandes centros comerciales donde podrás encontrar marcas reconocidas, productos tecnológicos, ropa, calzados, accesorios de moda y mucho más.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Shopping",
+            img: imgCityGallery4_1,
+            img_mob: imgCityGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Shopping",
+            img: imgCityGallery4_2,
+            img_mob: imgCityGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Shopping",
+            img: imgCityGallery4_3,
+            img_mob: imgCityGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Shopping",
+            img: imgCityGallery4_4,
+            img_mob: imgCityGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Shopping",
+            img: imgCityGallery4_5,
+            img_mob: imgCityGallery4_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "",
+            subtitle: "Metromall",
+            content:
+              "Encuentra más de 300 establecimientos de marcas reconocidas, restaurantes y zonas de entretenimiento. Por su cercanía al aeropuerto Internacional de Tocumen, es el centro comercial ideal para ir de compras al aterrizar o aprovechar las horas de espera de todo vuelo con escala. <br><br><h5>PROGRAMA DE DESCUENTOS PARA TURISTAS</h5><a href='https://www.metromallonline.com/panama/panama-shopping-card'>https://www.metromallonline.com/panama/panama-shopping-card</a>",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: null,
+            subtitle: "Albrook Mall",
+            content:
+              "Es el centro comercial más grande y variado del país, decorado con gigantescos protagonistas del reino animal, que cuenta con un safari de más de 700 tiendas y 100 restaurantes. La sala de videojuegos y los juegos mecánicos para niños son algunas de las alternativas para entretener a los más chicos.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: null,
+            subtitle: "Multiplaza Pacific Mall",
+            content:
+              "Cuenta con las más importantes marcas de lujo y más de 500 tiendas en un espacio moderno, exclusivo, amplio y agradable. Podrás encontrar tiendas departamentales, supermercados, farmacias, bancos, restaurantes y modernas salas de cine.<br><br><h5>PROGRAMA DE DESCUENTOS PARA TURISTAS</h5><a href='https://www.multiplaza.com/panama/panama-shopping-card/'>https://www.multiplaza.com/panama/panama-shopping-card/</a>",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: null,
+            subtitle: "Town Center",
+            content:
+              "Completo, exclusivo y diseñado pensando en la experiencia familiar, este centro comercial cuenta con tiendas departamentales, de moda, juegos infantiles, restaurantes, salas de cine, librerías y más.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: null,
+            subtitle: "Altaplaza Mall",
+            content:
+              "Cuenta con más de 165 establecimientos y 40 restaurantes para que disfrutes de una gran variedad de tiendas y sabores.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: null,
+            subtitle: "Atrio Mall",
+            content:
+              "Ofrece lo necesario para vivir la mejor experiencia de compras y entretenimiento, en un ambiente cómodo y exclusivo, con gran variedad de tiendas, restaurantes y servicios.",
+            gallery: null,
+          },
+          {
+            id: "7",
+            title: null,
+            subtitle: "West Land Mall",
+            content:
+              "Con más de 160 locales, es el único outlet de Panamá donde podrás encontrar de todo a increíbles precios: artículos del hogar, tecnología, dispositivos electrónicos, artículos de perfumería, calzado, accesorios, ropa, joyería, establecimientos para el pago de servicios, centros de salud, belleza y mucho más.",
+            gallery: null,
+          },
+          {
+            id: "8",
+            title: null,
+            subtitle: "Megapolis Outlet",
+            content:
+              "Un lugar diseñado para toda la familia con de más de 3000 estacionamientos bajo techo, cuatro niveles de tiendas con una amplia variedad de artículos, supermercados, un casino de nivel internacional y, por supuesto, muchísimos restaurantes. ",
+            gallery: null,
+          },
+          {
+            id: "9",
+            title: "Artesanías",
+            subtitle: null,
+            content:
+              "El artesano panameño es una parte importante de la identidad nacional. Sus trabajos atractivos y únicos son apreciados por lugareños y extranjeros.",
+            gallery: null,
+          },
+          {
+            id: "10",
+            title: null,
+            subtitle: "Mercado artesanal de Balboa",
+            content:
+              "Entre los servicios que se ofrecen se encuentran un área de restaurantes, 42 cubículos de exhibición, estacionamientos y vigilancia las 24 horas. En la actualidad, este centro artesanal consta de varios puestos donde se pueden apreciar una gran variedad de artesanías de distintas regiones del país, como bateas, molas, chaquiras, muñecos de trapo y muchas más.",
+            gallery: null,
+          },
+          {
+            id: "11",
+            title: null,
+            subtitle: "Centro de artesanías de Panamá la Vieja",
+            content:
+              "La cercanía del centro artesanal, donde se exhibe una gran variedad de artesanías de las diferentes provincias del país, al centro de visitantes de Panamá Viejo lo convierte en una parada obligada para quienes visitan a diario este sitio reconocido como Patrimonio Histórico por la UNESCO.",
+            gallery: null,
+          },
+          {
+            id: "12",
+            title: null,
+            subtitle: "Bóvedas del Casco Antiguo",
+            content:
+              "Disfruta de un buen raspa’o, la bebida popular de Panamá, mientras recorres los edificios históricos. Está rodeado de excelentes restaurantes con los más variados menús, además de bares y cafés para pasar un rato ameno con amigos. También hay un mercado de artesanías para llevarse un lindo recuerdo de Panamá.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      //vida-nocturna//detale///////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNightList1,
+        img_mob: imgNightList1Mob,
+        hero: imgNightHero1,
+        hero_mob: imgNightHero1Mob,
+        title: "Casco Antiguo",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Vida Nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "casco-antiguo-vida-nocturna",
+        content:
+          "Cuenta con una gran variedad de clubes nocturnos, restaurantes y ambiente histórico, lo que lo convierte en el destino de vida nocturna más popular en la ciudad. En el Casco podrás encontrar una increíble variedad de clubes y bares con diferentes géneros musicales. Los visitantes no se pueden perder la oportunidad de visitar al menos un bar en la azotea de Casco Antiguo para experimentar increíbles vistas de la ciudad vieja y nueva. <br>Algunos de los lugares conocidos son:<br><ul>   <li>Tantalo Rooftop Bar: excelentes vistas del horizonte y la bahía de la Ciudad de Panamá.</li>   <li>Las Bóvedas: ubicado dentro de un antiguo calabozo de 300 años, Las Bóvedas ofrece cocina francesa y galería de artes. Este restaurante generalmente tiene jazz en vivo los viernes y sábados por la noche.</li>   <li>Casablanca: un restaurante y bar urbano con cocina internacional, una buena selección de vinos y música en vivo ocasionalmente. </li>   <li>También te recomendamos conocer bares como: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, entre otros. </li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      /*
+      {
+        id: "2",
+        img: imgNightList2,
+        img_mob: imgNightList2Mob,
+        hero: imgNightHero2,
+        hero_mob: imgNightHero2Mob,
+        title: '360 Rooftop',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '360-rooftop',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgNightList3,
+        img_mob: imgNightList3Mob,
+        hero: imgNightHero3,
+        hero_mob: imgNightHero3Mob,
+        title: 'Casa casco',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-casco',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgNightList4,
+        img_mob: imgNightList4Mob,
+        hero: imgNightHero4,
+        hero_mob: imgNightHero4Mob,
+        title: 'Tantalo',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'tantalo',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "5",
+        img: imgNightList5,
+        img_mob: imgNightList5Mob,
+        hero: imgNightHero5,
+        hero_mob: imgNightHero5Mob,
+        title: 'Casa Blanca',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-blanca',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "6",
+        img: imgNightList6,
+        img_mob: imgNightList6Mob,
+        hero: imgNightHero6,
+        hero_mob: imgNightHero6Mob,
+        title: 'Madrigal',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'madrigal',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "7",
+        img: imgNightList7,
+        img_mob: imgNightList7Mob,
+        hero: imgNightHero7,
+        hero_mob: imgNightHero7Mob,
+        title: 'Calzada de amador',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '_calzada-de-amador',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "8",
+        img: imgNightList8,
+        img_mob: imgNightList8Mob,
+        hero: imgNightHero8,
+        hero_mob: imgNightHero8Mob,
+        title: "Calle Uruguay",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Vida nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "calle-uruguay",
+        content:
+          "A solo dos pasos de la cinta costera y el Centro Bancario, es el lugar perfecto para entretenerte y festejar durante la noche. Cuenta con diversos bares, restaurantes y discotecas donde el requisito principal para ingresar es tener mucha energía.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Calle Uruguay",
+            img: imgNightGallery8_1,
+            img_mob: imgNightGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Calle Uruguay",
+            img: imgNightGallery8_2,
+            img_mob: imgNightGallery8_2Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgNightList9,
+        img_mob: imgNightList9Mob,
+        hero: imgNightHero9,
+        hero_mob: imgNightHero9Mob,
+        title: "Zona Comercial",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Vida Nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "zona-comercial",
+        content:
+          "Ubicado en el centro del centro de la ciudad, la zona comercial tiene mucho que ofrecer a los turistas. Aunque no es tan sencillo trasladarse a pie de un bar/restaurante a otro, como en Casco Antiguo, los visitantes quedarán encantados con el ambiente moderno de la ciudad. <br>Algunos de los lugares conocidos son:<br><ul><li>The Hard Rock Hotel: el Hard Rock Roof Lounge tiene impresionantes vistas de la ciudad y el océano 360, ideal para ver la puesta de sol.</li><li>Steinbock: pub alemán con una gran selección de cervezas alemanas y europeas, así como una variedad de delicias culinarias alemanas.<li>El Apartamento: uno de los puntos más modernos de la ciudad. El Apartamento tiene un interior rústico y artístico, y eventos semanales como exhibiciones de bandas locales y comedias de aficionados.</li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: " ",
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Zona Comercial",
+            img: imgNightGallery9_1,
+            img_mob: imgNightGallery9_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Zona Comercial",
+            img: imgNightGallery9_2,
+            img_mob: imgNightGallery9_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Zona Comercial",
+            img: imgNightGallery9_3,
+            img_mob: imgNightGallery9_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Zona Comercial",
+            img: imgNightGallery9_4,
+            img_mob: imgNightGallery9_4Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //naturaleza//detalle/////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNatureList1,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero1,
+        hero_mob: imgNatureHero1Mob,
+        title: "Cerro Ancón",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cerro-ancón",
+        content:
+          "Descubre un bosque tropical en medio de una zona urbana y encuentra una amplia variedad de flora y fauna, como tucanes, armadillos, perezosos, coatíes, entre otros.",
+        did_you_know_img: imgNatureKnow1,
+        did_you_know_img_mobile: imgNatureKnow1Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Cerro Ancón",
+        did_you_know_content:
+          " Coronada por la bandera panameña, es la mayor elevación natural de la ciudad.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Cerro Ancón",
+            img: imgNatureGallery1_1,
+            img_mob: imgNatureGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Cerro Ancón",
+            img: imgNatureGallery1_2,
+            img_mob: imgNatureGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Cerro Ancón",
+            img: imgNatureGallery1_3,
+            img_mob: imgNatureGallery1_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgNatureList2,
+        img_mob: imgNatureList2Mob,
+        hero: imgNatureHero2,
+        hero_mob: imgNatureHero2Mob,
+        title: "Antigua Zona Canalera",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "antigua-zona-canalera",
+        content:
+          "Con una gran abundancia de belleza natural y ubicada cerca de la Ciudad de Panamá, cuenta con algunos importantes parques naturales y centros de investigación: Parque Nacional de la Soberanía: un lugar perfecto para practicar senderismo, ideal para andar en bicicleta y divisar especies de aves. <br><br><u>Barro Colorado:</u> una isla de 1500 hectáreas donde reina la biodiversidad, administrada por el Instituto Smithsonian de Investigaciones Tropicales. Disfruta de un día de caminatas y tours con un guía experto en ciencias para conocer todas las sutilezas de la isla. <br><br><u>El poderoso Río Chagres:</u> corre a través de un enorme bosque cerca de Gamboa. A lo largo de sus orillas viven varias comunidades Emberá y Wounaan. Muchas reciben turistas, exhiben obras de arte coloridas, representan danzas tradicionales y tocan música. <br><br><u>Gamboa:</u> aquí se pueden realizar muchas actividades al aire libre, como el avistamiento de aves, canopy, alquiler de cayucos y más. Uno de sus mayores atractivos el teleférico, que permite apreciar la imponente selva tropical y expediciones en botes en la Lago Gatún.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Antigua Zona Canalera",
+            img: imgNatureGallery2_1,
+            img_mob: imgNatureGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Antigua Zona Canalera",
+            img: imgNatureGallery2_2,
+            img_mob: imgNatureGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Antigua Zona Canalera",
+            img: imgNatureGallery2_3,
+            img_mob: imgNatureGallery2_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgNatureList3,
+        img_mob: imgNatureList3Mob,
+        hero: imgNatureHero3,
+        hero_mob: imgNatureHero3Mob,
+        title: "Camino de Cruces",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "camino-de-cruces",
+        content:
+          "A 20 minutos del centro de la Ciudad de Panamá, este parque cuenta con senderos que llevan a bosques con una riqueza natural, flora y fauna imponentes, desde donde se pueden apreciar diferentes animales y hermosas vistas panorámicas.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Camino de Cruces",
+        did_you_know_content:
+          " Este parque nacional de más de 4000 hectáreas fomenta la conservación de los bosques y la educación ambiental.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Camino de Cruces",
+            img: imgNatureGallery3_1,
+            img_mob: imgNatureGallery3_1Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgNatureList4,
+        img_mob: imgNatureList4Mob,
+        hero: imgNatureHero4,
+        hero_mob: imgNatureHero4Mob,
+        title: "Parque Nacional Metropolitano",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-nacional-metropolitano",
+        content:
+          "El parque se encuentra a 10 minutos de la Ciudad de Panamá. En este hermoso lugar podrás caminar por los senderos marcados, rodeados de orquídeas y árboles de cedro, y ver más de 200 especies diferentes de aves (algunas de las cuales se han descubierto en los predios de este parque), mamíferos y reptiles. También se ofrecen caminatas guiadas de una hora. ",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Parque Nacional Metropolitano",
+        did_you_know_content:
+          "El Instituto Smithsonian lleva a cabo investigaciones científicas sobre la ecología del bosque en este parque que ocupa 232 hectáreas del corregimiento de Ancón y que, junto con otros dos parques, forma un corredor ecológico para el funcionamiento de la cuenca del Canal de Panamá.",
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      /*
+      {
+        id: "5",
+        img: imgNatureList5,
+        img_mob: imgNatureList5Mob,
+        hero: imgNatureHero5,
+        hero_mob: imgNatureHero5Mob,
+        title: 'Provincia de Chiriquí',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-chiriquí',
+        content: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: 'Provincia de Chiriquí',
+        did_you_know_content: ' En el norte de la provincia se encuentra el Parque Nacional Volcán Barú, el punto más alto de Panamá.',
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Chiriqui",
+            img: imgNatureGallery5_1,
+            img_mob: imgNatureGallery5_1Mob,
+            url: null
+          },
+          {
+            identifier: "2",
+            title: "Chiriqui",
+            img: imgNatureGallery5_2,
+            img_mob: imgNatureGallery5_2Mob,
+            url: null
+          }
+        ],
+        map: null,
+      },
+      */
+      {
+        id: "6",
+        img: imgNatureList6,
+        img_mob: imgNatureList6Mob,
+        hero: imgNatureHero6,
+        hero_mob: imgNatureHero6Mob,
+        title: "Boquete",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "boquete",
+        content:
+          "Aquí puedes lanzarte a la aventura y hacer actividades como senderismo, canopy, rafting, paseos a caballo y avistamiento de aves. Es también un lugar destacado para el cultivo del café, donde se cosecha el famoso café Geisha, galardonado internacionalmente como uno de los mejores del mundo. <br>Durante el mes de enero, en este bello sitio se celebra anualmente la Feria Internacional de las Flores y Café, conocida en el distrito como la Feria de Boquete.",
+        did_you_know_img: imgNatureKnow6,
+        did_you_know_img_mobile: imgNatureKnow6Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Boquete",
+        did_you_know_content: " Es la principal ciudad de montaña de Panamá.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Boquete",
+            img: imgNatureGallery6_1,
+            img_mob: imgNatureGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Boquete",
+            img: imgNatureGallery6_2,
+            img_mob: imgNatureGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Boquete",
+            img: imgNatureGallery6_3,
+            img_mob: imgNatureGallery6_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Boquete",
+            img: imgNatureGallery6_4,
+            img_mob: imgNatureGallery6_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Boquete",
+            img: imgNatureGallery6_5,
+            img_mob: imgNatureGallery6_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      /*
+      {
+        id: "7",
+        img: imgNatureList7,
+        img_mob: imgNatureList7Mob,
+        hero: imgNatureHero7,
+        hero_mob: imgNatureHero7Mob,
+        title: 'Volcán Barú',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'volcán-barú',
+        content: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: 'Volcán Barú',
+        did_you_know_content: ' Es la mayor elevación del país y, desde su cima, se pueden admirar ambos océanos y la región oriental de Panamá.',
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "8",
+        img: imgNatureList8,
+        img_mob: imgNatureList8Mob,
+        hero: imgNatureHero8,
+        hero_mob: imgNatureHero8Mob,
+        title: "Parque Internacional La Amistad",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-internacional-la-amistad",
+        content:
+          "Se pueden visitar senderos como Los Gigantes del Bosque, Valle del Silencio y Sabanas Esperanza, entre otros. También podrás observar una gran variedad de árboles gigantes como el roble blanco, aves como el tucán y el pájaro campana, y especies como colibríes, pinzones, quetzales y monos carablanca, entre otros.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Parque Internacional La Amistad",
+        did_you_know_content:
+          " Se considera el área silvestre protegida con mayor biodiversidad del país, debido a sus importantes cambios climáticos y variedad de suelos.",
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgNatureList9,
+        img_mob: imgNatureList9Mob,
+        hero: imgNatureHero9,
+        hero_mob: imgNatureHero9Mob,
+        title: "Volcán y Cerro Punta",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "volcán-y-cerro-punta",
+        content:
+          "El Cerro Punta es un pueblo pintoresco y montañoso, con mosaicos de tierras cultivadas sobre la ladera montañosa que decoran el paisaje. Aquí, no puedes dejar de probar una tacita de chocolate caliente y un plato de fresas con crema.<br>El poblado es hermoso, con coloridas flores y áreas protegidas que lo convierten en uno de los mejores lugares de Centroamérica para vislumbrar al quetzal. También es el hogar de importantes crías de caballo y granjas agrícolas. <br><br>El Volcán Barú es la mayor elevación del país y, desde su cima, se pueden admirar ambos océanos y la región oriental de Panamá. Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Volcán y Cerro Punta",
+        did_you_know_content:
+          " Desde Volcán se puede llegar a algunos de los mejores destinos montañosos de la provincia de Chiriquí, pasear hasta Río Sereno, en la frontera con Costa Rica, visitar las aguas termales o alojarse en algunos de los mejores hoteles de la zona.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_1,
+            img_mob: imgNatureGallery09_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_2,
+            img_mob: imgNatureGallery09_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_3,
+            img_mob: imgNatureGallery09_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_4,
+            img_mob: imgNatureGallery09_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_5,
+            img_mob: imgNatureGallery09_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "10",
+        img: imgNatureList10,
+        img_mob: imgNatureList10Mob,
+        hero: imgNatureHero10,
+        hero_mob: imgNatureHero10Mob,
+        title: "Cosechas de Café",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cosechas-de-café",
+        content:
+          "Boquete y Volcán poseen la altura óptima para la producción del café de altura, arriba de los 1300 metros sobre el nivel del mar, lo cual le otorga su calidad mundialmente reconocida.",
+        did_you_know_img: imgNatureKnow10,
+        did_you_know_img_mobile: imgNatureKnow10Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Cosechas de Café",
+        did_you_know_content:
+          " La “Ruta del Café” es un proyecto agroturístico y ecológico.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Cosechas de Café",
+            img: imgNatureGallery10_1,
+            img_mob: imgNatureGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Cosechas de Café",
+            img: imgNatureGallery10_2,
+            img_mob: imgNatureGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Cosechas de Café",
+            img: imgNatureGallery10_3,
+            img_mob: imgNatureGallery10_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      /*
+      {
+        id: "11",
+        img: imgNatureList11,
+        img_mob: imgNatureList11Mob,
+        hero: imgNatureHero11,
+        hero_mob: imgNatureHero11Mob,
+        title: 'Provincia de Coclé',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-coclé',
+        content: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "12",
+        img: imgNatureList12,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero12,
+        hero_mob: imgNatureHero12Mob,
+        title: "El Valle de Antón",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "el-valle-de-antón",
+        content:
+          "Aquí se goza de un clima placentero y se aprecian cautivadores paisajes de la flora y fauna locales. El cerro de la India Dormida, con sus inigualables vistas panorámicas, es una de las principales atracciones de la ciudad, cuyo nombre se debe a su parecido con una india. En el Valle podrás encontrar: <br><ul><li>El mariposario: cuenta con tres salas, una de las mariposas, una de las orugas y crisálidas, y otra donde se proyecta un video explicativo. El centro presenta más de 250 mariposas.</li><li>Canoping: desde las plataformas de 100 pies de altura, se aprecian vistas espectaculares de la fauna y flora de los bosques nubosos. Este tour pasa por cascadas y dura aproximadamente una hora y media.</li><li>Cascada Chorro Macho: con 70 metros de altura, es la cascada más grande de la región. Se encuentra a solo 30 minutos caminando desde el centro del pueblo.</li><li>Centro de Orquídeas: es una organización que se dedica a cultivar y preservar orquídeas locales y regionales en peligro de extinción. En la actualidad, cuentan con más de 140 tipos diferentes de orquídeas. El centro está abierto al público todos los días de la semana.</li><li>Mercado artesanal y de vegetales: aquí se pueden conseguir frutas, plantas ornamentales, flores (como orquídeas) y artesanías locales. </li><li>Museo del Valle: en este museo se exhiben una colección de arte precolombino, arte religioso, etnografías del siglo XIX y XX, artesanías y pinturas geológicas.</li></ul>",
+        did_you_know_img: imgNatureKnow12,
+        did_you_know_img_mobile: imgNatureKnow12Mob,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "El Valle de Antón",
+        did_you_know_content:
+          " Es un hermoso pueblo situado en lo alto de las montañas dentro de un cráter volcánico.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "El Valle de Antón",
+            img: imgNatureGallery12_1,
+            img_mob: imgNatureGallery12_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "El Valle de Antón",
+            img: imgNatureGallery12_2,
+            img_mob: imgNatureGallery12_2Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "3",
+            title: "El Valle de Antón",
+            img: imgNatureGallery12_3,
+            img_mob: imgNatureGallery12_3Mob,
+            url: null
+          },
+          {
+            identifier: "4",
+            title: "El Valle de Antón",
+            img: imgNatureGallery12_4,
+            img_mob: imgNatureGallery12_4Mob,
+            url: null
+          },
+          {
+            identifier: "5",
+            title: "El Valle de Antón",
+            img: imgNatureGallery12_5,
+            img_mob: imgNatureGallery12_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "13",
+        img: imgNatureList13,
+        img_mob: imgNatureList13Mob,
+        hero: imgNatureHero13,
+        hero_mob: imgNatureHero13Mob,
+        title: "Provincia de Colón",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-colón",
+        content:
+          "<strong>Parque Nacional Portobelo:</strong> se pueden explorar fortificaciones coloniales a través de los senderos en el bosque o hacer buceo en el mar Caribe. El parque cuenta con hoteles y restaurantes, y se pueden alquilar equipos de buceo y motos acuáticas.<br><strong>Parque Nacional Chagres:</strong> protege la cuenca hidrográfica del Canal de Panamá. El 80 % del agua destinada al funcionamiento del canal y al consumo de agua potable de la Ciudad de Panamá y Colón proviene de esta área, donde encontrarás especies endémicas como la salamandra kuna y el carpintero carirrayado, que se pueden ver en Cerro Azul, el tapir, el águila harpía, el jaguar y otros 4 felinos panameños. Los ríos que desembocan en el lago Alajuela son el hábitat de gatos de agua (nutrias), babillos y caimanes.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "14",
+        img: imgNatureList14,
+        img_mob: imgNatureList14Mob,
+        hero: imgNatureHero14,
+        hero_mob: imgNatureHero14Mob,
+        title: "Desierto de Sarigua",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "desierto-de-sarigua",
+        content:
+          "Parque Nacional Sarigua: la vegetación en este parque se divide en cuatro categorías: leguminosas, arbóreas, cactáceas y portulacaceae. Además de la vegetación, otro de los principales puntos de interés son los descubrimientos arqueológicos.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "15",
+        img: imgNatureList15,
+        img_mob: imgNatureList15Mob,
+        hero: imgNatureHero15,
+        hero_mob: imgNatureHero15Mob,
+        title: "Provincia de Darién",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-darién",
+        content:
+          "Es el hábitat de más de 300 especies de aves, como el águila harpía, cuatro especies de guacamayas, y muchas especies endémicas, que hacen de este territorio uno de los favoritos de los observadores de aves a nivel mundial. Esta provincia es rica en cultura y, además, es la tierra de los indios Emberá-Wounaan y Kuna.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "¿Sabías qué?",
+        did_you_know_subtitle: "Provincia de Darién",
+        did_you_know_content:
+          " El Parque Nacional Darién fue declarado Reserva de la Biosfera Mundial por la UNESCO, protege un área de más de 1,2 millones de acres de bosques tropicales a lo largo de la frontera con Colombia.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Provincia de Darién",
+            img: imgNatureGallery15_1,
+            img_mob: imgNatureGallery15_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Provincia de Darién",
+            img: imgNatureGallery15_2,
+            img_mob: imgNatureGallery15_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Provincia de Darién",
+            img: imgNatureGallery15_3,
+            img_mob: imgNatureGallery15_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Provincia de Darién",
+            img: imgNatureGallery16_4,
+            img_mob: imgNatureGallery16_4Mob,
+            url: null,
+          },
+        ],
+      },
+      {
+        id: "16",
+        img: imgNatureList16,
+        img_mob: imgNatureList16Mob,
+        hero: imgNatureHero16,
+        hero_mob: imgNatureHero16Mob,
+        title: "Los cajones de Chame",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "los-cajones-de-chame",
+        content:
+          "Cajones de Chame: es un conjunto de laberintos de rocas formadas por la erosión del Río de Chame, que constituye un lugar ideal para realizar actividades de aventura.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Provincia de Panamá Oeste",
+            img: imgNatureGallery16_1,
+            img_mob: imgNatureGallery16_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Provincia de Panamá Oeste",
+            img: imgNatureGallery16_2,
+            img_mob: imgNatureGallery16_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Provincia de Panamá Oeste",
+            img: imgNatureGallery16_3,
+            img_mob: imgNatureGallery16_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Provincia de Panamá Oeste",
+            img: imgNatureGallery16_4,
+            img_mob: imgNatureGallery16_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Provincia de Panamá Oeste",
+            img: imgNatureGallery16_5,
+            img_mob: imgNatureGallery16_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "17",
+        img: imgNatureList17,
+        img_mob: imgNatureList17Mob,
+        hero: imgNatureHero17,
+        hero_mob: imgNatureHero17Mob,
+        title: "Canchas de golf",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "canchas-de-golf",
+        content:
+          "<strong>En la ciudad:</strong> <br><ul><li>Tucan Country Club & Resort: esta bella cancha de golf está rodeada de bosques tropicales y ofrece vistas panorámicas del Canal y la Ciudad de Panamá.</li><li>Summit Golf & Resort: es una cancha profesional, diseñada por Jeffrey Myers, que ofrece lujosos fairways y true greens en un paraíso rodeado de colinas, llanuras y vida silvestre.</li><li>Club de Golf Panamá: diseñada para utilizarse en eventos profesionales nacionales e internacionales, ya que cumple con los requisitos a nivel internacional. Además, se puede disfrutar de su bello paisaje de variada naturaleza y distintos lagos.</li><li>Santa Maria Golf Club: diseñada por el multicampeón Jack Nicklaus; el campo se construyó con la más moderna tecnología, siguiendo las normas USGA para los greens. El diseño de la cancha permite que al jugador siga una ruta segura hacia el green, pero con un bunkering bien colocado.</li></ul><br><strong>En el interior del país:</strong><br><ul><li>Bijao Golf Club: esta cancha, con su tipografía versátil y diseño excepcional, fue un proyecto a cargo del reconocido Ron Garl.</li><li>Coronado Golf and Beach Resort: es una maravilla natural, diseñada por Tom Fazio, donde se pueden jugar 18 hoyos en medio de la éxotica flora y fauna frente a las playas del Pacífico.</li><li>Buenaventura Campo de Golf: diseñada por el multicampeón Jack Nicklaus, la cancha cuenta con 18 hoyos cuidadosamente planificados y ejecutados para ofrecer una experiencia de clase mundial. Cubre unas 7832 yardas, y este par 72 es uno de los más desafiantes de Panamá.</li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Canchas de golf",
+            img: imgNatureGallery17_1,
+            img_mob: imgNatureGallery17_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Canchas de golf",
+            img: imgNatureGallery17_2,
+            img_mob: imgNatureGallery17_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Canchas de golf",
+            img: imgNatureGallery17_3,
+            img_mob: imgNatureGallery17_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Canchas de golf",
+            img: imgNatureGallery17_4,
+            img_mob: imgNatureGallery17_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Canchas de golf",
+            img: imgNatureGallery17_5,
+            img_mob: imgNatureGallery17_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //gastronomia/Detalle//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgGastronomyList1,
+        img_mob: imgGastronomyList1Mob,
+        hero: imgGastronomyHero1,
+        hero_mob: imgGastronomyHero1Mob,
+        title: "Platos típicos",
+        subtitle: null,
+        type: "gastronomia",
+        type_name: "Gastronomia",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "platos-tipicos",
+        content:
+          "Te recomendamos los siguientes platos típicos panameños que no puedes dejar de probar durante tu visita:",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: "",
+        distance_title: null,
+        distance_content: "",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_1,
+            img_mob: imgGastronomyGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_2,
+            img_mob: imgGastronomyGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_3,
+            img_mob: imgGastronomyGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_4,
+            img_mob: imgGastronomyGallery1_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_5,
+            img_mob: imgGastronomyGallery1_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Sancocho",
+            subtitle: null,
+            content:
+              "Está hecho a base de pollo, ñame, culantro y condimentos. Por lo general, se degusta acompañado de arroz blanco, y es el plato preferido de los panameños después de un día de festejo.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Arroz con pollo",
+            subtitle: null,
+            content:
+              "Con ingredientes principales tan básicos como el arroz y el pollo, el modo de cocinarlos es lo principal. La clave está en los condimentos para darle sazón. Entre sus otros ingredientes, encontramos caldo de pollo en polvo, 3 hojas de culantro picado y 2 dientes de ajo.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Hojaldre",
+            subtitle: null,
+            content:
+              "Es una de las frituras más representativas de la cocina panameña. Está a hecha a base de harina, polvo de hornear, sal, azúcar, agua y mantequilla. Puedes acompañarla con queso, salchichas guisadas o bistec de carne picado, ya sea en el desayuno, almuerzo o merienda.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Carimañolas",
+            subtitle: null,
+            content:
+              "Es otra fritura tradicional de Panamá. Se trata de un “rollo” frito a base de yuca y relleno de carne, de textura suave por dentro y crujiente por fuera. Aunque es más común en el desayuno, también puede pedirse como entrada en algunos restaurantes.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Ceviche",
+            subtitle: null,
+            content:
+              "El ceviche panameño se caracteriza por un marinado cítrico de larga duración, distinto del famoso ceviche peruano. El marisco se “cocina” con jugo de limón, y se acompaña de ají chombo, cebollas y culantro finamente picado. El más popular es el de corvina; sin embargo, también hay de pulpo, camarones y mixto. Pídelo como entrada en casi todos los restaurantes del país.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Guacho de rabito o mariscos",
+            subtitle: null,
+            content:
+              "Es un plato tradicional, pero no muy fácil de conseguir. Consiste en combinar arroz, rabo de cerdo, frijoles chiricanos, yuca y vegetales en una olla, para obtener un arroz caldoso. El caso del guacho de mariscos es más común en la costa que también es una mezcla de arroz y caldo, pero, en este caso, con mariscos.",
+            gallery: null,
+          },
+          {
+            id: "7",
+            title: "Bollo de maíz",
+            subtitle: null,
+            content:
+              "El maíz se muele para formar una masa que luego se envuelve en el capullo de la mazorca y se cocina en agua hasta alcanzar la firmeza deseada. Es el acompañamiento perfecto para el queso prensado nacional y un buen café. Los más famosos son los bollos “preñaos” de Chorrera, rellenos de carne, cerdo o pollo.",
+            gallery: null,
+          },
+          {
+            id: "8",
+            title: "Tortilla de maíz",
+            subtitle: null,
+            content:
+              "Está hecha a base de masa de maíz cocido; sin embargo, tiene una textura más suave y un sabor más dulce que la tortilla de maíz seca. Suele servirse en el desayuno y podría decirse que es el alimento más común de los típicos desayunos panameños.",
+            gallery: null,
+          },
+          {
+            id: "9",
+            title: "Arroz con leche",
+            subtitle: null,
+            content:
+              "Un postre casero tradicional muy conocido en Panamá, preparado con arroz blanco, leche entera, leche evaporada, leche condensada, azúcar y canela. Algunos también le añaden pasas.",
+            gallery: null,
+          },
+          {
+            id: "10",
+            title: "Mamallena",
+            subtitle: null,
+            content:
+              "Otro postre casero muy tradicional, conocido en otros lugares como budín de pan. Se prepara con pan, leche, canela, azúcar, huevos, pasas y otras especias. Es muy común encontrarla en panaderías, especialmente en el interior del país.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgGastronomyList2,
+        img_mob: imgGastronomyList2Mob,
+        hero: imgGastronomyHero2,
+        hero_mob: imgGastronomyHero2Mob,
+        title: "Eventos gastronómicos",
+        subtitle: null,
+        type: "gastronomia",
+        type_name: "Gastronomia",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "eventos-gastronomicos",
+        content:
+          "En Panamá se organizan diversos eventos gastronómicos. Aquí mencionamos algunos de los más conocidos:",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: "",
+        distance_title: null,
+        distance_content: "",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Eventos gastronómicos",
+            text: "Tours de 2 día",
+            img: imgGastronomyGallery2_1,
+            img_mob: imgGastronomyGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Eventos gastronómicos",
+            text: "Tours de 2 día",
+            img: imgGastronomyGallery2_2,
+            img_mob: imgGastronomyGallery2_2Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Micro Brew Fest",
+            subtitle: null,
+            content:
+              "Este festival de la cerveza artesanal se celebra en enero en el área de Clayton. En sus últimas ediciones, contó con más de 200 tipos de cervezas locales e internacionales. También se caracteriza por los puestos de comida o food trucks al aire libre. Instagram: @panamamicrobrew.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Menú Panamá",
+            subtitle: null,
+            content:
+              "En febrero llega este festival lleno de música, vino y ofertas gastronómicas, en el que se ofrecen más de 75 tipos de vino y se puede disfrutar de puestos de comida y jazz en vivo. En los años anteriores, se recibieron invitados internacionales de reconocidos restaurantes de Latinoamérica y se celebraron competencia de baristas. Instagram: @menupanama.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Feria afroantillana",
+            subtitle: null,
+            content:
+              "Se celebra en febrero para homenajear tanto la gastronomía afroantillana como su cultura. En esta feria podrás degustar sus platillos y bebidas más representativas.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Burger Week",
+            subtitle: null,
+            content:
+              "Durante este evento de marzo, una gran variedad de restaurantes ofrecen ediciones especiales de sus hamburguesas durante un tiempo limitado. Al finalizar la Burger Week, el público puede elegir al chef con la receta más original en el concurso denominado Burger Challenge a través de la página web del evento. Sin duda, este uno de los eventos gastronómicos más populares. Instagram: @panamaweek.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Greek Fest",
+            subtitle: null,
+            content:
+              "El festival griego es otro de los eventos más importantes de la gastronomía local, que se celebra cada año en marzo en la Iglesia ortodoxa griega. Además de platos griegos, también hay dulces, música, cerveza griega, accesorios y tours por la iglesia. Instagram: @greekFestPty.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Restaurant Week",
+            subtitle: null,
+            content:
+              "Es uno de los eventos con mayor trayectoria del país y se celebra en septiembre. Durante un tiempo limitado, cientos de restaurantes ofrecen menús especiales a precios muy accesibles, haciendo hincapié en los productos locales. Instagram: @panamaweek.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+    ],
+  },
+  //ENGLISH/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  en: {
+    info: [
+      {
+        slug: "conoce-panama",
+        title: "Discover Panama",
+        hero: imgKnowPanamaHeroDesk,
+        hero_mobile: imgKnowPanamaHeroMob,
+        subtitle:
+          "Panama is a movie-like destination that has everything you need — and you are the writer of the script. Find hidden paradises, hundreds of uninhabited islands, and a perfect balance between tradition and modernity.",
+        extra_title: "Welcome to Panama. Choose your own experience.",
+        btn_name: "GO BACK",
+      },
+    ],
+    hero: [
+      {
+        id: "1",
+        type: "cultura",
+        img: imgCultureHero0,
+        img_mob: imgCultureHero0Mob,
+      },
+      {
+        id: "2",
+        type: "playas",
+        img: imgBeachesHero0,
+        img_mob: imgBeachesHero0Mob,
+      },
+      {
+        id: "3",
+        type: "ciudad",
+        img: imgCityHero0,
+        img_mob: imgCityHero0Mob,
+      },
+      {
+        id: "4",
+        type: "vida-nocturna",
+        img: imgNightHero0,
+        img_mob: imgNightHero0Mob,
+      },
+      {
+        id: "5",
+        type: "naturaleza",
+        img: imgNatureHero0,
+        img_mob: imgNatureHero0Mob,
+      },
+      {
+        id: "6",
+        type: "gastronomia",
+        img: imgGastronomyHero0,
+        img_mob: imgGastronomyHero0Mob,
+      },
+    ],
+    breadcrumb: [
+      {
+        title: "Discover Panama",
+        options: [
+          {
+            id: "1",
+            slug_parent: "conoce-panama",
+            slug: "cultura",
+            title: "Culture",
+          },
+          {
+            id: "2",
+            slug_parent: "conoce-panama",
+            slug: "playas",
+            title: "Beaches",
+          },
+          {
+            id: "3",
+            slug_parent: "conoce-panama",
+            slug: "ciudad",
+            title: "City",
+          },
+          {
+            id: "4",
+            slug_parent: "conoce-panama",
+            slug: "vida-nocturna",
+            title: "Nightlife",
+          },
+          {
+            id: "5",
+            slug_parent: "conoce-panama",
+            slug: "naturaleza",
+            title: "Nature",
+          },
+          {
+            id: "6",
+            slug_parent: "conoce-panama",
+            slug: "gastronomia",
+            title: "Gastronomy",
+          },
+        ],
+      },
+    ],
+    welcome: [
+      {
+        title: "Culture",
+        type: "cultura",
+        info_short:
+          "Travel back in time and discover Panama’s intact history and its wonderful multicultural legacy.",
+        info_extra:
+          "Travel back in time and discover Panama’s intact history and its wonderful multicultural legacy. Ruins, museums, squares, and festivals invite you to visit a destination that will leave a mark on you.",
+        img: imgCultureImgList0,
+        img_mobile: imgCultureImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Beaches",
+        type: "playas",
+        info_short:
+          "Discover some of the most beautiful beaches of the Americas.",
+        info_extra:
+          "Discover some of the most beautiful beaches of the Americas.  Sand and sun lovers will find a paradise in its various beaches and islands located in the Caribbean Sea and the Pacific Ocean.",
+        img: imgBeachesImgList0,
+        img_mobile: imgBeachesImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "City",
+        type: "ciudad",
+        info_short:
+          "Panama City has the perfect balance between traditional and modern architecture, the melting pot of many cultures.",
+        info_extra:
+          "Panama City has the perfect balance between traditional and modern architecture, the melting pot of many cultures. Its skyscrapers make it a modern and beautiful city in Central America, and Casco Antiguo (its Old Quarter) keeps its history intact. Discover its touristic attractions and everything you can do in this vibrant city.",
+        img: imgCityImgList0,
+        img_mobile: imgCityImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Nightlife",
+        type: "vida-nocturna",
+        info_short: "Panama City is famous for its thrilling nightlife.",
+        info_extra:
+          "Panama’s nightlife mainly takes place in two sectors of the city: the Business District in Downtown and amid the Spanish colonial buildings of Casco Antiguo, which is by far the most popular nightlife destination, and Panama.<br /><br />The vibrant nightlife of the Casco Antiguo (Old Quarter) awakens after an intense day. In its 12 main streets there are countless options: bars, discos, popular rooftops, tapas and wine restaurants, jazz sites, live bands with tropical music, electronics, reggae, reggaeton, salsa, merengue, hip-hop, rock and much more.<br /><br />We bet that you will be returning to Casco more than once during your visit due to its spectacular nightlife.<br /><br />Check our list of restaurants and bars located in this area.<br />",
+        img: imgNightLifeImgList0,
+        img_mobile: imgNightLifeImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Nature",
+        type: "naturaleza",
+        info_short:
+          "Panama stands out for its lush jungles numerous beaches and more than one thousand paradisiac islands.",
+        info_extra:
+          "Panama stands out for its lush jungles numerous beaches and more than one thousand paradisiac islands. The country’s natural beauty represents its greatest treasure: it is one of the few places where you can enjoy a broad variety of habitats, flora, and fauna. These are some of the options for ecotourism lovers: In Panama City: for those who would like to travel for a short time, it is not necessary to leave the city. They will find easy access to oasis, amongst which are: ",
+        img: imgNatureImgList0,
+        img_mobile: imgNatureImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+      {
+        title: "Gastronomy",
+        type: "gastronomia",
+        info_short:
+          "Thanks to European, Asian, African and American influences, Panamanian gastronomy can be considered one of the most complete in the region.",
+        info_extra:
+          "Thanks to European, Asian, African and American influences, Panamanian gastronomy can be considered one of the most complete in the region. In fact, one outstanding aspect of Panamanian cuisine is its broad range of flavors. For Panama's contrasts and history are not only limited to its landscapes. In the last years, a gastronomical movement has risen in Panama, mixing indigenous ingredients of traditional Panamanian cuisine with international cuisine ones from countries such as Italy, Peru, Spain, Colombia, China, Korea, Thailand, Lebanon, France, Brazil, Venezuela and Argentina.",
+        img: imgGastronomyImgList0,
+        img_mobile: imgGastronomyImgList0Mob,
+        parent_slug: "conoce-panama",
+      },
+    ],
+    list: [
+      //cultura
+      {
+        id: "1",
+        img: imgCultureList1,
+        img_mob: imgCultureList1Mob,
+        hero: imgCultureHero1,
+        hero_mob: imgCultureHero1Mob,
+        title: "Ruins of Panama La Vieja",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "ruinas-de-panamá-la-vieja",
+        summary:
+          "This is a World Heritage Site and it was the first city founded in the Pacific by the Spaniards. In August of 2019, Panama City turned 500 years old. Just 3 miles away from the capital, you will be able to visit the tower of the Cathedral, the King´s Bridge, the Matadero Bridge, a site museum, and ruins such as San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús and Los Conventos de la Concepción, among others",
+        content:
+          "This is a World Heritage Site and it was the first city founded in the Pacific by the Spaniards. In August of 2019, Panama City turned 500 years old. Just 3 miles away from the capital, you will be able to visit the tower of the Cathedral, the King´s Bridge, the Matadero Bridge, a site museum, and ruins such as San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús and Los Conventos de la Concepción, among others",
+      },
+      {
+        id: "2",
+        img: imgCultureList2,
+        img_mob: imgCultureList2Mob,
+        hero: imgCultureHero2,
+        hero_mob: imgCultureHero2Mob,
+        title: "Cathedral Basilica of St. Mary",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "catedral-basílica-santa-maría-la-antigua",
+        summary:
+          "Mejor conocida como la Catedral Metropolitana de Panamá; su altar fue consagrado por el Papa Francisco y es la iglesia católica más importante de la ciudad. Se puede visitar todos los días de 7:00 a. m. a 7:00 p. m.",
+        content:
+          "Mejor conocida como la Catedral Metropolitana de Panamá; su altar fue consagrado por el Papa Francisco y es la iglesia católica más importante de la ciudad. Se puede visitar todos los días de 7:00 a. m. a 7:00 p. m.",
+      },
+      {
+        id: "3",
+        img: imgCultureList3,
+        img_mob: imgCultureList3Mob,
+        hero: imgCultureHero3,
+        hero_mob: imgCultureHero3Mob,
+        title: "Independence Square",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-de-la-independencia",
+        summary:
+          "Es una de las plazas emblemáticas del Casco Antiguo y uno de los grandes sitios históricos de Panamá. Se la conoce oficialmente como la Plaza Independencia, pero también como Plaza Mayor. Está rodeada de edificios de la época colonial, entre ellos la Catedral Metropolitana, el Palacio Municipal y el Museo del Canal Interoceánico.",
+        content:
+          "Es una de las plazas emblemáticas del Casco Antiguo y uno de los grandes sitios históricos de Panamá. Se la conoce oficialmente como la Plaza Independencia, pero también como Plaza Mayor. Está rodeada de edificios de la época colonial, entre ellos la Catedral Metropolitana, el Palacio Municipal y el Museo del Canal Interoceánico.",
+      },
+      {
+        id: "4",
+        img: imgCultureList4,
+        img_mob: imgCultureList4Mob,
+        hero: imgCultureHero4,
+        hero_mob: imgCultureHero4Mob,
+        title: "La Merced Church in Panama City",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "iglesia-de-la-merced-de-la-ciudad-de-panamá",
+        summary:
+          "Es un templo católico de más de 400 años de antigüedad y cuenta con sorprendentes piezas arquitectónicas y una rica historia. Encontrarás dos capillas: una de la Virgen de la Merced y otra de un mausoleo.",
+        content:
+          "Es un templo católico de más de 400 años de antigüedad y cuenta con sorprendentes piezas arquitectónicas y una rica historia. Encontrarás dos capillas: una de la Virgen de la Merced y otra de un mausoleo.",
+      },
+      {
+        id: "5",
+        img: imgCultureList5,
+        img_mob: imgCultureList5Mob,
+        hero: imgCultureHero5,
+        hero_mob: imgCultureHero5Mob,
+        title: "Las Garzas Palace",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "palacio-de-las-garzas",
+        summary:
+          "Un edificio caracterizado por una arquitectura colonial, con una historia y patrimonio cultural importantes, que actualmente es la sede de la presidencia de la República de Panamá. Desde el palacio podrás disfrutar de una espectacular vista a la bahía de Panamá.",
+        content:
+          "Un edificio caracterizado por una arquitectura colonial, con una historia y patrimonio cultural importantes, que actualmente es la sede de la presidencia de la República de Panamá. Desde el palacio podrás disfrutar de una espectacular vista a la bahía de Panamá.",
+      },
+      {
+        id: "6",
+        img: imgCultureList6,
+        img_mob: imgCultureList6Mob,
+        hero: imgCultureHero6,
+        hero_mob: imgCultureHero6Mob,
+        title: "Tomas Herrera Square",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-tomás-herrera",
+        summary:
+          "Visita esta reconocida plaza ubicada en el Casco Antiguo. En el centro se puede observar un alto pedestal de granito con la estatua de bronce del general Tomás Herrera, héroe nacional que participó en la gesta emancipadora de América del Sur.",
+        content:
+          "Visita esta reconocida plaza ubicada en el Casco Antiguo. En el centro se puede observar un alto pedestal de granito con la estatua de bronce del general Tomás Herrera, héroe nacional que participó en la gesta emancipadora de América del Sur.",
+      },
+      {
+        id: "7",
+        img: imgCultureList7,
+        img_mob: imgCultureList7Mob,
+        hero: imgCultureHero7,
+        hero_mob: imgCultureHero7Mob,
+        title: "Panama National Theatre",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "teatro-nacional-de-panamá",
+        summary:
+          "Ubicado en el corazón del Casco Antiguo, es una de las obras representativas de la arquitectura neoclásica, con esculturas que homenajean a figuras como Wagner, Shakespeare, Moliere, Rossini, Cervantes y Lope de Vega. En el techo del teatro se puede apreciar un fresco del artista panameño Roberto Lewis.",
+        content:
+          "Ubicado en el corazón del Casco Antiguo, es una de las obras representativas de la arquitectura neoclásica, con esculturas que homenajean a figuras como Wagner, Shakespeare, Moliere, Rossini, Cervantes y Lope de Vega. En el techo del teatro se puede apreciar un fresco del artista panameño Roberto Lewis.",
+      },
+      {
+        id: "8",
+        img: imgCultureList8,
+        img_mob: imgCultureList8Mob,
+        hero: imgCultureHero8,
+        hero_mob: imgCultureHero8Mob,
+        title: "Plaza Bolívar",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-bolívar",
+        summary:
+          "El monumento del Libertador Simón Bolívar, la iglesia de San Francisco de Asís, la Cancillería de la República, el Teatro Nacional, el Oratorio San Felipe Neri y las Bóvedas hacen de esta plaza un lugar inolvidable que no te puedes perder.",
+        content:
+          "El monumento del Libertador Simón Bolívar, la iglesia de San Francisco de Asís, la Cancillería de la República, el Teatro Nacional, el Oratorio San Felipe Neri y las Bóvedas hacen de esta plaza un lugar inolvidable que no te puedes perder.",
+      },
+      {
+        id: "9",
+        img: imgCultureList9,
+        img_mob: imgCultureList9Mob,
+        hero: imgCultureHero9,
+        hero_mob: imgCultureHero9Mob,
+        title: "National Festivals",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "festivales-nacionales",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "10",
+        img: imgCultureList10,
+        img_mob: imgCultureList10Mob,
+        hero: imgCultureHero10,
+        hero_mob: imgCultureHero10Mob,
+        title: "Museums",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "museos",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "11",
+        img: imgCultureList11,
+        img_mob: imgCultureList11Mob,
+        hero: imgCultureHero11,
+        hero_mob: imgCultureHero11Mob,
+        title: "Casco Antiguo",
+        type: "cultura",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "casco-antiguo",
+        summary: "",
+        content: null,
+      },
+      //playas//List////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "10",
+        img: imgBeachesList1,
+        img_mob: imgBeachesList1Mob,
+        hero: imgBeachesHero1,
+        hero_mob: imgBeachesHero1Mob,
+        title: "San Blas Islands",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-san-blas",
+        summary:
+          "San Blas es un lugar ideal para descansar, pero también hay muchas actividades que podrás realizar, entre ellas:",
+        content:
+          "San Blas es un lugar ideal para descansar, pero también hay muchas actividades que podrás realizar, entre ellas:",
+      },
+      {
+        id: "11",
+        img: imgBeachesList2,
+        img_mob: imgBeachesList2Mob,
+        hero: imgBeachesHero2,
+        hero_mob: imgBeachesHero2Mob,
+        title: "Bastimentos Island ",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-bastimentos ",
+        summary:
+          "Situada en el archipiélago de Bocas del Toro, puedes ver especies como monos aulladores, caimanes y las diminutas ranas rojas por la zona. Las playas más reconocidas son Red Frog, Playa Polo, Playa Wizard y Playa Larga. ",
+        content:
+          "Situada en el archipiélago de Bocas del Toro, puedes ver especies como monos aulladores, caimanes y las diminutas ranas rojas por la zona. Las playas más reconocidas son Red Frog, Playa Polo, Playa Wizard y Playa Larga. ",
+      },
+      {
+        id: "12",
+        img: imgBeachesList3,
+        img_mob: imgBeachesList3Mob,
+        hero: imgBeachesHero3,
+        hero_mob: imgBeachesHero3Mob,
+        title: "Santa Catalina",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "santa-catalina",
+        summary:
+          "Localizada en la provincia de Veraguas, en la zona encontrarás varios restaurantes, alojamientos y bares. Además, Santa Catalina es el punto de partida para Coiba, Reserva Nacional reconocido por la UNESCO, popular entre los buzos y aquellos que deseen practicar snorkel.",
+        content:
+          "Localizada en la provincia de Veraguas, en la zona encontrarás varios restaurantes, alojamientos y bares. Además, Santa Catalina es el punto de partida para Coiba, Reserva Nacional reconocido por la UNESCO, popular entre los buzos y aquellos que deseen practicar snorkel.",
+      },
+      {
+        id: "13",
+        img: imgBeachesList4,
+        img_mob: imgBeachesList4Mob,
+        hero: imgBeachesHero4,
+        hero_mob: imgBeachesHero4Mob,
+        title: "Venao beach",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-venao",
+        summary:
+          "Ubicada en la provincia de Los Santos, del lado este se encuentra uno de los puntos más importantes para los que practican este deporte en Centroamérica. Venao beach invita a sus visitantes a dar un tour por la selva, realizar deportes acuáticos (se puede bucear con tanque y hacer pesca deportiva) y disfrutar de su vida nocturna.",
+        content:
+          "Ubicada en la provincia de Los Santos, del lado este se encuentra uno de los puntos más importantes para los que practican este deporte en Centroamérica. Venao beach invita a sus visitantes a dar un tour por la selva, realizar deportes acuáticos (se puede bucear con tanque y hacer pesca deportiva) y disfrutar de su vida nocturna.",
+      },
+      {
+        id: "14",
+        img: imgBeachesList5,
+        img_mob: imgBeachesList5Mob,
+        hero: imgBeachesHero5,
+        hero_mob: imgBeachesHero5Mob,
+        title: "Isla Grande",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-grande",
+        summary:
+          "La pintoresca Isla Grande se localiza a poco más de 10 kilómetros del legendario Portobelo, en la provincia de Colón.  Al extremo sur se encuentra La Punta, el principal balneario de la isla para disfrutar del mar y el sol caribeños.",
+        content:
+          "La pintoresca Isla Grande se localiza a poco más de 10 kilómetros del legendario Portobelo, en la provincia de Colón.  Al extremo sur se encuentra La Punta, el principal balneario de la isla para disfrutar del mar y el sol caribeños.",
+      },
+      {
+        id: "15",
+        img: imgBeachesList6,
+        img_mob: imgBeachesList6Mob,
+        hero: imgBeachesHero6,
+        hero_mob: imgBeachesHero6Mob,
+        title: "El Palmar",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "el-palmar",
+        summary:
+          "La playa es de fácil acceso, permitiendo que cada fin de semana la puedan visitar grupos de amigos que deseen correr las olas, o simplemente alejarse un rato del entorno citadino.",
+        content:
+          "La playa es de fácil acceso, permitiendo que cada fin de semana la puedan visitar grupos de amigos que deseen correr las olas, o simplemente alejarse un rato del entorno citadino.",
+      },
+      {
+        id: "16",
+        img: imgBeachesList7,
+        img_mob: imgBeachesList7Mob,
+        hero: imgBeachesHero7,
+        hero_mob: imgBeachesHero7Mob,
+        title: "Pearl Islands",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-las-perlas",
+        summary:
+          "Un paraíso turístico en el Océano Pacífico, caracterizado por playas de arena blanca, turquesas aguas cristalinas y una suave brisa con sabor a mar. Gracias a su cercanía a la ciudad, es uno de los principales destinos para el avistamiento de ballenas que los turistas visitan cada año.",
+        content:
+          "Un paraíso turístico en el Océano Pacífico, caracterizado por playas de arena blanca, turquesas aguas cristalinas y una suave brisa con sabor a mar. Gracias a su cercanía a la ciudad, es uno de los principales destinos para el avistamiento de ballenas que los turistas visitan cada año.",
+      },
+      {
+        id: "17",
+        img: imgBeachesList8,
+        img_mob: imgBeachesList8Mob,
+        hero: imgBeachesHero8,
+        hero_mob: imgBeachesHero8Mob,
+        title: "Contadora Island",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-contadora",
+        summary:
+          "Es una isla de arena blanca, aguas verdes y turquesas, cuyas playas más populares son Playa Larga, Playa las Suecas, Playa Cacique, Playa Ejecutiva y Playa Galeón. Ideal para hacer snorkel, navegar a vela alrededor de las islas, alquilar un paddle board y practicar windsurf, también es un paraíso maravilloso para los amantes del buceo con tanque.",
+        content:
+          "Es una isla de arena blanca, aguas verdes y turquesas, cuyas playas más populares son Playa Larga, Playa las Suecas, Playa Cacique, Playa Ejecutiva y Playa Galeón. Ideal para hacer snorkel, navegar a vela alrededor de las islas, alquilar un paddle board y practicar windsurf, también es un paraíso maravilloso para los amantes del buceo con tanque.",
+      },
+      {
+        id: "18",
+        img: imgBeachesList9,
+        img_mob: imgBeachesList9Mob,
+        hero: imgBeachesHero9,
+        hero_mob: imgBeachesHero9Mob,
+        title: "Punta Chame",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "punta-chame",
+        summary:
+          "Ubicada en el Pacífico, su playa ofrece el ambiente perfecto para practicar kiteboard y windsurf. El área se caracteriza por sus fuertes ráfagas regulares, que lo convierten en un lugar privilegiado para este tipo de deportes.",
+        content:
+          "Ubicada en el Pacífico, su playa ofrece el ambiente perfecto para practicar kiteboard y windsurf. El área se caracteriza por sus fuertes ráfagas regulares, que lo convierten en un lugar privilegiado para este tipo de deportes.",
+      },
+      {
+        id: "19",
+        img: imgBeachesList10,
+        img_mob: imgBeachesList10Mob,
+        hero: imgBeachesHero10,
+        hero_mob: imgBeachesHero10Mob,
+        title: "Taboga",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "taboga",
+        summary:
+          "Taboga es el balneario perfecto para pasar el día y tomar el sol.  Su geología indica que es una isla de origen volcánico. Puedes subir el cerro de la Cruz, el cerro Vigía y el cerro de San Pedro, que tiene una altura de alrededor de 300 m. Otro atractivo son sus casitas y calles coloridas. Además, puedes visitar los pequeños hoteles, restaurantes, ferias de artesanías, recorrer los alrededores de la isla y mucho más.",
+        content:
+          "Taboga es el balneario perfecto para pasar el día y tomar el sol.  Su geología indica que es una isla de origen volcánico. Puedes subir el cerro de la Cruz, el cerro Vigía y el cerro de San Pedro, que tiene una altura de alrededor de 300 m. Otro atractivo son sus casitas y calles coloridas. Además, puedes visitar los pequeños hoteles, restaurantes, ferias de artesanías, recorrer los alrededores de la isla y mucho más.",
+      },
+      {
+        id: "20",
+        img: imgBeachesList11,
+        img_mob: imgBeachesList11Mob,
+        hero: imgBeachesHero11,
+        hero_mob: imgBeachesHero11Mob,
+        title: "Playa Tortuga",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "playa-tortuga",
+        summary:
+          "Ubicada en la provincia de Bocas del Toro al oeste del país, es un oasis natural sobre las aguas cristalinas del mar Caribe. Se destaca por su abundante vida marina y arrecifes de coral que hacen de este lugar un paraíso para practicar snorkel y otros deportes acuáticos.",
+        content:
+          "Ubicada en la provincia de Bocas del Toro al oeste del país, es un oasis natural sobre las aguas cristalinas del mar Caribe. Se destaca por su abundante vida marina y arrecifes de coral que hacen de este lugar un paraíso para practicar snorkel y otros deportes acuáticos.",
+      },
+      // {
+      //   id: "21",
+      //   img: imgBeachesList12,
+      //   img_mob: imgBeachesList12Mob,
+      //   hero: imgBeachesHero12,
+      //   hero_mob: imgBeachesHero12Mob,
+      //   title: "Bahía Piñas, Darién",
+      //   type: "playas",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "playas",
+      //   slug: "bahía-piñas,-darién",
+      //   summary:
+      //     "Bahía Piñas cuenta con un complejo turístico, el cual es una joya entre montañas, selva y playa privada. Además, el arrecife Zane Grey es todo un atractivo entre sus aguas. ",
+      //   content:
+      //     "Bahía Piñas cuenta con un complejo turístico, el cual es una joya entre montañas, selva y playa privada. Además, el arrecife Zane Grey es todo un atractivo entre sus aguas. ",
+      // },
+      {
+        id: "22",
+        img: imgBeachesList13,
+        img_mob: imgBeachesList13Mob,
+        hero: imgBeachesHero13,
+        hero_mob: imgBeachesHero13Mob,
+        title: "Isla Iguana",
+        type: "playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-iguana",
+        summary:
+          "Se encuentra a una distancia muy corta desde Pedasí. Imaginarás por qué la isla se llama así: podrás observar una población de iguanas en su ambiente natural. También encontrarás cangrejos morados y tortugas marinas entre la fauna que rodea la isla.",
+        content:
+          "Se encuentra a una distancia muy corta desde Pedasí. Imaginarás por qué la isla se llama así: podrás observar una población de iguanas en su ambiente natural. También encontrarás cangrejos morados y tortugas marinas entre la fauna que rodea la isla.",
+      },
+      //ciudad//List////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgCityList1,
+        img_mob: imgCityList1Mob,
+        hero: imgCityHero1,
+        hero_mob: imgCityHero1Mob,
+        title: "Panama Canal",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "canal-de-panamá",
+        summary:
+          "Descubre una de las maravillas del mundo moderno que une el Oceánico Pacífico con el Océano Atlántico. Podrás observarlo desde el centro de visitantes del Canal de Miraflores, donde podrás ver el Canal original y en Agua Clara donde podrás observar el Canal ampliado. El Canal cuenta con 144 rutas marítimas, 160 países usuarios y 1700 puertos conectados.",
+        content:
+          "Descubre una de las maravillas del mundo moderno que une el Oceánico Pacífico con el Océano Atlántico. Podrás observarlo desde el centro de visitantes del Canal de Miraflores, donde podrás ver el Canal original y en Agua Clara donde podrás observar el Canal ampliado. El Canal cuenta con 144 rutas marítimas, 160 países usuarios y 1700 puertos conectados.",
+      },
+      {
+        id: "2",
+        img: imgCityList2,
+        img_mob: imgCityList2Mob,
+        hero: imgCityHero2,
+        hero_mob: imgCityHero2Mob,
+        title: "Skylines in Panama",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "skylines",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgCityList3,
+        img_mob: imgCityList3Mob,
+        hero: imgCityHero3,
+        hero_mob: imgCityHero3Mob,
+        title: "Amador Causeway",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "calzada-de-amador",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "4",
+        img: imgCityList4,
+        img_mob: imgCityList4Mob,
+        hero: imgCityHero4,
+        hero_mob: imgCityHero4Mob,
+        title: "Shopping",
+        type: "ciudad",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "shopping",
+        summary: "",
+        content: null,
+      },
+      //vida-nocturna
+        /*
+      {
+        id: "1",
+        img: imgNightList1,
+        img_mob: imgNightList1Mob,
+        hero: imgNightHero1,
+        hero_mob: imgNightHero1Mob,
+        title: "Casco Antiguo",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "casco-antiguo-vida-nocturna",
+        summary:
+          "Cuenta con una gran variedad de clubes nocturnos, restaurantes y ambiente histórico, lo que lo convierte en el destino de vida nocturna más popular en la ciudad. En el Casco podrás encontrar una increíble variedad de clubes y bares con diferentes géneros musicales. Los visitantes no se pueden perder la oportunidad de visitar al menos un bar en la azotea de Casco Antiguo para experimentar increíbles vistas de la ciudad vieja y nueva. <br>Algunos de los lugares conocidos son:<br><ul>   <li>Tantalo Rooftop Bar: excelentes vistas del horizonte y la bahía de la Ciudad de Panamá.</li>   <li>Las Bóvedas: ubicado dentro de un antiguo calabozo de 300 años, Las Bóvedas ofrece cocina francesa y galería de artes. Este restaurante generalmente tiene jazz en vivo los viernes y sábados por la noche.</li>   <li>Casablanca: un restaurante y bar urbano con cocina internacional, una buena selección de vinos y música en vivo ocasionalmente. </li>   <li>También te recomendamos conocer bares como: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, entre otros. </li></ul>",
+        content:
+          "Cuenta con una gran variedad de clubes nocturnos, restaurantes y ambiente histórico, lo que lo convierte en el destino de vida nocturna más popular en la ciudad. En el Casco podrás encontrar una increíble variedad de clubes y bares con diferentes géneros musicales. Los visitantes no se pueden perder la oportunidad de visitar al menos un bar en la azotea de Casco Antiguo para experimentar increíbles vistas de la ciudad vieja y nueva. <br>Algunos de los lugares conocidos son:<br><ul>   <li>Tantalo Rooftop Bar: excelentes vistas del horizonte y la bahía de la Ciudad de Panamá.</li>   <li>Las Bóvedas: ubicado dentro de un antiguo calabozo de 300 años, Las Bóvedas ofrece cocina francesa y galería de artes. Este restaurante generalmente tiene jazz en vivo los viernes y sábados por la noche.</li>   <li>Casablanca: un restaurante y bar urbano con cocina internacional, una buena selección de vinos y música en vivo ocasionalmente. </li>   <li>También te recomendamos conocer bares como: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, entre otros. </li></ul>",
+      },
+         */
+      /*
+      {
+        id: "2",
+        img: imgNightList2,
+        img_mob: imgNightList2Mob,
+        hero: imgNightHero2,
+        hero_mob: imgNightHero2Mob,
+        title: '360 Rooftop',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '360-Rooftop',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgNightList3,
+        img_mob: imgNightList3Mob,
+        hero: imgNightHero3,
+        hero_mob: imgNightHero3Mob,
+        title: 'Casa casco',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-casco',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "4",
+        img: imgNightList4,
+        img_mob: imgNightList4Mob,
+        hero: imgNightHero4,
+        hero_mob: imgNightHero4Mob,
+        title: 'Tantalo',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'tantalo',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "5",
+        img: imgNightList5,
+        img_mob: imgNightList5Mob,
+        hero: imgNightHero5,
+        hero_mob: imgNightHero5Mob,
+        title: 'Casa Blanca',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-blanca',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "6",
+        img: imgNightList6,
+        img_mob: imgNightList6Mob,
+        hero: imgNightHero6,
+        hero_mob: imgNightHero6Mob,
+        title: 'Madrigal',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'madrigal',
+        summary: '',
+        content: null,
+      },
+      {
+        id: "7",
+        img: imgNightList7,
+        img_mob: imgNightList7Mob,
+        hero: imgNightHero7,
+        hero_mob: imgNightHero7Mob,
+        title: 'Calzada de amador',
+        type: 'vida-nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '_calzada-de-amador',
+        summary: '',
+        content: null,
+      },
+      */
+        /*
+      {
+        id: "8",
+        img: imgNightList8,
+        img_mob: imgNightList8Mob,
+        hero: imgNightHero8,
+        hero_mob: imgNightHero8Mob,
+        title: "Uruguay Street",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "calle-uruguay",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "9",
+        img: imgNightList9,
+        img_mob: imgNightList9Mob,
+        hero: imgNightHero9,
+        hero_mob: imgNightHero9Mob,
+        title: "Commercial Area",
+        type: "vida-nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "zona-comercial",
+        summary:
+          "Ubicado en el centro del centro de la ciudad, la zona comercial tiene mucho que ofrecer a los turistas. Aunque no es tan sencillo trasladarse a pie de un bar/restaurante a otro, como en Casco Antiguo, los visitantes quedarán encantados con el ambiente moderno de la ciudad. <br>Algunos de los lugares conocidos son:<br><ul><li>The Hard Rock Hotel: el Hard Rock Roof Lounge tiene impresionantes vistas de la ciudad y el océano 360, ideal para ver la puesta de sol.</li><li>Steinbock: pub alemán con una gran selección de cervezas alemanas y europeas, así como una variedad de delicias culinarias alemanas.<li>El Apartamento: uno de los puntos más modernos de la ciudad. El Apartamento tiene un interior rústico y artístico, y eventos semanales como exhibiciones de bandas locales y comedias de aficionados.</li></ul>",
+        content:
+          "Ubicado en el centro del centro de la ciudad, la zona comercial tiene mucho que ofrecer a los turistas. Aunque no es tan sencillo trasladarse a pie de un bar/restaurante a otro, como en Casco Antiguo, los visitantes quedarán encantados con el ambiente moderno de la ciudad. <br>Algunos de los lugares conocidos son:<br><ul><li>The Hard Rock Hotel: el Hard Rock Roof Lounge tiene impresionantes vistas de la ciudad y el océano 360, ideal para ver la puesta de sol.</li><li>Steinbock: pub alemán con una gran selección de cervezas alemanas y europeas, así como una variedad de delicias culinarias alemanas.<li>El Apartamento: uno de los puntos más modernos de la ciudad. El Apartamento tiene un interior rústico y artístico, y eventos semanales como exhibiciones de bandas locales y comedias de aficionados.</li></ul>",
+      },
+         */
+      //naturaleza/List/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNatureList1,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero1,
+        hero_mob: imgNatureHero1Mob,
+        title: "Cerro Ancon",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cerro-ancón",
+        summary:
+          "Descubre un bosque tropical en medio de una zona urbana y encuentra una amplia variedad de flora y fauna, como tucanes, armadillos, perezosos, coatíes, entre otros.",
+        content:
+          "Descubre un bosque tropical en medio de una zona urbana y encuentra una amplia variedad de flora y fauna, como tucanes, armadillos, perezosos, coatíes, entre otros.",
+      },
+      {
+        id: "2",
+        img: imgNatureList2,
+        img_mob: imgNatureList2Mob,
+        hero: imgNatureHero2,
+        hero_mob: imgNatureHero2Mob,
+        title: "Panama Canal Zone",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "antigua-zona-canalera",
+        summary: "",
+        content: null,
+      },
+      {
+        id: "3",
+        img: imgNatureList3,
+        img_mob: imgNatureList3Mob,
+        hero: imgNatureHero3,
+        hero_mob: imgNatureHero3Mob,
+        title: "Camino de Cruces",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "camino-de-cruces",
+        summary:
+          "A 20 minutos del centro de la Ciudad de Panamá, este parque cuenta con senderos que llevan a bosques con una riqueza natural, flora y fauna imponentes, desde donde se pueden apreciar diferentes animales y hermosas vistas panorámicas.",
+        content:
+          "A 20 minutos del centro de la Ciudad de Panamá, este parque cuenta con senderos que llevan a bosques con una riqueza natural, flora y fauna imponentes, desde donde se pueden apreciar diferentes animales y hermosas vistas panorámicas.",
+      },
+      {
+        id: "4",
+        img: imgNatureList4,
+        img_mob: imgNatureList4Mob,
+        hero: imgNatureHero4,
+        hero_mob: imgNatureHero4Mob,
+        title: "National Metropolitan Park",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-nacional-metropolitano",
+        summary:
+          "El parque se encuentra a 10 minutos de la Ciudad de Panamá. En este hermoso lugar podrás caminar por los senderos marcados, rodeados de orquídeas y árboles de cedro, y ver más de 200 especies diferentes de aves (algunas de las cuales se han descubierto en los predios de este parque), mamíferos y reptiles. También se ofrecen caminatas guiadas de una hora. ",
+        content:
+          "El parque se encuentra a 10 minutos de la Ciudad de Panamá. En este hermoso lugar podrás caminar por los senderos marcados, rodeados de orquídeas y árboles de cedro, y ver más de 200 especies diferentes de aves (algunas de las cuales se han descubierto en los predios de este parque), mamíferos y reptiles. También se ofrecen caminatas guiadas de una hora. ",
+      },
+      /*
+      {
+        id: "5",
+        img: imgNatureList5,
+        img_mob: imgNatureList5Mob,
+        hero: imgNatureHero5,
+        hero_mob: imgNatureHero5Mob,
+        title: 'Provincia de Chiriquí',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-chiriquí',
+        summary: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.',
+        content: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.'
+      },
+      */
+      {
+        id: "6",
+        img: imgNatureList6,
+        img_mob: imgNatureList6Mob,
+        hero: imgNatureHero6,
+        hero_mob: imgNatureHero6Mob,
+        title: "Boquete",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "boquete",
+        summary:
+          "Aquí puedes lanzarte a la aventura y hacer actividades como senderismo, canopy, rafting, paseos a caballo y avistamiento de aves. Es también un lugar destacado para el cultivo del café, donde se cosecha el famoso café Geisha, galardonado internacionalmente como uno de los mejores del mundo. <br>Durante el mes de enero, en este bello sitio se celebra anualmente la Feria Internacional de las Flores y Café, conocida en el distrito como la Feria de Boquete.",
+        content:
+          "Aquí puedes lanzarte a la aventura y hacer actividades como senderismo, canopy, rafting, paseos a caballo y avistamiento de aves. Es también un lugar destacado para el cultivo del café, donde se cosecha el famoso café Geisha, galardonado internacionalmente como uno de los mejores del mundo. <br>Durante el mes de enero, en este bello sitio se celebra anualmente la Feria Internacional de las Flores y Café, conocida en el distrito como la Feria de Boquete.",
+      },
+      /*
+      {
+        id: "7",
+        img: imgNatureList7,
+        img_mob: imgNatureList7Mob,
+        hero: imgNatureHero7,
+        hero_mob: imgNatureHero7Mob,
+        title: 'Volcán Barú',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'volcán-barú',
+        summary: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.',
+        content: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.'
+      },
+      */
+      {
+        id: "8",
+        img: imgNatureList8,
+        img_mob: imgNatureList8Mob,
+        hero: imgNatureHero8,
+        hero_mob: imgNatureHero8Mob,
+        title: "La Amistad International Park",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-internacional-la-amistad",
+        summary:
+          "Se pueden visitar senderos como Los Gigantes del Bosque, Valle del Silencio y Sabanas Esperanza, entre otros. También podrás observar una gran variedad de árboles gigantes como el roble blanco, aves como el tucán y el pájaro campana, y especies como colibríes, pinzones, quetzales y monos carablanca, entre otros.",
+        content:
+          "Se pueden visitar senderos como Los Gigantes del Bosque, Valle del Silencio y Sabanas Esperanza, entre otros. También podrás observar una gran variedad de árboles gigantes como el roble blanco, aves como el tucán y el pájaro campana, y especies como colibríes, pinzones, quetzales y monos carablanca, entre otros.",
+      },
+      {
+        id: "9",
+        img: imgNatureList9,
+        img_mob: imgNatureList9Mob,
+        hero: imgNatureHero9,
+        hero_mob: imgNatureHero9Mob,
+        title: "Volcán and Cerro Punta",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "volcán-y-cerro-punta",
+        summary:
+          "El Cerro Punta es un pueblo pintoresco y montañoso, con mosaicos de tierras cultivadas sobre la ladera montañosa que decoran el paisaje. Aquí, no puedes dejar de probar una tacita de chocolate caliente y un plato de fresas con crema.<br>El poblado es hermoso, con coloridas flores y áreas protegidas que lo convierten en uno de los mejores lugares de Centroamérica para vislumbrar al quetzal. También es el hogar de importantes crías de caballo y granjas agrícolas.",
+        content:
+          "El Cerro Punta es un pueblo pintoresco y montañoso, con mosaicos de tierras cultivadas sobre la ladera montañosa que decoran el paisaje. Aquí, no puedes dejar de probar una tacita de chocolate caliente y un plato de fresas con crema.<br>El poblado es hermoso, con coloridas flores y áreas protegidas que lo convierten en uno de los mejores lugares de Centroamérica para vislumbrar al quetzal. También es el hogar de importantes crías de caballo y granjas agrícolas.",
+      },
+      {
+        id: "10",
+        img: imgNatureList10,
+        img_mob: imgNatureList10Mob,
+        hero: imgNatureHero10,
+        hero_mob: imgNatureHero10Mob,
+        title: "Coffee crops",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cosechas-de-café",
+        summary:
+          "Boquete y Volcán poseen la altura óptima para la producción del café de altura, arriba de los 1300 m.s.n.m., lo cual le otorga su calidad mundialmente reconocida. ",
+        content:
+          "Boquete y Volcán poseen la altura óptima para la producción del café de altura, arriba de los 1300 m.s.n.m., lo cual le otorga su calidad mundialmente reconocida. ",
+      },
+      /*
+      {
+        id: "11",
+        img: imgNatureList11,
+        img_mob: imgNatureList11Mob,
+        hero: imgNatureHero11,
+        hero_mob: imgNatureHero11Mob,
+        title: 'Provincia de Coclé',
+        type: 'naturaleza',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-coclé',
+        summary: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.',
+        content: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.'
+      },
+      */
+      {
+        id: "12",
+        img: imgNatureList12,
+        img_mob: imgNatureList12Mob,
+        hero: imgNatureHero12,
+        hero_mob: imgNatureHero12Mob,
+        title: "Anton Valley",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "el-valle-de-antón",
+        summary:
+          "Aquí se goza de un clima placentero y se aprecian cautivadores paisajes de la flora y fauna locales. El cerro de la India Dormida, con sus inigualables vistas panorámicas, es una de las principales atracciones de la ciudad, cuyo nombre se debe a su parecido con una india. En el Valle podrás encontrar: ",
+        content:
+          "Aquí se goza de un clima placentero y se aprecian cautivadores paisajes de la flora y fauna locales. El cerro de la India Dormida, con sus inigualables vistas panorámicas, es una de las principales atracciones de la ciudad, cuyo nombre se debe a su parecido con una india. En el Valle podrás encontrar: ",
+      },
+      {
+        id: "13",
+        img: imgNatureList13,
+        img_mob: imgNatureList13Mob,
+        hero: imgNatureHero13,
+        hero_mob: imgNatureHero13Mob,
+        title: "Province of Colon",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-colón",
+        summary:
+          "<strong>Parque Nacional Portobelo:</strong> se pueden explorar fortificaciones coloniales a través de los senderos en el bosque o hacer buceo en el mar Caribe. El parque cuenta con hoteles y restaurantes, y se pueden alquilar equipos de buceo y motos acuáticas.<br><strong>Parque Nacional Chagres:</strong> protege la cuenca hidrográfica del Canal de Panamá. El 80 % del agua destinada al funcionamiento del canal y al consumo de agua potable de la Ciudad de Panamá y Colón proviene de esta área, donde encontrarás especies endémicas como la salamandra kuna y el carpintero carirrayado, que se pueden ver en Cerro Azul, el tapir, el águila harpía, el jaguar y otros 4 felinos panameños. Los ríos que desembocan en el lago Alajuela son el hábitat de gatos de agua (nutrias), babillos y caimanes.",
+        content:
+          "<strong>Parque Nacional Portobelo:</strong> se pueden explorar fortificaciones coloniales a través de los senderos en el bosque o hacer buceo en el mar Caribe. El parque cuenta con hoteles y restaurantes, y se pueden alquilar equipos de buceo y motos acuáticas.<br><strong>Parque Nacional Chagres:</strong> protege la cuenca hidrográfica del Canal de Panamá. El 80 % del agua destinada al funcionamiento del canal y al consumo de agua potable de la Ciudad de Panamá y Colón proviene de esta área, donde encontrarás especies endémicas como la salamandra kuna y el carpintero carirrayado, que se pueden ver en Cerro Azul, el tapir, el águila harpía, el jaguar y otros 4 felinos panameños. Los ríos que desembocan en el lago Alajuela son el hábitat de gatos de agua (nutrias), babillos y caimanes.",
+      },
+      {
+        id: "14",
+        img: imgNatureList14,
+        img_mob: imgNatureList14Mob,
+        hero: imgNatureHero14,
+        hero_mob: imgNatureHero14Mob,
+        title: "Sarigua National Park",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "desierto-de-sarigua",
+        summary:
+          "Parque Nacional Sarigua: la vegetación en este parque se divide en cuatro categorías: leguminosas, arbóreas, cactáceas y portulacaceae. Además de la vegetación, otro de los principales puntos de interés son los descubrimientos arqueológicos.",
+        content:
+          "Parque Nacional Sarigua: la vegetación en este parque se divide en cuatro categorías: leguminosas, arbóreas, cactáceas y portulacaceae. Además de la vegetación, otro de los principales puntos de interés son los descubrimientos arqueológicos.",
+      },
+      {
+        id: "15",
+        img: imgNatureList15,
+        img_mob: imgNatureList15Mob,
+        hero: imgNatureHero15,
+        hero_mob: imgNatureHero15Mob,
+        title: "Province of Darien",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-darién",
+        summary:
+          "Es el hábitat de más de 300 especies de aves, como el águila harpía, cuatro especies de guacamayas, y muchas especies endémicas, que hacen de este territorio uno de los favoritos de los observadores de aves a nivel mundial. Esta provincia es rica en cultura y, además, es la tierra de los indios Emberá-Wounaan y Kuna.",
+        content:
+          "Es el hábitat de más de 300 especies de aves, como el águila harpía, cuatro especies de guacamayas, y muchas especies endémicas, que hacen de este territorio uno de los favoritos de los observadores de aves a nivel mundial. Esta provincia es rica en cultura y, además, es la tierra de los indios Emberá-Wounaan y Kuna.",
+      },
+      {
+        id: "16",
+        img: imgNatureList16,
+        img_mob: imgNatureList16Mob,
+        hero: imgNatureHero16,
+        hero_mob: imgNatureHero16Mob,
+        title: "Province of West Panama",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "los-cajones-de-chame",
+        summary:
+          "Cajones de Chame: es un conjunto de laberintos de rocas formadas por la erosión del Río de Chame, que constituye un lugar ideal para realizar actividades de aventura.",
+        content:
+          "Cajones de Chame: es un conjunto de laberintos de rocas formadas por la erosión del Río de Chame, que constituye un lugar ideal para realizar actividades de aventura.",
+      },
+      {
+        id: "17",
+        img: imgNatureList17,
+        img_mob: imgNatureList17Mob,
+        hero: imgNatureHero17,
+        hero_mob: imgNatureHero17Mob,
+        title: "Golf courses in Panama City",
+        type: "naturaleza",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "canchas-de-golf",
+        summary:
+          "En la ciudad: <br>Tucan Country Club & Resort: esta bella cancha de golf está rodeada de bosques tropicales y ofrece vistas panorámicas del Canal y la Ciudad de Panamá.<br>Summit Golf & Resort: es una cancha profesional, diseñada por Jeffrey Myers, que ofrece lujosos fairways y true greens en un paraíso rodeado de colinas, llanuras y vida silvestre.<br>Club de Golf Panamá: diseñada para utilizarse en eventos profesionales nacionales e internacionales, ya que cumple con los requisitos a nivel internacional. Además, se puede disfrutar de su bello paisaje de variada naturaleza y distintos lagos.<br>Santa Maria Golf Club: diseñada por el multicampeón Jack Nicklaus; el campo se construyó con la más moderna tecnología, siguiendo las normas USGA para los greens. El diseño de la cancha permite que al jugador siga una ruta segura hacia el green, pero con un bunkering bien colocado.",
+        content:
+          "En la ciudad: <br>Tucan Country Club & Resort: esta bella cancha de golf está rodeada de bosques tropicales y ofrece vistas panorámicas del Canal y la Ciudad de Panamá.<br>Summit Golf & Resort: es una cancha profesional, diseñada por Jeffrey Myers, que ofrece lujosos fairways y true greens en un paraíso rodeado de colinas, llanuras y vida silvestre.<br>Club de Golf Panamá: diseñada para utilizarse en eventos profesionales nacionales e internacionales, ya que cumple con los requisitos a nivel internacional. Además, se puede disfrutar de su bello paisaje de variada naturaleza y distintos lagos.<br>Santa Maria Golf Club: diseñada por el multicampeón Jack Nicklaus; el campo se construyó con la más moderna tecnología, siguiendo las normas USGA para los greens. El diseño de la cancha permite que al jugador siga una ruta segura hacia el green, pero con un bunkering bien colocado.",
+      },
+      //gastronomia/list///////////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgGastronomyList1,
+        img_mob: imgGastronomyList1Mob,
+        hero: imgGastronomyHero1,
+        hero_mob: imgGastronomyHero1Mob,
+        title: "Typical dishes",
+        type: "gastronomia",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "platos-tipicos",
+        summary: "",
+        content: "",
+      },
+      // {
+      //   id: "2",
+      //   img: imgGastronomyList2,
+      //   img_mob: imgGastronomyList2Mob,
+      //   hero: imgGastronomyHero2,
+      //   hero_mob: imgGastronomyHero2Mob,
+      //   title: "Gastronomic events",
+      //   type: "gastronomia",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "gastronomia",
+      //   slug: "eventos-gastronomicos",
+      //   summary: "",
+      //   content: ""
+      // },
+      // {
+      //   id: "3",
+      //   img: imgGastronomyList3,
+      //   img_mob: imgGastronomyList3Mob,
+      //   hero: imgGastronomyHero3,
+      //   hero_mob: imgGastronomyHero3Mob,
+      //   title: "Restaurants",
+      //   type: "gastronomia",
+      //   slug_parent: "",
+      //   slug_child: "",
+      //   slug: "restaurant",
+      //   summary: "",
+      //   content: ""
+      // }
+    ],
+    //DETALLES//////////////////////////////////////////////////////////////////////////////////////////////////////////
+    detail: [
+      //cultura//detalle////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgCultureList1,
+        img_mob: imgCultureList1Mob,
+        hero: imgCultureHero1,
+        hero_mob: imgCultureHero1Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: imgCultureKnow1,
+        did_you_know_img_mobile: imgCultureKnow1Mob,
+        slug: "ruinas-de-panamá-la-vieja",
+        title: "Ruins of Panama La Vieja ",
+        content:
+          "Just 3 miles away from the capital, you will be able to visit the tower of the Cathedral, the King´s Bridge, the Matadero Bridge, a site museum, and ruins such as San Juan de Dios, San Francisco, la Merced, la Compañía de Jesús and Los Conventos de la Concepción, among others.   ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Ruins of Panama La Vieja ",
+        did_you_know_content:
+          " This is a World Heritage Site and it was the first city founded in the Pacific by the Spaniards. In August of 2019, Panama City turned 500 years old.  ",
+        distance_title: "Location: ",
+        distance_content:
+          "Panama city, down Cincuentenario road, southeast of the capital. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Ruins of Panama La Vieja",
+            img: imgCultureGallery1_1,
+            img_mob: imgCultureGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Ruins of Panama La Vieja",
+            img: imgCultureGallery1_2,
+            img_mob: imgCultureGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Ruins of Panama La Vieja",
+            img: imgCultureGallery1_3,
+            img_mob: imgCultureGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Ruins of Panama La Vieja",
+            img: imgCultureGallery1_4,
+            img_mob: imgCultureGallery1_4Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "5",
+            title: "Ruins of Panama La Vieja",
+            img: imgCultureGallery1_5,
+            img_mob: imgCultureGallery1_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgCultureList2,
+        img_mob: imgCultureList2Mob,
+        hero: imgCultureHero2,
+        hero_mob: imgCultureHero2Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "catedral-basílica-santa-maría-la-antigua",
+        did_you_know_img: imgCultureKnow2,
+        did_you_know_img_mobile: imgCultureKnow2Mob,
+        title: "Cathedral Basilica of St. Mary ",
+        content:
+          "Better known as the Metropolitan Cathedral of Panama or Catedral Basílica Santa María la Antigua.  Its altar was consecrated by Pope Francis and it is the city’s most important Catholic church. It can be visited every day from 7:00 a.m. to 7:00 p.m. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Cathedral Basilica of St. Mary ",
+        did_you_know_content:
+          " This is a World Heritage Site and a National Historical Monument. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Cathedral Basilica of St. Mary",
+            img: imgCultureGallery2_1,
+            img_mob: imgCultureGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Cathedral Basilica of St. Mary",
+            img: imgCultureGallery2_2,
+            img_mob: imgCultureGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Cathedral Basilica of St. Mary",
+            img: imgCultureGallery2_3,
+            img_mob: imgCultureGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Cathedral Basilica of St. Mary",
+            img: imgCultureGallery2_4,
+            img_mob: imgCultureGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Cathedral Basilica of St. Mary",
+            img: imgCultureGallery2_5,
+            img_mob: imgCultureGallery2_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgCultureList3,
+        img_mob: imgCultureList3Mob,
+        hero: imgCultureHero3,
+        hero_mob: imgCultureHero3Mob,
+        subtitle: null,
+        did_you_know_img: imgCultureKnow3,
+        did_you_know_img_mobile: imgCultureKnow3Mob,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "plaza-de-la-independencia",
+        title: "Independence Square",
+        content:
+          "It is one of the symbolic squares of Casco Antiguo and historical sites of Panama. The square is officially known as Plaza de la Independencia, but also as Plaza Mayor. The place is surrounded by colonial buildings, some of which are the Metropolitan Cathedral, the City Hall, and the Panama Canal Museum. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Independence Square ",
+        did_you_know_content:
+          "  It was the Main Square until the early 20th century and it is surrounded by some of the main buildings of Panama. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Independence Square",
+            img: imgCultureGallery3_1,
+            img_mob: imgCultureGallery3_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Independence Square",
+            img: imgCultureGallery3_2,
+            img_mob: imgCultureGallery3_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Independence Square",
+            img: imgCultureGallery3_3,
+            img_mob: imgCultureGallery3_3Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "4",
+            title: "Independence Square",
+            img: imgCultureGallery3_4,
+            img_mob: imgCultureGallery3_4Mob,
+            url: null
+          },
+          */
+          /* {
+            identifier: "5",
+            title: "Independence Square",
+            img: imgCultureGallery3_5,
+            img_mob: imgCultureGallery3_5Mob,
+            url: null
+          } */
+        ],
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgCultureList4,
+        img_mob: imgCultureList4Mob,
+        hero: imgCultureHero4,
+        hero_mob: imgCultureHero4Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: imgCultureKnow4,
+        did_you_know_img_mobile: imgCultureKnow4Mob,
+        slug: "iglesia-de-la-merced-de-la-ciudad-de-panamá",
+        title: "La Merced Church in Panama City",
+        content:
+          "It is a more than 400 years old temple and it has amazing architectural pieces as well as a rich history. There are two chapels: one is Virgen de la Merced and the other one is a mausoleum. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "La Merced Church in Panama City ",
+        did_you_know_content:
+          " The church and the city were attacked by pirates, and the temple’s facade was moved piece by piece to the new city in 1680. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "La Merced Church in Panama City",
+            img: imgCultureGallery4_1,
+            img_mob: imgCultureGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "La Merced Church in Panama City",
+            img: imgCultureGallery4_2,
+            img_mob: imgCultureGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "La Merced Church in Panama City",
+            img: imgCultureGallery4_3,
+            img_mob: imgCultureGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "La Merced Church in Panama City",
+            img: imgCultureGallery4_4,
+            img_mob: imgCultureGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "La Merced Church in Panama City",
+            img: imgCultureGallery4_5,
+            img_mob: imgCultureGallery4_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "5",
+        img: imgCultureList5,
+        img_mob: imgCultureList5Mob,
+        hero: imgCultureHero5,
+        hero_mob: imgCultureHero5Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "palacio-de-las-garzas",
+        title: "Las Garzas Palace",
+        content:
+          "Now housing the Presidential Office of the Republic of Panama, the building is characterized by its colonial architecture, as well as its historic value. From the palace, you will be able to enjoy a wonderful view of the Panama Bay. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Las Garzas Palace",
+        did_you_know_content:
+          "Before officially becoming the Presidential Palace in 1875, it was ran as a warehouse in 1821, a school for boys between 1872 and 1875, as a government office and the National Bank’s headquarters.  ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "6",
+        img: imgCultureList6,
+        img_mob: imgCultureList6Mob,
+        hero: imgCultureHero6,
+        hero_mob: imgCultureHero6Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "plaza-tomás-herrera",
+        title: "Tomas Herrera Square",
+        content:
+          "Visit this famous square in Casco Antiguo. Right in the center, it is possible to see a high pedestal made of granite that holds general Tomás Herrera's statue, a national hero who participated in South America's first movements for independence.",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Tomas Herrera Square",
+        did_you_know_content:
+          " In the mid 20th century, this open space was known as the Triumph Square, where bullfights and other parties were celebrated. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Tomas Herrera Square",
+            img: imgCultureGallery6_1,
+            img_mob: imgCultureGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Tomas Herrera Square",
+            img: imgCultureGallery6_2,
+            img_mob: imgCultureGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Tomas Herrera Square",
+            img: imgCultureGallery6_3,
+            img_mob: imgCultureGallery6_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "7",
+        img: imgCultureList7,
+        img_mob: imgCultureList7Mob,
+        hero: imgCultureHero7,
+        hero_mob: imgCultureHero7Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "teatro-nacional-de-panamá",
+        title: "Panama National Theatre",
+        content:
+          "Located in the heart of Casco Antiguo, it’s one of the most representative buildings of neoclassical architecture, with sculptures that honor some figures such as Wagner, Shakespeare, Moliere, Rossini, Cervantes and Lope de Vega. In the theater's roof, a fresco made by Panamanian artist Roberto Lewis can be seen. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Panama National Theatre",
+        did_you_know_content:
+          " In 1904, the theatre was built with an Italian operetta style, which was overseen by the Italian architect Genaro Ruggieri. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Panama National Theatre",
+            img: imgCultureGallery7_1,
+            img_mob: imgCultureGallery7_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Panama National Theatre",
+            img: imgCultureGallery7_2,
+            img_mob: imgCultureGallery7_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Panama National Theatre",
+            img: imgCultureGallery7_3,
+            img_mob: imgCultureGallery7_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Panama National Theatre",
+            img: imgCultureGallery7_4,
+            img_mob: imgCultureGallery7_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Panama National Theatre",
+            img: imgCultureGallery7_5,
+            img_mob: imgCultureGallery7_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "8",
+        img: imgCultureList8,
+        img_mob: imgCultureList8Mob,
+        hero: imgCultureHero8,
+        hero_mob: imgCultureHero8Mob,
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "plaza-bolívar",
+        title: "Bolivar Square",
+        content:
+          "Simon Bolivar’s monument, San Francisco de Asís church, the Republic’s Chancilliery, the National Theater, the San Felipe Neri Oratory, and the Bóvedas make this square an amazing place that you can't miss. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Bolivar Square",
+        did_you_know_content:
+          " Simon Bolivar’s monument was built to commemorate the 100th Anniversary of the Amphictyonic Congress of Panama. ",
+        distance_title: "Location: ",
+        distance_content: "Casco Antiguo in Panama City.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Bolivar Square",
+            img: imgCultureGallery8_1,
+            img_mob: imgCultureGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Bolivar Square",
+            img: imgCultureGallery8_2,
+            img_mob: imgCultureGallery8_2Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgCultureList9,
+        img_mob: imgCultureList9Mob,
+        hero: imgCultureHero9,
+        hero_mob: imgCultureHero9Mob,
+        title: "National Festivals",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "festivales-nacionales",
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "National Festivals",
+            img: imgCultureGallery9_1,
+            img_mob: imgCultureGallery9_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "National Festivals",
+            img: imgCultureGallery9_2,
+            img_mob: imgCultureGallery9_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "National Festivals",
+            img: imgCultureGallery9_3,
+            img_mob: imgCultureGallery9_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "National Festivals",
+            img: imgCultureGallery9_4,
+            img_mob: imgCultureGallery9_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "National Festivals",
+            img: imgCultureGallery9_5,
+            img_mob: imgCultureGallery9_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: '"Las Mil Polleras" Parade',
+            subtitle: null,
+            content:
+              "In January, around 15,000 women wear Panama´s national dress, la pollera. This folkloric event has been celebrated for 8 years now and promotes the country’s cultural, folkloric and artistic traditions.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Carnivals",
+            subtitle: null,
+            content:
+              'In February and March, Panama goes completely festive for four days and it is full of fun, music and its famous "culecos" with tanker trucks that spray water over visitors. The night also lights up thanks to parades, queen parades, and concerts of national and international artists.',
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "La Pollera National Festival",
+            subtitle: null,
+            content:
+              "This folkloric event is celebrated on July 22 in Las Tablas, province of Los Santos.  For this festival, people wear Panama's national dress (pollera).",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Mejorana National Festival",
+            subtitle: null,
+            content:
+              "This traditional folkloric event takes place in September, hosting the region’s most famous and authentic instruments. Hundreds of delegations across the country dress up to participate in the festival and all its contests.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "10",
+        img: imgCultureList10,
+        img_mob: imgCultureList10Mob,
+        hero: imgCultureHero10,
+        hero_mob: imgCultureHero10Mob,
+        title: "Museums",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "museos",
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Museums",
+            img: imgCultureGallery10_1,
+            img_mob: imgCultureGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Museums",
+            img: imgCultureGallery10_2,
+            img_mob: imgCultureGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Museums",
+            img: imgCultureGallery10_3,
+            img_mob: imgCultureGallery10_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Museums",
+            img: imgCultureGallery10_4,
+            img_mob: imgCultureGallery10_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Museums",
+            img: imgCultureGallery10_5,
+            img_mob: imgCultureGallery10_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Panama la Vieja museum",
+            subtitle:
+              "It tells the story of Panama in its prehispanic, colonial, and modern stages. Guided tours are available to learn about this archeological site. Along with visiting the museum, it is possible to explore the ruins and visit the Panama Viejo Bookstore.",
+            content:
+              "Open: The site is open to the public from Tuesdays to Sundays from 8:30 a.m. to 4:30 p.m.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Biomuseo",
+            subtitle:
+              "Did you know? It was designed by the famous architect Frank Gehry and it represents his first architectural workin Latin America. The museum exhibits Panama’s nature and biodiversity. One of a kind, in the region, it includes a public atrium, a space for seasonal exhibitions, a store, a cafeteria, and many outdoor exhibitions in a botanic park.",
+            content:
+              "Open: Tuesdays to Fridays from 10:00 a.m. to 4:00 p.m., and Saturdays to Sundays from 10:00 a.m. to 5:00 p.m.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Museum of Contemporary Art",
+            subtitle:
+              "Did you know? Known as the MAC, it is the only museum of contemporary art in Panama.",
+            content:
+              "In the museum there are over 600 artworks of multiple disciplines displayed: painting, sculpture, graphics, photography, and video. Besides, there are permanent, temporary, and national and international exhibitions. Visits are available from Friday to Sunday from 10 am to 5 pm.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Panama Interoceanic Canal Museum",
+            subtitle:
+              "Did you know? The museum is dedicated to preserve, investigate, and spread the Canal’s history.",
+            content:
+              "Known as the Panama Canal museum, it exhibits the history of the interoceanic waterway through the Isthmus of Panama and the construction of the Panama Canal. There, you will learn about the evolution of the Canal’s activities and discover a great seasonal exhibition about culture, architecture, history, and environmental conservation.<br>Open: Tuesdays to Sundays from 10:00 a.m. to 5:00 p.m. ",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Miraflores Museum",
+            subtitle:
+              "Did you know? It is an ideal place to watch the Panama Canal’s operation.",
+            content:
+              "The museum has four rooms that exhibit the Canal’s history, operational logistics, the importance of water in its operation, its role in the global trade, and its  expansion. There is also a modern movie theater, three observation terraces, two shops, and a restaurant with a panoramic view of the Panama Canal.<br>Open: Mondays to Sundays from 9:00 a.m. to 4:30 p.m.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Mola museum (MuMo)",
+            subtitle:
+              "Did you know? In the museum you will find around 200 “Molas”. Don Alberto Motta wanted them to be seen as works of art in Panama and the world.",
+            content:
+              "The museum invites you to five exhibitions to explore and learn about the Molas from an artistic perspective:<br>1. Techniques and evolution of the Molas.<br>2.  Cosmovision and protection.<br>3. Environment.<br>4.  The different layers in Molas.<br>5.  Narrative Molas or story Molas.<br>In the MuMo, you will learn about the Mola’s evolution, explore its aesthetic value, learn how they are made and their meaning, as well as creating your own Mola.<br><br>Open: Monday to Friday from 9:30 a.m. to 4:30 p.m., and Saturday and Sunday 10:00 a.m. to 5:00 p.m.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "11",
+        img: imgCultureList11,
+        img_mob: imgCultureList11Mob,
+        hero: imgCultureHero11,
+        hero_mob: imgCultureHero11Mob,
+        title: "Casco Antiguo",
+        subtitle: null,
+        type: "cultura",
+        type_name: "Culture",
+        slug_parent: "conoce-panama",
+        slug_child: "cultura",
+        slug: "casco-antiguo",
+        content:
+          "One of Panama’s most iconic places recognized as World Heritage by UNESCO in 1997. Discover its historic, colorful buildings and picturesque streets full of creativity and art in each corner.<br/><br/><strong>City Squares</strong>: Plaza de la Independencia, Plaza Bolívar, and Plaza de Francia.<br/><br/>\n" +
+          "<strong>Religious monuments and churches</strong>: San Jose church (Golden Altar of St. Joseph Church), San Francisco de Neri church, Merced church, Jesuitas Convent, and Santo Domingo Convent.<br/><br/>\n" +
+          "<strong>Official buildings</strong>: National Palace, Las Garzas Palace, Government and Justice Palace, National Theater, Bolivar Palace, Ministry of Culture, and Municipal Palace.<br/><br/>\n",
+        did_you_know_img: imgCultureKnow11,
+        did_you_know_img_mobile: imgCultureKnow11Mob,
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle:
+          "It’s a beautiful colonial site, recognized as a World Heritage Site by UNESCO in 1997",
+        did_you_know_content:
+          "Discover its colorful buildings and picturesque streets filled with creativity and art on each corner. Here you will find:",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_1,
+            img_mob: imgCultureGallery11_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_2,
+            img_mob: imgCultureGallery11_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_3,
+            img_mob: imgCultureGallery11_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_4,
+            img_mob: imgCultureGallery11_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Casco Antiguo",
+            img: imgCultureGallery11_5,
+            img_mob: imgCultureGallery11_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //playas//detalle/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "10",
+        img: imgBeachesList1,
+        img_mob: imgBeachesList1Mob,
+        hero: imgBeachesHero1,
+        hero_mob: imgBeachesHero1Mob,
+        title: "San Blas Islands",
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "archipiélago-san-blas",
+        content:
+          "San Blas is the ideal place to relax, but there are also many activities for you, some of which are:<br><strong>Exploring the San Blas Island:</strong> In less than a day, you can visit the most popular spots, including Perro Island, where a sunken ship is visible offshore, and Tortuga Island, where the calm waters are perfect for snorkeling. <br><strong>Cultural tour:</strong>  The San Blas Islands are part of the Guna Yala indigenous region, where the Guna people maintain their cultural identity and continue to practice traditions dating back hundreds of years. If you visit the more populated islands, you can see Guna dances, beautiful handmade shirts known as “molas,” and other common expressions of Guna culture. <br><strong>Boat tours:</strong> There are a number of different ways to explore the San Blas Islands, and you can even hop into a catamaran or a sailboat right out of the water.",
+        did_you_know_img: imgBeachesKnow1,
+        did_you_know_img_mobile: imgBeachesKnow1Mob,
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "San Blas Islands",
+        did_you_know_content:
+          "This paradise on Earth, consisting of about 363 islands, is a picture-perfect destination with crystal-clear waters and coral reefs placed in a setting of white sand and palm trees.",
+        distance_title: "How far is it from the city?: ",
+        distance_content:
+          "The archipelago is located at 92 miles from Panama City and you can get to the coast region by car, truck or renting a transportation service.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "San Blas Islands",
+            img: imgBeachesGallery1_1,
+            img_mob: imgBeachesGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "San Blas Islands",
+            img: imgBeachesGallery1_2,
+            img_mob: imgBeachesGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "San Blas Islands",
+            img: imgBeachesGallery1_3,
+            img_mob: imgBeachesGallery1_3Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "4",
+            title: "San Blas Islands",
+            img: imgBeachesGallery1_4,
+            img_mob: imgBeachesGallery1_4Mob,
+            url: null
+          },
+          {
+            identifier: "5",
+            title: "San Blas Islands",
+            img: imgBeachesGallery1_5,
+            img_mob: imgBeachesGallery1_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "11",
+        img: imgBeachesList2,
+        img_mob: imgBeachesList2Mob,
+        hero: imgBeachesHero2,
+        hero_mob: imgBeachesHero2Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow2,
+        did_you_know_img_mobile: imgBeachesKnow2Mob,
+        slug: "isla-bastimentos ",
+        title: "Bastimentos Island",
+        content:
+          "Located in Bocas del Toro's archipelago, you will be able to see wild species like howler monkeys, caimans and tiny red frogs around the place. The most recognized beaches are Red Frog, Playa Polo, Playa Wizard and Playa Larga. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Bastimentos Island",
+        did_you_know_content:
+          " Bastimentos island is home to the National Marine Park, the natural refugee of a great variety of sea birds and amphibians. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "The province of Bocas del Toro is located 382 miles away from Panama City and to visit it, people have to go by boat from Almirante to Colón Island to later continue from Colón Island to Bastimentos, a trip that takes no longer than 10 minutes. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Bastimentos Island",
+            img: imgBeachesGallery2_1,
+            img_mob: imgBeachesGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Bastimentos Island",
+            img: imgBeachesGallery2_2,
+            img_mob: imgBeachesGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Bastimentos Island",
+            img: imgBeachesGallery2_3,
+            img_mob: imgBeachesGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Bastimentos Island",
+            img: imgBeachesGallery2_4,
+            img_mob: imgBeachesGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Bastimentos Island",
+            img: imgBeachesGallery2_5,
+            img_mob: imgBeachesGallery2_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "12",
+        img: imgBeachesList3,
+        img_mob: imgBeachesList3Mob,
+        hero: imgBeachesHero3,
+        hero_mob: imgBeachesHero3Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "santa-catalina",
+        title: "Santa Catalina",
+        content:
+          "You will find lots of restaurants, lodges and bars in this region, located in the province of Veraguas. Moreover, Santa Catalina is a starter to later visit Coiba, a nature reserve, popular among divers and those who look forward to snorkeling. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Santa Catalina",
+        did_you_know_content:
+          " This is a special place for surfers due to its huge sea waves. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "the beach is 5 and a half hours from the center of Panama City, 227 miles away.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "13",
+        img: imgBeachesList4,
+        img_mob: imgBeachesList4Mob,
+        hero: imgBeachesHero4,
+        hero_mob: imgBeachesHero4Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow4,
+        did_you_know_img_mobile: imgBeachesKnow4Mob,
+        slug: "playa-venao",
+        title: "Venao beach",
+        content:
+          "Located in the east side of the province of Los Santos, this is one of the most important surfing sites in Central America, and it invites invites its visitors to tour the jungle, do water sports, and enjoy the nightlife. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Venao beach",
+        did_you_know_content:
+          " It’s the perfect place to relax with the hypnotic sound of ocean waves, but it is also ideal for surf lovers. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "the beach is 5 hours and 15 minutes from the center of Panama City, 223 miles away. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Venao beach",
+            img: imgBeachesGallery4_1,
+            img_mob: imgBeachesGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Venao beach",
+            img: imgBeachesGallery4_2,
+            img_mob: imgBeachesGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Venao beach",
+            img: imgBeachesGallery4_3,
+            img_mob: imgBeachesGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Venao beach",
+            img: imgBeachesGallery4_4,
+            img_mob: imgBeachesGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Venao beach",
+            img: imgBeachesGallery4_5,
+            img_mob: imgBeachesGallery4_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "14",
+        img: imgBeachesList5,
+        img_mob: imgBeachesList5Mob,
+        hero: imgBeachesHero5,
+        hero_mob: imgBeachesHero5Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-grande",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        title: "Isla Grande",
+        content:
+          "The picturesque Isla Grande is located just over 6 miles away from the legendary Portobelo, in the province of Colon.  In the southernmost region there is La Punta, the island's main beach where people can enjoy the Caribbean sun and sea. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Isla Grande",
+        did_you_know_content:
+          " The island is known for its white sand beaches and coral reefs, ideal to snorkel. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "it is located in the province of Colon, 2 and a half hours from Panama City, 73 miles away. ",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "15",
+        img: imgBeachesList6,
+        img_mob: imgBeachesList6Mob,
+        hero: imgBeachesHero6,
+        hero_mob: imgBeachesHero6Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow6,
+        did_you_know_img_mobile: imgBeachesKnow6Mob,
+        slug: "el-palmar",
+        title: "El Palmar",
+        content:
+          "It's easy to access to the beach, makes it possible for groups of friends to ride the waves or just get away from the urban environment. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "El Palmar",
+        did_you_know_content:
+          " It’s one of the most fascinating beaches to surf, ideal for begginers, because you can rent boards and take classes. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "It is located 1 hour and a half from Panama City, approximately 60 miles away. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "El Palmar",
+            img: imgBeachesGallery6_1,
+            img_mob: imgBeachesGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "El Palmar",
+            img: imgBeachesGallery6_2,
+            img_mob: imgBeachesGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "El Palmar",
+            img: imgBeachesGallery6_3,
+            img_mob: imgBeachesGallery6_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "El Palmar",
+            img: imgBeachesGallery6_4,
+            img_mob: imgBeachesGallery6_4Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "16",
+        img: imgBeachesList7,
+        img_mob: imgBeachesList7Mob,
+        hero: imgBeachesHero7,
+        hero_mob: imgBeachesHero7Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow7,
+        did_you_know_img_mobile: imgBeachesKnow7Mob,
+        slug: "archipiélago-las-perlas",
+        title: "Pearl Islands",
+        content:
+          "A touristic paradise in the Pacific Ocean characterized by its white sand beaches, crystalline turquoise waters, and a soft sea breeze. It is one of the main destinations for whale watching, and because of its closeness to the city, it is preferred by tourists every year. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Pearl Islands",
+        did_you_know_content:
+          "  Notable for its beautiful flora and diverse marine fauna, it is formed by 90 islands and around 130 cays. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "30 miles away from Panama City and you can get there by ferry. ",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Pearl Islands",
+            img: imgBeachesGallery7_1,
+            img_mob: imgBeachesGallery7_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Pearl Islands",
+            img: imgBeachesGallery7_2,
+            img_mob: imgBeachesGallery7_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Pearl Islands",
+            img: imgBeachesGallery7_3,
+            img_mob: imgBeachesGallery7_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Pearl Islands",
+            img: imgBeachesGallery7_4,
+            img_mob: imgBeachesGallery7_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Pearl Islands",
+            img: imgBeachesGallery7_5,
+            img_mob: imgBeachesGallery7_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "17",
+        img: imgBeachesList8,
+        img_mob: imgBeachesList8Mob,
+        hero: imgBeachesHero8,
+        hero_mob: imgBeachesHero8Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        did_you_know_img: imgBeachesKnow8,
+        did_you_know_img_mobile: imgBeachesKnow8Mob,
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        slug: "isla-contadora",
+        title: "Contadora Island",
+        content:
+          "It is a white-sanded beach, with green and turquoise waters, and its most popular beaches are Playa Larga, Playa Cacique, Playa Ejecutiva and Playa Galeón. The island is perfect for snorkeling, sailing, windsufing, scuba diving, and renting a paddleboard.  ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Contadora Island",
+        did_you_know_content:
+          " In colonial times, the biggest pearl in the world was found here: The Peregrina. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "It takes 1 hour and 45 minutes to arrive to Contadora Island from Panama City. You  can also take a ferry from Flamenco Island, Amador Causeway in Panama, or from JW Marriott dock using Ferry Las Perlas.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Contadora Island",
+            img: imgBeachesGallery8_1,
+            img_mob: imgBeachesGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Contadora Island",
+            img: imgBeachesGallery8_2,
+            img_mob: imgBeachesGallery8_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Contadora Island",
+            img: imgBeachesGallery8_3,
+            img_mob: imgBeachesGallery8_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Contadora Island",
+            img: imgBeachesGallery8_4,
+            img_mob: imgBeachesGallery8_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Contadora Island",
+            img: imgBeachesGallery8_5,
+            img_mob: imgBeachesGallery8_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "18",
+        img: imgBeachesList9,
+        img_mob: imgBeachesList9Mob,
+        hero: imgBeachesHero9,
+        hero_mob: imgBeachesHero9Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "punta-chame",
+        title: "Punta Chame",
+        content:
+          "Characterized by storm-force winds, this area (located in the Pacific), offers the perfect environment for kiteboarding and windsurfing. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Punta Chame",
+        did_you_know_content:
+          " It’s the perfect spot to kiteboard and windsurf.  ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "It is a two-hour car ride from Panama City, which makes it a great location for a weekend getaway.",
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "19",
+        img: imgBeachesList10,
+        img_mob: imgBeachesList10Mob,
+        hero: imgBeachesHero10,
+        hero_mob: imgBeachesHero10Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow10,
+        did_you_know_img_mobile: imgBeachesKnow10Mob,
+        slug: "taboga",
+        title: "Taboga",
+        content:
+          "Taboga is the perfect beach to spend the day and sunbathe. You can walk up to the Cruz, Vigia and San Pedro hills, that are around 984 feet high. Another highlight is its colorful houses and streets. Also, you can visit the small hotels, restaurants, artisan fairs, and walk around the surroundings of the island.  ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Taboga",
+        did_you_know_content:
+          "Its geology indicates that it is an island of volcanic origins. Nowadays, i is known as “Flowers Island” because of the gardens in its houses and the flora in the hills.  ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "it is approximately 45 minutes away from the city. You can get there by boat or ferry from Panama City.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Taboga",
+            img: imgBeachesGallery10_1,
+            img_mob: imgBeachesGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Taboga",
+            img: imgBeachesGallery10_2,
+            img_mob: imgBeachesGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Taboga",
+            img: imgBeachesGallery10_3,
+            img_mob: imgBeachesGallery10_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Taboga",
+            img: imgBeachesGallery10_4,
+            img_mob: imgBeachesGallery10_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Taboga",
+            img: imgBeachesGallery10_5,
+            img_mob: imgBeachesGallery10_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "20",
+        img: imgBeachesList11,
+        img_mob: imgBeachesList11Mob,
+        hero: imgBeachesHero11,
+        hero_mob: imgBeachesHero11Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "playa-tortuga",
+        title: "Playa Tortuga",
+        content:
+          "Located in the province of Bocas del Toro (west of the country), it’s a natural oasis of crystalline waters in the Caribbean Sea. It stands out by its rich sea life and coral reefs that make it a paradise for snorkeling and other water sports. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Playa Tortuga",
+        did_you_know_content:
+          " Playa Tortuga was awarded with a Blue Flag standard from the Foundation for Environmental Education. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "It takes approximately 9 and a half hours from Panama City. It is possible to reach Colón Island by driving to Almirante harbor and taking a water taxi or a ferry.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Playa Tortuga",
+            img: imgBeachesGallery11_1,
+            img_mob: imgBeachesGallery11_1Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      // {
+      //   id: "21",
+      //   img: imgBeachesList12,
+      //   img_mob: imgBeachesList12Mob,
+      //   hero: imgBeachesHero12,
+      //   hero_mob: imgBeachesHero12Mob,
+      //   subtitle: null,
+      //   type: "playas",
+      //   type_name: "Playas",
+      //   slug_parent: "conoce-panama",
+      //   slug_child: "playas",
+      //   did_you_know_img: null,
+      //   did_you_know_img_mobile: null,
+      //   slug: "bahía-piñas,-darién",
+      //   title: "Piñas Bay, Darién",
+      //   content:
+      //     "Piñas Bay has a resort complex (an absolute gem in the middle of mountains) a jungle, and a private beach. Moreover, Zane Grey reef is a unique attraction in its waters. ",
+      //   did_you_know_title: "Did you know?",
+      //   did_you_know_subtitle: "Piñas Bay, Darién",
+      //   did_you_know_content:
+      //     " It is one of the most visited places by sport fishing lovers, because the biggest sailfish in the world was found here. ",
+      //   distance_title: "Distance from the city: ",
+      //   distance_content:
+      //     "This wonderful place can only be accessed by ship. The best season to visit it is during summer (December to May). ",
+      //   gallery: null,
+      //   map: null,
+      // },
+      {
+        id: "22",
+        img: imgBeachesList13,
+        img_mob: imgBeachesList13Mob,
+        hero: imgBeachesHero13,
+        hero_mob: imgBeachesHero13Mob,
+        subtitle: null,
+        type: "playas",
+        type_name: "Playas",
+        slug_parent: "conoce-panama",
+        slug_child: "playas",
+        did_you_know_img: imgBeachesKnow13,
+        did_you_know_img_mobile: imgBeachesKnow13Mob,
+        slug: "isla-iguana",
+        title: "Isla Iguana",
+        content:
+          "You may imagine why the island is called this way: You will be able to watch a vast population of iguanas in their natural habitat. You will also find purple crabs and sea turtles in the fauna surrounding the island. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Isla Iguana",
+        did_you_know_content:
+          " Here you can find a vast population of iguanas in their natural habitat. ",
+        distance_title: "Distance from the city: ",
+        distance_content:
+          "to get to the island, the first stop is Pedasi (in the province of Los Santos), which is about 4 and a half hours from Panama City, 199 miles away.  Afterwards, it is necessary to take a 20-minute boat ride to the island from Arenal beach in Pedasi.",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_1,
+            img_mob: imgBeachesGallery13_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_2,
+            img_mob: imgBeachesGallery13_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Isla Iguana",
+            img: imgBeachesGallery13_3,
+            img_mob: imgBeachesGallery13_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //ciudad//detalle/////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "23",
+        img: imgCityList1,
+        img_mob: imgCityList1Mob,
+        hero: imgCityHero1,
+        hero_mob: imgCityHero1Mob,
+        title: "Panama Canal",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "City",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "canal-de-panamá",
+        content:
+          "Discover one of the wonders of the Modern World, the Panama Canal, which connects the Pacific Ocean and the Atlantic Ocean. You can see both the original Canal, at the Miraflores Visitor Center, and the expanded Canal, at the Agua Clara Visitor Center. The Panama Canal connects 144 maritime routes, reaching 1,700 ports in 160 countries.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Panama Canal",
+            img: imgCityGallery1_1,
+            img_mob: imgCityGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Panama Canal",
+            img: imgCityGallery1_2,
+            img_mob: imgCityGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Panama Canal",
+            img: imgCityGallery1_3,
+            img_mob: imgCityGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Panama Canal",
+            img: imgCityGallery1_4,
+            img_mob: imgCityGallery1_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Panama Canal",
+            img: imgCityGallery1_5,
+            img_mob: imgCityGallery1_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "24",
+        img: imgCityList2,
+        img_mob: imgCityList2Mob,
+        hero: imgCityHero2,
+        hero_mob: imgCityHero2Mob,
+        title: "Skylines in Panama",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "City",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "skylines",
+        content:
+          "Panama has become the “city of the skyscrapers” of Latin America. There is no doubt that its buildings represent a whole new urban landscape in the country, with amazing views that take anyone's breath away.<br>Some of the tallest skyscrapers of Panama City are: The Bahia Grand Panama, Vitri Tower, Ocean Two, Star Bay Tower, BICSA Financial Center, The Point, Arts Tower, Tower Financial Center, F&F Tower, Pearl Tower, and Rivage. Tower, Tower Financial Center, F&F Tower, Pearl Tower, and Rivage.<br>In the city there are many viewpoints where you will be able to enjoy the views that display Panama's contrast between the old and the modern. Some of these include:",
+        did_you_know_img: imgCityKnow2,
+        did_you_know_img_mobile: imgCityKnow2Mob,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Skylines",
+            img: imgCityGallery2_1,
+            img_mob: imgCityGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Skylines",
+            img: imgCityGallery2_2,
+            img_mob: imgCityGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Skylines",
+            img: imgCityGallery2_3,
+            img_mob: imgCityGallery2_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Skylines",
+            img: imgCityGallery2_4,
+            img_mob: imgCityGallery2_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Skylines",
+            img: imgCityGallery2_5,
+            img_mob: imgCityGallery2_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Mirador del Pacifico",
+            subtitle: null,
+            content:
+              "Right in front of Panama's Bay, people can get a direct view of the Pacific Ocean in the Cinta Costera (Costal Beltway). After a day full of activities in the city, there is nothing better than to sit in the viewpoint's structure and relax while watching the sea.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Cerro Cedro´s Viewpoint",
+            subtitle: null,
+            content:
+              "One of the best places to see in Panama City is the Natural Metropolitan Park, which contrasts with the city’s tall buildings and offers a natural escape through its paths and viewpoints. From Cerro Cedro it is possible to observe the park's green foliage, its fauna, the city, the Panama Canal and the national parks Soberanía and Camino de Cruces.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Paseo Esteban Huertas",
+            subtitle: null,
+            content:
+              "It offers amazing views from one of the most attractive spots in the city: Casco Antiguo. It is located in a zone which is full of craft vendors, restaurants, and coffee shops surrounded by the impressive colonial setting of the place.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Viewpoint of Panama Viejo´s Cathedral Tower",
+            subtitle: null,
+            content:
+              "One of the most beautiful and ancient places in Panama City.  Today, after its restoration and conditioning, it is known as the Historic Monumental Complex of Panama Viejo.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "25",
+        img: imgCityList3,
+        img_mob: imgCityList3Mob,
+        hero: imgCityHero3,
+        hero_mob: imgCityHero3Mob,
+        title: "Amador Causeway",
+        subtitle: "",
+        type: "ciudad",
+        type_name: "City",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "calzada-de-amador",
+        content:
+          "Panama City’s second-longest boardwalk, Amador Causeway, links the city to four islands in the Pacific Ocean.<br>Highlights:<ul><li>Outdoor activities: You can go for a stroll, go biking or skating, or go boating or fishing.</li><li>Go-karting is a popular activity on the island of Perico.</li><li>Visit neighboring islands: From Panama City, you can take a ferry to the islands of Taboga and Contadora, for a quick jaunt outside the city. Paddleboarding .</li><li>Visit the Biomuseo.</li><li>Visit the Punta Culebra Nature Center, operated by the Smithsonian Institution. Enjoy a nice meal on one of the many restaurants.</li></ul>",
+        did_you_know_img: imgCityKnow3,
+        did_you_know_img_mobile: imgCityKnow3Mob,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Amador Causeway",
+            img: imgCityGallery3_1,
+            img_mob: imgCityGallery3_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Amador Causeway",
+            img: imgCityGallery3_2,
+            img_mob: imgCityGallery3_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Amador Causeway",
+            img: imgCityGallery3_3,
+            img_mob: imgCityGallery3_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Amador Causeway",
+            img: imgCityGallery3_4,
+            img_mob: imgCityGallery3_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Amador Causeway",
+            img: imgCityGallery3_5,
+            img_mob: imgCityGallery3_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "26",
+        img: imgCityList4,
+        img_mob: imgCityList4Mob,
+        hero: imgCityHero4,
+        hero_mob: imgCityHero4Mob,
+        title: "Shopping",
+        subtitle: null,
+        type: "ciudad",
+        type_name: "City",
+        slug_parent: "conoce-panama",
+        slug_child: "ciudad",
+        slug: "shopping",
+        content:
+          "Panama is well known for its affordable prices. Discover its great shopping centers where you will find famous brands, technology, clothing, footwear, fashion accessories and more.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Shopping",
+            img: imgCityGallery4_1,
+            img_mob: imgCityGallery4_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Shopping",
+            img: imgCityGallery4_2,
+            img_mob: imgCityGallery4_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Shopping",
+            img: imgCityGallery4_3,
+            img_mob: imgCityGallery4_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Shopping",
+            img: imgCityGallery4_4,
+            img_mob: imgCityGallery4_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Shopping",
+            img: imgCityGallery4_5,
+            img_mob: imgCityGallery4_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: null,
+            subtitle: "Metromall",
+            content:
+              "Find more than 300 well-known brands, restaurants and recreational zones. Because its proximity to Tocumen International Airport, this mall is perfect to go shopping when you arrive to Panama<br><br><h5>PANAMA SHOPPING CARD</h5><a href='https://www.metromallonline.com/panama/panama-shopping-card'>https://www.metromallonline.com/panama/panama-shopping-card</a> ",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: null,
+            subtitle: "Albrook Mall",
+            content:
+              "It is the biggest and most varied mall in the country, which houses over 700 stores and 100 restaurants. Some of the alternatives to entertain the children include video games rooms and mechanical games. One interesting characteristic of this mall is the whimsical animal sculptures that resemble a safari.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: null,
+            subtitle: "Multiplaza Pacific Mall",
+            content:
+              "In the heart of the city, you can find luxury brands and more than 500 stores in a modern, and exclusive space. You will be able to find department stores, supermarkets, pharmacies, banks, restaurants and a modern movie theater.<br><br><h5>PANAMA SHOPPING CARD</h5><a href='https://www.multiplaza.com/panama/panama-shopping-card/ '>https://www.multiplaza.com/panama/panama-shopping-card/ </a> ",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: null,
+            subtitle: "Town Center",
+            content:
+              "Located approximately 15 minutes away from the city you’ll find a complete, exclusive mall, designed for a family experience.  It has department and fashion stores, children's games, restaurants, a movie theater, bookstores and much more.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: null,
+            subtitle: "Altaplaza Mall",
+            content:
+              "This mall offers an intimate space of more than 165 stores and 40 restaurants so you can enjoy a wide variety of shops and delicacies.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: null,
+            subtitle: "Atrio Mall",
+            content:
+              "It offers everything you need to get, the best shopping and entertainment experience in a comfortable and exclusive place.",
+            gallery: null,
+          },
+          {
+            id: "7",
+            title: null,
+            subtitle: "West Land Mall",
+            content:
+              "With more than 160 stores, it is one of Panama’s outlet malls where you can find everything at great prices: home appliances, technology items, electronic devices, fragrances, footwear, accessories, clothes and much more.",
+            gallery: null,
+          },
+          {
+            id: "8",
+            title: null,
+            subtitle: "Megapolis Outlet",
+            content:
+              "A place designed for the whole family with more than 3000 indoor parking spots, four levels of stores with a wide variety of products, supermarkets, and, of course, many restaurants. ",
+            gallery: null,
+          },
+          {
+            id: "9",
+            title: "Handcraft Markets",
+            subtitle: null,
+            content:
+              "Panamanian artisans represent an important part of the country’s national identity. Their attractive and unique crafts are appreciated by locals and tourists.",
+            gallery: null,
+          },
+          {
+            id: "10",
+            title: null,
+            subtitle: "Balboa´s Handcraft Market",
+            content:
+              "Among the services offered, there is an area with restaurants, more than 40 exhibition booths, parking lots and 24-hour surveillance. Currently, this craft center consists of many booths where people can appreciate a wide variety of handicrafts of many regions of the country, such as pans, molas, beadings, rag dolls and much more.",
+            gallery: null,
+          },
+          {
+            id: "11",
+            title: null,
+            subtitle:
+              "Mercado Nacional de Artesanías (The National Handcraft Market)",
+            content:
+              "This handcraft market is recognized by UNESCO as a historic heritage, which offers people a wide variety of handcrafts from different provinces of the country. It is near the Panama Viejo visitors' center and it is a must for those who visit the site. ",
+            gallery: null,
+          },
+          {
+            id: "12",
+            title: null,
+            subtitle: "Las Bovedas of Casco Antiguo",
+            content:
+              "Enjoy a refreshing raspa’o, (Panama’s popular drink) while you tour around the historical buildings. It is surrounded by excellent restaurants with varied menus, together with bars and coffee shops to hang out with friends. There is also a handcrafts market where you can buy a nice Panamanian souvenir to take home",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      //vida-nocturna//detale///////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNightList1,
+        img_mob: imgNightList1Mob,
+        hero: imgNightHero1,
+        hero_mob: imgNightHero1Mob,
+        title: "Casco Antiguo",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Nightlife",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "casco-antiguo-vida-nocturna",
+        content:
+          "Surrounded by a historic environment, this spot offers various night clubs, restaurants and theatres, which makes it the most popular nightlife spot in the city. Visitors can’t miss out the opportunity to visit at least one rooftop to enjoy amazing views of the old and new city. <br>Some well-known places are:<br><ul><li>Tantalo Rooftop Bar: with excellent views of the horizon and the Panama Bay.</li><li>Las Bóvedas: located inside a 300-year-old dungeon, Las Bóvedas offers French cuisine and art galleries. This restaurant generally has live jazz music on Fridays and Saturday evenings.</li><li>Casablanca: an urban bar/restaurant with international cuisine, a great wine selection and occasional live music .</li><li>We also recommend visiting the following bars: Primitivo, Strangers Club, Salvaje, Santana, Rooftop Selina, Bao Dai, among others.</li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      /*
+      {
+        id: "2",
+        img: imgNightList2,
+        img_mob: imgNightList2Mob,
+        hero: imgNightHero2,
+        hero_mob: imgNightHero2Mob,
+        title: '360 Rooftop',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '360-rooftop',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgNightList3,
+        img_mob: imgNightList3Mob,
+        hero: imgNightHero3,
+        hero_mob: imgNightHero3Mob,
+        title: 'Casa casco',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-casco',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgNightList4,
+        img_mob: imgNightList4Mob,
+        hero: imgNightHero4,
+        hero_mob: imgNightHero4Mob,
+        title: 'Tantalo',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'tantalo',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "5",
+        img: imgNightList5,
+        img_mob: imgNightList5Mob,
+        hero: imgNightHero5,
+        hero_mob: imgNightHero5Mob,
+        title: 'Casa Blanca',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'casa-blanca',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "6",
+        img: imgNightList6,
+        img_mob: imgNightList6Mob,
+        hero: imgNightHero6,
+        hero_mob: imgNightHero6Mob,
+        title: 'Madrigal',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: 'madrigal',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "7",
+        img: imgNightList7,
+        img_mob: imgNightList7Mob,
+        hero: imgNightHero7,
+        hero_mob: imgNightHero7Mob,
+        title: 'Calzada de amador',
+        subtitle: null,
+        type: 'vida-nocturna',
+        type_name: 'Vida nocturna',
+        slug_parent: "conoce-panama",
+        slug_child: 'vida-nocturna',
+        slug: '_calzada-de-amador',
+        content: null,
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "8",
+        img: imgNightList8,
+        img_mob: imgNightList8Mob,
+        hero: imgNightHero8,
+        hero_mob: imgNightHero8Mob,
+        title: "Uruguay Street",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Vida nocturna",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "calle-uruguay",
+        content:
+          "Only steps away from the Cinta Costera and the Banking Center, this is the perfect place to have fun. Here you will find bars and restaurants where the main requirement for admittance is being really energetic.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Calle Uruguay",
+            img: imgNightGallery8_1,
+            img_mob: imgNightGallery8_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Calle Uruguay",
+            img: imgNightGallery8_2,
+            img_mob: imgNightGallery8_2Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgNightList9,
+        img_mob: imgNightList9Mob,
+        hero: imgNightHero9,
+        hero_mob: imgNightHero9Mob,
+        title: "Commercial Area",
+        subtitle: null,
+        type: "vida-nocturna",
+        type_name: "Nightlife",
+        slug_parent: "conoce-panama",
+        slug_child: "vida-nocturna",
+        slug: "zona-comercial",
+        content:
+          "Located in the city´s downtown, this commercial area has much to offer to tourists. Although visitors can’t walk easily from one bar/restaurant to another like in Casco Antiguo, you’ll be delighted by the modern city vibes. <br>Some well-known places are:<br><ul><li>The Hard Rock Hotel: The Hard Rock Roof Lounge has an amazing 360-degree view to the city and the ocean, which is ideal during sunset.</li><li>Steinbock: it is a German pub with a great selection of both German and European beers, as well as a variety of German culinary delights.</li><li>El Apartamento & El Sotano: one of the most hipster spots in town. El Apartamento has a rustic and artistic interior, and some weekly events such as live music and amateur comedy shows are performed here.</li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: " ",
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Zona Comercial",
+            img: imgNightGallery9_1,
+            img_mob: imgNightGallery9_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Zona Comercial",
+            img: imgNightGallery9_2,
+            img_mob: imgNightGallery9_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Zona Comercial",
+            img: imgNightGallery9_3,
+            img_mob: imgNightGallery9_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Zona Comercial",
+            img: imgNightGallery9_4,
+            img_mob: imgNightGallery9_4Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //naturaleza//detalle/////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgNatureList1,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero1,
+        hero_mob: imgNatureHero1Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        did_you_know_img: imgNatureKnow1,
+        did_you_know_img_mobile: imgNatureKnow1Mob,
+        slug: "cerro-ancón",
+        title: "Cerro Ancon ",
+        content:
+          "Discover a tropical forest in the middle of an urban area and find a wide variety of flora and fauna, such as toucans, armadillos, sloths, among others. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Cerro Ancon ",
+        did_you_know_content:
+          " Honored under the Panamanian flag, it is the highest natural elevation in the city. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Cerro Ancon",
+            img: imgNatureGallery1_1,
+            img_mob: imgNatureGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Cerro Ancon",
+            img: imgNatureGallery1_2,
+            img_mob: imgNatureGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Cerro Ancon",
+            img: imgNatureGallery1_3,
+            img_mob: imgNatureGallery1_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgNatureList2,
+        img_mob: imgNatureList2Mob,
+        hero: imgNatureHero2,
+        hero_mob: imgNatureHero2Mob,
+        title: "Panama Canal Zone",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "antigua-zona-canalera",
+        content:
+          "With a great abundance of natural beauty, and located close to Panama City, here you will find some of the most important natural parks and research centers: <br><br><u>Soberanía National Park:</u> a perfect spot to do trekking, ideal for bike riding and birdwatching. <br><br><u>Barro Colorado:</u> An island of 5.79 square miles dominated by biodiversity and managed by the Smithsonian Institute of Tropical Investigations. Enjoy a day of hiking and tours guided by a science expert to learn about all the details of the island. <br><br><u>Chagres River:</u> it runs through a huge forest near Gamboa. Many indigenous communities such as Embera and Wounaan live along its coast. Many of these communities are visited by tourists, in which they exhibit their colorful artworks, show their traditional dances and music. <br><br><u>Gamboa:</u> here you can enjoy many outdoor activities, such as birdwatching, ziplining, canoes rental and more. One its main attractions is the cable car, which makes it possible to appreciate the tropical forest and take boat expeditions in the Gatún Lake.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Panama Canal Zone",
+            img: imgNatureGallery2_1,
+            img_mob: imgNatureGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Panama Canal Zone",
+            img: imgNatureGallery2_2,
+            img_mob: imgNatureGallery2_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Panama Canal Zone",
+            img: imgNatureGallery2_3,
+            img_mob: imgNatureGallery2_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "3",
+        img: imgNatureList3,
+        img_mob: imgNatureList3Mob,
+        hero: imgNatureHero3,
+        hero_mob: imgNatureHero3Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        slug: "camino-de-cruces",
+        title: "Camino de Cruces National Park",
+        content:
+          "20 minutes away from the city, this historic park has pathways that take to the woods, where you’ll be able to appreciate nature's wealth, and beautiful panoramic views, as well as impressive flora and fauna.",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Camino de Cruces National Park",
+        did_you_know_content:
+          " This national park of more than 4000 acres promotes forest conservation and environmental education. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Camino de Cruces National Park",
+            img: imgNatureGallery3_1,
+            img_mob: imgNatureGallery3_1Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "4",
+        img: imgNatureList4,
+        img_mob: imgNatureList4Mob,
+        hero: imgNatureHero4,
+        hero_mob: imgNatureHero4Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-nacional-metropolitano",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        title: "National Metropolitan Park ",
+        content:
+          "The park is located 10 minutes away from Panama City. Within the park, you will find to marked hiking trails surrounded by orchids and cedar trees, as well as come across with over 200 different species of mammals, reptiles, and birds (some of which have been first discovered in this park). There are also one-hour long guided hikes available.",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "National Metropolitan Park ",
+        did_you_know_content:
+          "The National Metropolitan Park takes a major role in an ecological corridor for the functioning of the Panama Canal basin.  Curiously, the Smithsonian Institute carries out scientific investigations regarding the forest's ecology. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      /*
+      {
+        id: "5",
+        img: imgNatureList5,
+        img_mob: imgNatureList5Mob,
+        hero: imgNatureHero5,
+        hero_mob: imgNatureHero5Mob,
+        title: 'Provincia de Chiriquí',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Nature',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-chiriquí',
+        content: 'Disfruta de la biodiversidad marina y silvestre y de los magníficos paisajes. El sendero Los Quetzales atraviesa los bosques nubosos y conecta la comunidad agrícola de Cerro Punta con Boquete, una zona para realizar actividades al aire libre.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: 'Provincia de Chiriquí',
+        did_you_know_content: ' En el norte de la provincia se encuentra el Parque Nacional Volcán Barú, el punto más alto de Panamá.',
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Chiriqui",
+            img: imgNatureGallery5_1,
+            img_mob: imgNatureGallery5_1Mob,
+            url: null
+          },
+          {
+            identifier: "2",
+            title: "Chiriqui",
+            img: imgNatureGallery5_2,
+            img_mob: imgNatureGallery5_2Mob,
+            url: null
+          }
+        ],
+        map: null,
+      },
+      */
+      {
+        id: "6",
+        img: imgNatureList6,
+        img_mob: imgNatureList6Mob,
+        hero: imgNatureHero6,
+        hero_mob: imgNatureHero6Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "boquete",
+        did_you_know_img: imgNatureKnow6,
+        did_you_know_img_mobile: imgNatureKnow6Mob,
+        title: "Boquete ",
+        content:
+          "Here you can dive into adventure and carry out activities such as trekking, ziplining, rafting, horseback riding, and birdwatching. It is also a place that stands out for its coffee crops; there are many well-known estates that produce quality grains for exportation, such as the famous Geisha coffee, known as one of the best worldwide.<br>During January, this place is home for the annual celebration of the International Fair of Flowers and Coffee, which is known in the district as Feria de Boquete.",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Boquete ",
+        did_you_know_content: " This is Panama’s main mountain city. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Boquete",
+            img: imgNatureGallery6_1,
+            img_mob: imgNatureGallery6_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Boquete",
+            img: imgNatureGallery6_2,
+            img_mob: imgNatureGallery6_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Boquete",
+            img: imgNatureGallery6_3,
+            img_mob: imgNatureGallery6_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Boquete",
+            img: imgNatureGallery6_4,
+            img_mob: imgNatureGallery6_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Boquete",
+            img: imgNatureGallery6_5,
+            img_mob: imgNatureGallery6_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      /*
+      {
+        id: "7",
+        img: imgNatureList7,
+        img_mob: imgNatureList7Mob,
+        hero: imgNatureHero7,
+        hero_mob: imgNatureHero7Mob,
+        title: 'Volcán Barú',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Nature',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'volcán-barú',
+        content: 'Para escalar a la cima del volcán se puede optar por el lado de Boquete, que es más sencillo, o por el lado de Volcán, recomendado para los senderistas con más experiencia. Uno de sus grandes atractivos es el avistamiento de aves: se puede ver uno de los pájaros más exóticos de Centroamérica, el quetzal.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: 'Volcán Barú',
+        did_you_know_content: ' Es la mayor elevación del país y, desde su cima, se pueden admirar ambos océanos y la región oriental de Panamá.',
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "8",
+        img: imgNatureList8,
+        img_mob: imgNatureList8Mob,
+        hero: imgNatureHero8,
+        hero_mob: imgNatureHero8Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "parque-internacional-la-amistad",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        title: "La Amistad International Park",
+        content:
+          "You can visit trails such as the Gigantes del Bosque, the Valle del Silencio and Sabanas Esperanza. You will also be able to contemplate a wide variety of giant trees such as the white oak, birds such as toucans and bare-throated bellbirds, and some other species such as hummingbirds, finches, quetzales and white-faced capuchins. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "La Amistad International Park",
+        did_you_know_content:
+          " It is considered the most biodiverse protected wild area of the country due to its important climate changes and varied soils. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "9",
+        img: imgNatureList9,
+        img_mob: imgNatureList9Mob,
+        hero: imgNatureHero9,
+        hero_mob: imgNatureHero9Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "volcán-y-cerro-punta",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        title: "Volcán and Cerro Punta",
+        content:
+          "Cerro Punta is a picturesque and mountain town, where the landscape is enhanced by the mosaic-like appearance of the cultivated land on the mountainside. While you’re here, be sure to enjoy a cup of hot chocolate and a dish of strawberries with cream. The town is beautiful, with colorful flowers and protected areas that make it one of the best places in Central America to see the quetzal. It is also home of important horse breeds and agricultural farms. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Volcán and Cerro Punta",
+        did_you_know_content:
+          " From Volcan it is possible to get to some of the best mountain destinations of Chiriquí province, go for a walk throug Rio Sereno in the Costa Rican border, visit hot springs or lodge in some of the best hotels of Cerro Punta. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_1,
+            img_mob: imgNatureGallery09_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_2,
+            img_mob: imgNatureGallery09_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_3,
+            img_mob: imgNatureGallery09_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_4,
+            img_mob: imgNatureGallery09_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Volcán y Cerro Punta",
+            img: imgNatureGallery09_5,
+            img_mob: imgNatureGallery09_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "10",
+        img: imgNatureList10,
+        img_mob: imgNatureList10Mob,
+        hero: imgNatureHero10,
+        hero_mob: imgNatureHero10Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "cosechas-de-café",
+        did_you_know_img: imgNatureKnow10,
+        did_you_know_img_mobile: imgNatureKnow10Mob,
+        title: "Coffee crops",
+        content:
+          "Boquete and Volcan are 4,265 feet above sea level, which is the perfect altitude for coffee production.  ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Coffee crops",
+        did_you_know_content:
+          " The “Coffee Route” is and agroturistic and ecological project. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Coffee crops",
+            img: imgNatureGallery10_1,
+            img_mob: imgNatureGallery10_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Coffee crops",
+            img: imgNatureGallery10_2,
+            img_mob: imgNatureGallery10_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Coffee crops",
+            img: imgNatureGallery10_3,
+            img_mob: imgNatureGallery10_3Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      /*
+      {
+        id: "11",
+        img: imgNatureList11,
+        img_mob: imgNatureList11Mob,
+        hero: imgNatureHero11,
+        hero_mob: imgNatureHero11Mob,
+        title: 'Provincia de Coclé',
+        subtitle: null,
+        type: 'naturaleza',
+        type_name: 'Nature',
+        slug_parent: "conoce-panama",
+        slug_child: 'naturaleza',
+        slug: 'provincia-de-coclé',
+        content: 'Coclé reúne todas las actividades del turismo ecológico. Es conocida por sus piedras pintadas, el amanecer en las montañas, su India Dormida, el canto de las aves y sus ríos y playas.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      */
+      {
+        id: "12",
+        img: imgNatureList12,
+        img_mob: imgNatureList1Mob,
+        hero: imgNatureHero12,
+        hero_mob: imgNatureHero12Mob,
+        title: "Anton Valley",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "el-valle-de-antón",
+        content:
+          "The area boasts pleasant weather and stunning landscapes which offer glimpses of the local wildlife. For a sweeping view unmatched by any other, you’ll want to hike to the top of the India Dormida´s short trek. The peak—whose name means “Sleeping Indian,” since its shape was thought to resemble a sleeping figure—is one of Valle de Anton’s greatest draws. <br><br>In the Valley you can find: <br><ul><li>The butterfly garden: Home to more than 250 butterflies, the garden has three rooms; one room of butterflies, one of caterpillars and chrysalis, and another one in which an explanatory video is displayed.</li><li>Zip line: In this hour and a half tour, you will move between platforms (100 feet in the air) and enjoy the spectacular scenes of the cloud forests, waterfalls, and the wild creatures that live there.</li><li>Chorro Macho cascade: with 233 feet high, this waterfall is the biggest in the valley and it’s only a 30-minute walk from the center of the town.</li><li>Orchids center: this is an organization dedicated to cultivating and preserving endangered local and regional orchids.  The center, which currently has more than 140 different types of orchids, is open to the public every day of the week.</li><li>Artisan and vegetable market: here you can get fruits, ornamental plants, flowers (such as orchids) and local handcrafts. the market is a wonderful place to buy fruits, ornamental plants and flowers, and goods made by the local craftsmen.</li><li>Valle Museum: in this museum you can find a collection of pre-Columbian art, religious art, ethnographies of the XIX and XX century, handcrafts and geological paintings.</li><li>Chorros de Ola: The majestic Ola waterfalls are a hidden paradise. Their immense, crystal-clear cascades are some of the most iconic waterfalls in Panama, and the waters’ ever-changing colors are mesmerizing to see.</li></ul>",
+        did_you_know_img: imgNatureKnow12,
+        did_you_know_img_mobile: imgNatureKnow12Mob,
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Anton Valley",
+        did_you_know_content:
+          " This a beautiful town nestled in a volcanic crater in the mountain highlands.",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Anton Valley",
+            img: imgNatureGallery12_1,
+            img_mob: imgNatureGallery12_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Anton Valley",
+            img: imgNatureGallery12_2,
+            img_mob: imgNatureGallery12_2Mob,
+            url: null,
+          },
+          /*
+          {
+            identifier: "3",
+            title: "Anton Valley",
+            img: imgNatureGallery12_3,
+            img_mob: imgNatureGallery12_3Mob,
+            url: null
+          },
+          {
+            identifier: "4",
+            title: "Anton Valley",
+            img: imgNatureGallery12_4,
+            img_mob: imgNatureGallery12_4Mob,
+            url: null
+          },
+          {
+            identifier: "5",
+            title: "Anton Valley",
+            img: imgNatureGallery12_5,
+            img_mob: imgNatureGallery12_5Mob,
+            url: null
+          }
+          */
+        ],
+        map: null,
+      },
+      {
+        id: "13",
+        img: imgNatureList13,
+        img_mob: imgNatureList13Mob,
+        hero: imgNatureHero13,
+        hero_mob: imgNatureHero13Mob,
+        title: "Province of Colon",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-colón",
+        content:
+          '<strong>Portobelo National park:</strong> it is possible to explore colonial fortifications through the trials in the woods or go diving in the Caribbean Sea. This park has hotels and restaurants, and you can rent scuba equipment and jet skis. <br><br><strong>Chagres National park:</strong> it protects the hydrographic basin of the Panama Canal. 80 % of the water intended for the Canal\'s functioning and human consumption in Panama and Colon cities comes from this area, where you will find endemic species such as the kuna salamander and the "carirrayado" woodpecker, tapirs, harpy eagles, jaguars and other  four Panamanian felines. Rivers that flow into the Alajuela lake represent a natural habitat for otters, crocodiles and alligators.',
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "14",
+        img: imgNatureList14,
+        img_mob: imgNatureList14Mob,
+        hero: imgNatureHero14,
+        hero_mob: imgNatureHero14Mob,
+        title: "Sarigua National Park",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "desierto-de-sarigua",
+        content:
+          "This park’s vegetation is divided in four categories: legumes, arboreal, cacti, and portulacaceae. Besides its vegetation, one of its main points of interest is the archeological findings.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: null,
+        map: null,
+      },
+      {
+        id: "15",
+        img: imgNatureList15,
+        img_mob: imgNatureList15Mob,
+        hero: imgNatureHero15,
+        hero_mob: imgNatureHero15Mob,
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "provincia-de-darién",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        title: "Province of Darien",
+        content:
+          "It is the habitat of over 300 bird species, such as the harpy eagle, four species of macaws, and many endemic species, which turns this territory into some of the favorite ones by birdwatchers. This province has cultural richness and, it is also the land of Embera-Wounaan and Kuna indigenous people. ",
+        did_you_know_title: "Did you know?",
+        did_you_know_subtitle: "Province of Darien",
+        did_you_know_content:
+          " The Darien National park was declared World Biosphere Reserve by UNESCO. It protects an area of more than 1.2 million acres of tropical forests along the border with Colombia. ",
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Province of Darien",
+            img: imgNatureGallery15_1,
+            img_mob: imgNatureGallery15_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Province of Darien",
+            img: imgNatureGallery15_2,
+            img_mob: imgNatureGallery15_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Province of Darien",
+            img: imgNatureGallery15_3,
+            img_mob: imgNatureGallery15_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Province of Darien",
+            img: imgNatureGallery16_4,
+            img_mob: imgNatureGallery16_4Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "16",
+        img: imgNatureList16,
+        img_mob: imgNatureList16Mob,
+        hero: imgNatureHero16,
+        hero_mob: imgNatureHero16Mob,
+        title: "Province of West Panama",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "los-cajones-de-chame",
+        content:
+          "Cajones de Chame: it is a set of mazes made by rocks created as a product of Chame River's erosion, which makes it a perfect place to carry out adventurous activities.",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Province of West Panama",
+            img: imgNatureGallery16_1,
+            img_mob: imgNatureGallery16_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Province of West Panama",
+            img: imgNatureGallery16_2,
+            img_mob: imgNatureGallery16_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Province of West Panama",
+            img: imgNatureGallery16_3,
+            img_mob: imgNatureGallery16_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Province of West Panama",
+            img: imgNatureGallery16_4,
+            img_mob: imgNatureGallery16_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Province of West Panama",
+            img: imgNatureGallery16_5,
+            img_mob: imgNatureGallery16_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "17",
+        img: imgNatureList17,
+        img_mob: imgNatureList17Mob,
+        hero: imgNatureHero17,
+        hero_mob: imgNatureHero17Mob,
+        title: "Golf courses in Panama City",
+        subtitle: null,
+        type: "naturaleza",
+        type_name: "Nature",
+        slug_parent: "conoce-panama",
+        slug_child: "naturaleza",
+        slug: "canchas-de-golf",
+        content:
+          "<strong>In the City:</strong> <br><ul><li>Tucan Country Club & Resort: this beautiful golf course is surrounded by tropical forests and offers panoramic views to the Panama Canal and the city. </li><li>Summit Golf & Resort: this professional course, designed by Jeffrey Myers is a paradise surrounded by hills, plains and wildlife, that offers luxurious fairways and true greens.</li><li>Panama Golf Club: it was designed to be used in professional events, since it complies with international-level requirements. Besides, it is possible to enjoy its beautiful landscape full nature and different lakes. </li><li>Santa Maria Golf Club: was designed by multiple times champion Jack Nicklaus, and built with the newest technology, under USGA rules for greens. The court's design makes it possible for the players to follow a safe route to the green, but with a well-placed bunkering. </li></ul><br><strong>In the countryside:</strong><br><ul><li>Bijao Golf Club: this course, with its versatile topography and exceptional design, was a project commanded by Ron Garl. </li><li>Coronado Golf and Beach Resort: it is a natural wonder, designed by Tom Fazio, where you can play 18 holes in the exotic flora and fauna in front of the Pacific beaches. </li><li>Buenaventura Golf Course: designed by the multi-champion Jack Nicklaus, the course has 18 carefully planned and executed holes to offer a world class experience. It covers around 7832 yards and this par 72 is one of Panama’s most challenging courses.</li></ul>",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: null,
+        distance_title: null,
+        distance_content: null,
+        gallery: [
+          {
+            identifier: "1",
+            title: "Golf courses in Panama City",
+            img: imgNatureGallery17_1,
+            img_mob: imgNatureGallery17_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Golf courses in Panama City",
+            img: imgNatureGallery17_2,
+            img_mob: imgNatureGallery17_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Golf courses in Panama City",
+            img: imgNatureGallery17_3,
+            img_mob: imgNatureGallery17_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Golf courses in Panama City",
+            img: imgNatureGallery17_4,
+            img_mob: imgNatureGallery17_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Golf courses in Panama City",
+            img: imgNatureGallery17_5,
+            img_mob: imgNatureGallery17_5Mob,
+            url: null,
+          },
+        ],
+        map: null,
+      },
+      //gastronomia/Detalle//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+      {
+        id: "1",
+        img: imgGastronomyList1,
+        img_mob: imgGastronomyList1Mob,
+        hero: imgGastronomyHero1,
+        hero_mob: imgGastronomyHero1Mob,
+        title: "Typical dishes",
+        subtitle: null,
+        type: "gastronomia",
+        type_name: "Gastronomy",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "platos-tipicos",
+        content:
+          "We recommend the following typical Panamanian dishes that you must try during your visit:",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: "",
+        distance_title: null,
+        distance_content: "",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_1,
+            img_mob: imgGastronomyGallery1_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_2,
+            img_mob: imgGastronomyGallery1_2Mob,
+            url: null,
+          },
+          {
+            identifier: "3",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_3,
+            img_mob: imgGastronomyGallery1_3Mob,
+            url: null,
+          },
+          {
+            identifier: "4",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_4,
+            img_mob: imgGastronomyGallery1_4Mob,
+            url: null,
+          },
+          {
+            identifier: "5",
+            title: "Platos Típicos",
+            text: "",
+            img: imgGastronomyGallery1_5,
+            img_mob: imgGastronomyGallery1_5Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Sancocho",
+            subtitle: null,
+            content:
+              "It is made mainly with chicken, yam, coriander and more spices. It is usually served with white rice, and it is the Panamanians’ favorite dish after a celebration.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Rice and chicken",
+            subtitle: null,
+            content:
+              "Being rice and chicken its main basic ingredients, the main focus is on the cooking process. The key lies in the spices used to season it. Among its other ingredients, we find chicken stock powder, leaves of chopped cilantro and garlic cloves.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Hojaldre",
+            subtitle: null,
+            content:
+              "It is one of the most representative fried foods of Panamanian cuisine. It is made mainly with flour, baking powder, salt, sugar, water and butter. You can have it with cheese, stew sausages or a chopped steak; whether for breakfast, lunch, or as an afternoon snack.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Carimañolas",
+            subtitle: null,
+            content:
+              "It is another traditional Panamanian fried food. It consists of a fried roll made of yucca (cassava) and filled with meat, soft on the inside and crispy on the outside. Even though it is mostly consumed for breakfast, it can be also ordered as a snack at restaurants.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Ceviche",
+            subtitle: null,
+            content:
+              'Panamanian ceviche is marinated with citrus longer than usual, setting it apart from the famous Peruvian ceviche. The shellfish is "cooked" with lemon juice and it is complemented with ají chombo (habanero pepper), onions, and finely chopped cilantro. The most popular ceviche dish consists of sea bass; however, it is also made with octopus, shrimps, and a combination of all mentioned. You can order it as a starter in almost all restaurants in the country.',
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Guacho de rabito or seafood",
+            subtitle: null,
+            content:
+              "It is a traditional dish, but not very easy to find. It consists of mixing rice, pork tail, chiricano beams, yucca (cassava), and vegetables in a pan, to obtain a caldo (broth). The seafood guacho is a more common dish in the coastal areas.",
+            gallery: null,
+          },
+          {
+            id: "7",
+            title: "Bollo",
+            subtitle: null,
+            content:
+              "Corn is grinded to make a dough that will later be rolled in the bud of the cob and is cooked in water until it gets as firm as needed. It is the perfect complement for the national pressed cheese and a good coffee. The most famous ones are Chorrera's bollos preñados, stuffed with meat, pork or chicken.",
+            gallery: null,
+          },
+          {
+            id: "8",
+            title: "Tortilla",
+            subtitle: null,
+            content:
+              "It is made of a fried corn dough; however, it has a softer texture and a sweeter taste than dry corn tortilla.  You can say that it is the most common food in a Panamanian breakfast.",
+            gallery: null,
+          },
+          {
+            id: "9",
+            title: "Rice Pudding",
+            subtitle: null,
+            content:
+              "A traditional Panamanian dessert, made with white rice, whole milk, evaporated milk, condensed milk, sugar and cinnamon. Some also include raisins.",
+            gallery: null,
+          },
+          {
+            id: "10",
+            title: "Mamallena",
+            subtitle: null,
+            content:
+              "Another very traditional homemade dessert, known in other places as bread pudding. It is prepared with bread, milk, cinnamon, sugar, eggs, raisings and other ingredients. It is very common to find them in bakery stores, especially in the countryside.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+      {
+        id: "2",
+        img: imgGastronomyList2,
+        img_mob: imgGastronomyList2Mob,
+        hero: imgGastronomyHero2,
+        hero_mob: imgGastronomyHero2Mob,
+        title: "Gastronomic events",
+        subtitle: null,
+        type: "gastronomia",
+        type_name: "Gastronomy",
+        slug_parent: "conoce-panama",
+        slug_child: "gastronomia",
+        slug: "eventos-gastronomicos",
+        content:
+          "Several gastronomic events take place in Panama. Some of the most well-known are:",
+        did_you_know_img: null,
+        did_you_know_img_mobile: null,
+        did_you_know_title: null,
+        did_you_know_subtitle: null,
+        did_you_know_content: "",
+        distance_title: null,
+        distance_content: "",
+        gallery: [
+          {
+            identifier: "1",
+            title: "Gastronomic events",
+            text: "Tours de 2 día",
+            img: imgGastronomyGallery2_1,
+            img_mob: imgGastronomyGallery2_1Mob,
+            url: null,
+          },
+          {
+            identifier: "2",
+            title: "Gastronomic events",
+            text: "Tours de 2 día",
+            img: imgGastronomyGallery2_2,
+            img_mob: imgGastronomyGallery2_2Mob,
+            url: null,
+          },
+        ],
+        festivals: [
+          {
+            id: "1",
+            title: "Micro Brew Fest",
+            subtitle: null,
+            content:
+              "This craf beer festival is celebrated in January in Clayton. It included over 200 kinds of local and international beers. It is also characterized by stalls selling food or food trucks. Instagram: @panamamicrobrew.",
+            gallery: null,
+          },
+          {
+            id: "2",
+            title: "Menú Panamá",
+            subtitle: null,
+            content:
+              "In Feburary, it is time for this festival which is full of music, wine and gastronomic options; in it, there are more of 75 types of wine exhibited,and it is possible to enjoy some food stalls with live jazz music. In previous years, there were international guests from well-known restaurants in Latin America and competitions of baristas took place. Instagram: @menupanama.",
+            gallery: null,
+          },
+          {
+            id: "3",
+            title: "Afro-Antillean Fair",
+            subtitle: null,
+            content:
+              "It is celebrated in February to pay tribute to the afroantillean cuisine as well as its culture. In this fair you can enjoy its most representative dishes and drinks.",
+            gallery: null,
+          },
+          {
+            id: "4",
+            title: "Burger Week",
+            subtitle: null,
+            content:
+              "During this event in March a wide variety of restaurants offer some special editions of their burgers for a limited time. Once the Burger Week has ended, a selected jury and the public choose the best one. There is no doubt this is one of the most popular gastronomic events in the city. Instagram: @panamaweek.",
+            gallery: null,
+          },
+          {
+            id: "5",
+            title: "Greek Fest",
+            subtitle: null,
+            content:
+              "Is another of the most important events of local gastronomy, which is celebrated in March each year in the Greek Orthodox Church. In addition to Greek dishes, there is also candy, Greek beer, there is dancing and tours around the church. Instagram: @greekFestPty.",
+            gallery: null,
+          },
+          {
+            id: "6",
+            title: "Restaurant Week",
+            subtitle: null,
+            content:
+              "Iit is one of the oldest events in the country and it is celebrated on September. For a limited period, hundreds of restaurants offer some special editions of their menus at low prices, emphasizing local products. Instagram: @panamaweek.",
+            gallery: null,
+          },
+        ],
+        map: null,
+      },
+    ],
+  },
+};

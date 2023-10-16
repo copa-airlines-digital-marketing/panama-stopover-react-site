@@ -1,0 +1,17 @@
+@import "../../assets/styles/_rem.scss";
+
+.where-to-stay-page {
+  font-family: "Raleway", sans-serif;
+  color: #101010;
+  font-size: rem(25px);
+  font-weight: 400;
+
+  .map {
+    margin: 2em auto;
+  }
+
+  .main-title-block a {
+    color: #262626;
+  }
+
+}

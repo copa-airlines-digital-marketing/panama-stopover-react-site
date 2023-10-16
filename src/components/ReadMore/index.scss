@@ -1,0 +1,50 @@
+.readmoreArea-not-activado {
+
+  .read-more-state {
+    visibility: hidden;
+  }
+
+  .o-less,
+  span {
+    display: none !important;
+  }
+
+  .v-more {
+    display: inline-block !important;
+    vertical-align: top !important;
+  }
+
+  .read-more-button {
+    strong {
+      text-decoration: underline;
+    }
+
+    text-decoration: underline;
+  }
+
+}
+
+.readmoreArea-activado {
+
+  .o-less,
+  span {
+    display: inline-block !important;
+    vertical-align: top !important;
+  }
+
+  .v-more {
+    display: none !important;
+  }
+
+  .read-more-button {
+    text-decoration: underline;
+
+    strong {
+      text-decoration: underline;
+    }
+
+    &::after {
+      background-image: url("./../../assets/img/icons/icon-arrow-reverse.png") !important;
+    }
+  }
+}

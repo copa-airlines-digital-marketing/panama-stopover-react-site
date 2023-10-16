@@ -1,0 +1,50 @@
+@import "./../../assets/styles/_rem.scss";
+
+.breadcrumbs {
+  padding-top: 3em !important;
+  padding-bottom: 3em !important;
+  font-size: rem(14px);
+  font-family: 'Raleway', sans-serif;
+  color: #101010;
+  display: inline-block;
+  vertical-align: top;
+  max-width: rem(1395px);
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 0;
+  padding-right: 0;
+
+  li {
+    list-style: none;
+    margin-right: rem(5px);
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+
+    a {
+      font-size: .875rem;
+      font-family: Raleway, sans-serif;
+      color: #101010;
+      text-align: left;
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+
+      &:hover {
+        color: #101010;
+        text-decoration: underline;
+      }
+    }
+
+    strong {
+      color: #195dff;
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      font-weight: bold;
+    }
+
+  }
+
+}

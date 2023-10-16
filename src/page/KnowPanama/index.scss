@@ -1,0 +1,209 @@
+@import "../../assets/styles/_rem.scss";
+
+.restaurant-list-box {
+  font-family: "Raleway", sans-serif;
+  color: #101010;
+  font-size: rem(25px);
+  font-weight: 400;
+
+  .bioseguridad-box {
+    // background: #FFCC26 0 0 no-repeat padding-box;
+    color: #101010;
+    padding: 15px;
+
+    p {
+      color: #101010;
+      font-size: 16px;
+      line-height: 24px;
+    }
+
+    a {
+      color: #101010;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+
+
+  .restaurant-block {
+    margin-top: rem(100px);
+    display: block;
+
+    @media (max-width: 990px) {
+      margin-top: rem(32px);
+    }
+
+    .filtermobile {
+      position: relative;
+      top: rem(0);
+      border-bottom: 2px solid #c2c2c2;
+
+      @media (min-width: 990px) {
+        display: none;
+      }
+
+      h4 {
+        color: #999999;
+        font-size: rem(20px);
+        border-top: 2px solid #c2c2c2;
+        border-right: 2px solid #c2c2c2;
+        border-left: 2px solid #c2c2c2;
+        padding: rem(16px) rem(24px);
+        margin: 0;
+        position: relative;
+      }
+
+      a {
+        img {
+          width: rem(30px);
+          position: absolute;
+          right: rem(10px);
+          top: rem(12px);
+        }
+      }
+    }
+
+    .filter {
+      color: #999999;
+      float: left;
+      width: 25%;
+      margin: 0;
+
+      @media (max-width: 990px) {
+        width: 100%;
+        display: none;
+      }
+
+      &.showinmobile {
+        @media (max-width: 990px) {
+          width: 100%;
+          display: block !important;
+          top: rem(-64px);
+          position: relative;
+          background: #fff;
+        }
+
+        @media (max-width: 767px) {
+          top: rem(-60px);
+        }
+      }
+
+      h4 {
+        color: #999999;
+        font-size: rem(20px);
+        border-top: 2px solid #c2c2c2;
+        border-right: 2px solid #c2c2c2;
+        border-left: 2px solid #c2c2c2;
+        padding: rem(16px) rem(24px);
+        margin: 0;
+        position: relative;
+
+        img {
+          width: rem(30px);
+          position: absolute;
+          right: rem(10px);
+          top: rem(12px);
+        }
+      }
+
+      .content-filters {
+        color: #999999;
+        font-size: rem(20px);
+        border: 2px solid #c2c2c2;
+        padding: rem(24px);
+
+        span {
+          font-weight: bold;
+        }
+
+        &.filters-orders {
+          label {
+            display: block;
+
+            .radio-number {
+              display: none;
+            }
+
+            b {
+              padding-left: 7px;
+              font-weight: normal;
+              font-size: rem(18px);
+            }
+          }
+        }
+
+        ul {
+          margin: 0 0 rem(24px) 0;
+          padding: 0;
+          list-style: none;
+          font-size: rem(18px);
+        }
+
+        .btn-primary {
+          display: block;
+        }
+      }
+    }
+
+    .restaurant-list {
+      float: right;
+      width: 75%;
+
+      @media (max-width: 990px) {
+        width: 100%;
+        margin-top: 0;
+      }
+
+      .restaurant-card {
+        float: left;
+        width: 45%;
+        margin-left: 5%;
+        padding-bottom: rem(20px);
+        margin-bottom: rem(40px);
+        border-bottom: 2px solid #c2c2c2;
+        min-height: rem(270px);
+
+        @media (max-width: 990px) {
+          width: 80%;
+          margin-left: 0;
+          padding: rem(50px) rem(20px) rem(20px) rem(20px);
+          float: none;
+          margin: 0 auto;
+        }
+
+        h3 {
+          font-weight: 800;
+          margin-bottom: rem(10px);
+          font-size: rem(30px);
+        }
+
+        h6 {
+          font-size: rem(22px);
+          margin-bottom: rem(20px);
+        }
+
+        ul {
+          font-size: rem(16px);
+          margin: 0 0 rem(24px) 0;
+          padding: 0;
+          list-style: none;
+
+          li {
+            &.no {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+
+    .clear {
+      clear: both;
+      float: none;
+    }
+  }
+
+
+
+}

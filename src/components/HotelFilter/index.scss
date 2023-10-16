@@ -1,0 +1,111 @@
+@import "../../assets/styles/_rem.scss";
+
+.hotel-filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+  width: 100%;
+  height: auto !important;
+
+  .btn-primary {
+    margin-left: rem(15px) !important;
+    margin-right: rem(15px) !important;
+  }
+
+  select {
+    box-shadow: rem(0px 0px 1px 1px #eee);
+    border-radius: rem(5px);
+    height: rem(50px);
+    width: rem(365px);
+    border: rem(1px solid #eaeaea);
+    color: #707070;
+    font-size: rem(18px);
+    padding: rem(0 20px);
+
+    options {
+      color: #707070;
+      font-size: rem(18px);
+      font-weight: 500;
+      font-family: 'Raleway', sans-serif;
+    }
+  }
+
+  .range-cont {
+    display: none !important;
+    height: rem(100px);
+    width: rem(430px);
+    margin: 0 auto;
+
+    .first-row {
+      .price {
+        color: #707070;
+        font-size: rem(18px);
+        font-weight: 700;
+        font-family: 'Raleway', sans-serif;
+      }
+
+      .caret {
+        border-bottom: rem(10px solid #707070);
+        border-top: rem(10px solid transparent);
+        border-right: rem(10px solid transparent);
+        border-left: rem(10px solid transparent);
+      }
+    }
+
+    .second-row {
+
+      .minvalue,
+      .maxvalue {
+        color: #707070;
+        font-size: rem(18px);
+        font-weight: 500;
+        font-family: 'Raleway', sans-serif;
+
+        strong {}
+      }
+    }
+
+    .ant-slider-step {
+      height: rem(2px);
+    }
+
+    .ant-slider-rail {
+      height: rem(2px);
+    }
+
+    .ant-slider-track {
+      height: rem(2px);
+    }
+
+    .ant-slider {
+      .ant-slider-riel {
+        background: #FFCC26;
+      }
+
+      .ant-slider-track {
+        background: #FFCC26;
+      }
+
+      .ant-slider-step {
+        background: #FFCC26;
+      }
+
+      .ant-slider-handle {
+        background: #FFCC26;
+        border: rem(2px solid #FFCC26);
+        width: rem(30px);
+        height: rem(30px);
+        top: rem(-5px);
+      }
+    }
+
+  }
+
+  @media (max-width: 1366px) {
+    flex-direction: column;
+    justify-content: space-between;
+    height: rem(260px);
+  }
+}
