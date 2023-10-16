@@ -422,7 +422,7 @@ Calendar day selected
   height: 22px;
   margin: 0 auto;
   border: none;
-  background: url(../../assets/icons/Info-OutlineBlue.svg) center
+  background: url(./icons/Info-OutlineBlue.svg) center
     no-repeat;
 }
 
@@ -496,47 +496,47 @@ Calendar day selected
 }
 
 .KeyboardShortcutRow:nth-child(1) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/enter.svg) right no-repeat;
+  background: url(./icons/enter.svg) right no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(2) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/keyboardleftright.svg) right
+  background: url(./icons/keyboardleftright.svg) right
     no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(3) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/keyboardupdown.svg) right
+  background: url(./icons/keyboardupdown.svg) right
     no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(4) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/keyboardpguppgdn.svg) right
+  background: url(./icons/keyboardpguppgdn.svg) right
     no-repeat;
 }
 
 .dayPicker-es
   .KeyboardShortcutRow:nth-child(4)
   .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/keyboardrepagavpag.svg) right
+  background: url(./icons/keyboardrepagavpag.svg) right
     no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(5) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/home-end.svg) right no-repeat;
+  background: url(./icons/home-end.svg) right no-repeat;
 }
 
 .dayPicker-es
   .KeyboardShortcutRow:nth-child(5)
   .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/inicio-fin.svg) right no-repeat;
+  background: url(./icons/inicio-fin.svg) right no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(6) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/esc.svg) right no-repeat;
+  background: url(./icons/esc.svg) right no-repeat;
 }
 
 .KeyboardShortcutRow:nth-child(7) .KeyboardShortcutRow_keyContainer {
-  background: url(../../assets/icons/exclamation.svg) right no-repeat;
+  background: url(./icons/exclamation.svg) right no-repeat;
 }
 
 @media screen and (max-width: 1024px) {

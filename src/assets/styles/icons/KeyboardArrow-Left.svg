@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="keyboardarrow-left-a" points="14.6 18 8.6 12 14.6 6 16 7.4 11.4 12 16 16.6"/>
+  </defs>
+  <use xlink:href="#keyboardarrow-left-a"/>
+</svg>
