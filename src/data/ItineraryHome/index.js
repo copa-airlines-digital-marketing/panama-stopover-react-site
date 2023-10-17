@@ -90,37 +90,21 @@ import imgItinerary7ComprasMob from "assets/img/home/itinerary/7/CPA.1068_stopov
 import imgItinerary7PanamaViejo from "assets/img/home/itinerary/7/CPA.1068_stopover_microsite_desktop_itinerario_035_panamaviejo_812x364.jpg";
 import imgItinerary7PanamaViejoMob from "assets/img/home/itinerary/7/CPA.1068_stopover_microsite_mobile_itinerario_035_panamaviejo_768x816.jpg";
 
-import ej from 'assets/img/avatars/ej.png';
-import antud from 'assets/img/avatars/antud.png';
-import redromina from 'assets/img/avatars/redromina.png';
-import oscar from 'assets/img/avatars/oscar.png';
-import youtube1 from 'assets/img/avatars/youtube1.png';
-import youtube2 from 'assets/img/avatars/youtube2.png';
-import youtube3 from 'assets/img/avatars/youtube3.png';
-import youtube4 from 'assets/img/avatars/youtube4.png';
-import youtube5 from 'assets/img/avatars/youtube5.png';
-import youtube6 from 'assets/img/avatars/youtube6.png';
-import youtube7 from 'assets/img/avatars/youtube7.png';
-import youtube8 from 'assets/img/avatars/youtube8.png';
-import youtube9 from 'assets/img/avatars/youtube9.png';
-import youtube10 from 'assets/img/avatars/youtube10.png';
-/*
-import video1 from 'video/CPA.1168_stopover_desktop_itinerarios_dia1_1920x1080.mp4';
-import video2 from 'video/CPA.1168_stopover_desktop_itinerarios_dia2_1920x1080.mp4';
-import video3 from 'video/CPA.1168_stopover_desktop_itinerarios_dia3_1920x1080.mp4';
-import video4 from 'video/CPA.1168_stopover_desktop_itinerarios_dia4_1920x1080.mp4';
-import video5 from 'video/CPA.1168_stopover_desktop_itinerarios_dia5_1920x1080.mp4';
-import video6 from 'video/CPA.1168_stopover_desktop_itinerarios_dia6_1920x1080.mp4';
-import video7 from 'video/CPA.1168_stopover_desktop_itinerarios_dia7_1920x1080.mp4';
+const ej = 'https://cm-marketing.directus.app/assets/ea6952d4-7a89-4808-b366-8030f4064044';
+const antud = 'https://cm-marketing.directus.app/assets/a62ca584-ee30-4217-83d3-b12770d26cdc';
+const redromina = 'https://cm-marketing.directus.app/assets/93548220-14ac-4bea-aeda-84ff0890b801';
+const oscar = 'https://cm-marketing.directus.app/assets/4f6a94d1-9277-48af-b1fc-661083210ba2';
+const youtube1 = 'https://cm-marketing.directus.app/assets/e05cb325-96fa-4ef8-9a73-8e0e6f9c5d1e';
+const youtube2 = 'https://cm-marketing.directus.app/assets/c5cd666c-240d-4d2e-9db3-c1758c6e8ca3';
+const youtube3 = 'https://cm-marketing.directus.app/assets/e7e9d4d2-6f79-4d31-97d4-8d86231a4dba';
+const youtube4 = 'https://cm-marketing.directus.app/assets/7bfe2ca7-8360-492d-8675-43426b0be758';
+const youtube5 = 'https://cm-marketing.directus.app/assets/02501a01-daec-472b-ba64-af4229691aa4';
+const youtube6 = 'https://cm-marketing.directus.app/assets/0b38dfb4-669a-4503-b6c6-bd8d0ab5c52d';
+const youtube7 = 'https://cm-marketing.directus.app/assets/b217721e-c000-4ee8-886d-20e6130e98ce';
+const youtube8 = 'https://cm-marketing.directus.app/assets/b2295452-9cfc-4583-b24a-d7b4ba363254';
+const youtube9 = 'https://cm-marketing.directus.app/assets/5419ee5d-09b0-46f9-bf53-fdd7c8578d96';
+const youtube10 = 'https://cm-marketing.directus.app/assets/20606c8d-1b47-4c8d-a181-a2918e2badd1';
 
-import video1Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia1_1080x1920.mp4';
-import video2Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia2_1080x1920.mp4';
-import video3Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia3_1080x1920.mp4';
-import video4Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia4_1080x1920.mp4';
-import video5Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia5_1080x1920.mp4';
-import video6Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia6_1080x1920.mp4';
-import video7Mob from 'video/CPA.1168_stopover_mobile_itinerarios_dia7_1080x1920.mp4';
-*/
 
 export default {
   //ESPAÑOL //////////////////////////////////////////////////////////////////////////////////////////////////////////

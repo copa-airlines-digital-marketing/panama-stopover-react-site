@@ -6,21 +6,13 @@ import { compose } from "redux";
 import { connect } from "react-redux";
 
 import ModalVideo from "../ModalVideo";
-
-import { Modal } from 'antd';
 import RadioButton from "../../components/RadioButton";
 import itineraryHomeData from "../../data/ItineraryHome";
-
-import ReadMore from "../ReadMore";
 
 import "./index.scss";
 
 import { isMobile } from "react-device-detect";
 import CreateYourItineraryCard from "../CreateYourItineraryCard";
-import { Link } from "react-router-dom";
-
-import arrowUp from '../../assets/img/avatars/arrowUp.png';
-import arrowDown from '../../assets/img/avatars/arrowDown.png';
 
 const mapStateToProps = (state) => {
   return {

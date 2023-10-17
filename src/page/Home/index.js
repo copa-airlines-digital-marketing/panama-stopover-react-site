@@ -16,8 +16,6 @@ import BookingPanel from '../../components/BookingPanel';
 
 import fullHomeData from "../../data/Home";
 import Cookies from "universal-cookie";
-import arrowDown from "../../assets/img/avatars/arrowDown.png";
-import arrowUp from "../../assets/img/avatars/arrowUp.png";
 import {Modal} from "antd";
 import {isMobile} from "react-device-detect";
 import itineraryHomeData from "../../data/ItineraryHome";
@@ -229,12 +227,14 @@ class Home extends React.Component {
                         {this.state.extraCss === 'hide-mobile'
                             ?(
                                 <div className="col-sm-12 read-more" onClick={() => this.clickReadMore('')}>
-                                  {currentLanguage === 'es'? 'Ver todos ':'See all '}<img src={arrowDown} alt="img" />
+                                  {currentLanguage === 'es'? 'Ver todos ':'See all '}
+                                  <img src={'https://cm-marketing.directus.app/assets/f3ef8eb5-7b4b-45c4-9ddd-cbd03573027a'} alt="img" />
                                 </div>
                             )
                             :(
                                 <div className="col-sm-12 read-more" onClick={() => this.clickReadMore('hide-mobile')}>
-                                  {currentLanguage === 'es'? 'Ver menos ':'See less '}<img src={arrowUp} alt="img" />
+                                  {currentLanguage === 'es'? 'Ver menos ':'See less '}
+                                  <img src={'https://cm-marketing.directus.app/assets/574a1b25-1697-4309-b1a4-39d79b74aad1'} alt="img" />
                                 </div>
                             )
                         }

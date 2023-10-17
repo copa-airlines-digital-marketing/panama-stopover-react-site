@@ -52,7 +52,7 @@ import stepOverIconCurrency from 'assets/img/stopovers_icons/save-money.svg';
 import stepOverIconWeather from 'assets/img/stopovers_icons/sun.svg';
 import stepOverIconTransport from 'assets/img/stopovers_icons/taxi.svg';
 
-import video0 from 'video/home_video_1920x1080_.mp4';
+/* import video0 from 'video/home_video_1920x1080_.mp4'; */
 
 export default {
   //ESPAÑOL //////////////////////////////////////////////////////////////////////////////////////////////////////////
