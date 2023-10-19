@@ -1,7 +1,7 @@
 import React from 'react';
 import {withLocalize} from "react-localize-redux";
 import {connect} from 'react-redux';
-import {Redirect, Switch, Route} from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 
 import {compose} from "redux";
 
@@ -76,7 +76,7 @@ class App extends React.Component {
 
           <NavMobile/>
 
-          <Switch>
+          <Routes>
             <Route exact path="/">
               <HomePage/>
             </Route>
@@ -128,12 +128,12 @@ class App extends React.Component {
             <Route path="/restaurant">
               <RestaurantPage/>
             </Route>
-            <Redirect from="/home" to="/" />
-            <Redirect from="/home/" to="/" />
+            <Route from="/home" element={<Navigate replace to="/"></Navigate>}></Route>
+            <Route from="/home/" element={<Navigate replace to="/"></Navigate>}></Route>
             <Route>
               <NotFound/>
             </Route>
-          </Switch>
+          </Routes>
 
           <div className="footer-box">
             <FooterArea/>

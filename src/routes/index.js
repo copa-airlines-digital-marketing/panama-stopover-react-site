@@ -1,5 +1,5 @@
 import React from 'react';
-import {Redirect, Route} from "react-router-dom";
+import {Navigate, Route} from "react-router-dom";
 
 import Home from "screens/Home";
 import About from "screens/About";
@@ -27,9 +27,7 @@ const AppRoutes = () => {
           <p>El content de hola mundo</p>
         </AppInnerPage>
       </Route>
-      <Route>
-        <Redirect to="/404" />
-      </Route>
+      <Route element={<Navigate replace to="/404"></Navigate>}></Route>
     </>
   );
 };
