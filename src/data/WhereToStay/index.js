@@ -2,7 +2,7 @@
 import banner from "./../../assets/img/where-to-stay/banner-new.png";
 import bannerMobile from "./../../assets/img/where-to-stay/banner-new-mobile.png";
 
-export default {
+const data = {
   es: {
     name: "Dónde Hospedarse",
     bannerImg: banner,
@@ -34,3 +34,6 @@ export default {
     ]
   }
 };
+
+
+export default data

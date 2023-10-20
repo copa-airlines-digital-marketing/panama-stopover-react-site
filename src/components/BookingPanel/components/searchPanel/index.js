@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import moment from 'moment';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
@@ -55,7 +55,7 @@ const SearchPanel = ({
   idiomasReducer,
 }) => {
   const classes = useStyles();
-  const history = useHistory();
+  const history = useNavigate();
   const { currentLanguage } = idiomasReducer;
   const translations = bookingPanel[currentLanguage];
 
@@ -71,7 +71,7 @@ const SearchPanel = ({
   const [stopoverSelect, setStopoverSelect] = useState(0);
   const [stopoverNights, setStopoverNights] = useState(0);
   const [stopoverDate, setStopoverDate] = useState('');
-  const params = new URLSearchParams(history.location.search);
+  const params = new URLSearchParams(document.location.search);
   const areaOne = params.get("area1");
   const dateOne = params.get("date1");
   const dateTwo = params.get("date2");

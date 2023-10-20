@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import classnames from "classnames/bind";
-import {withRouter} from "react-router-dom";
+import { withRouter } from "store/withRouter";
 
 const GoBackButton = ({children, classNames, history}) => {
     const goBackAction = () => {

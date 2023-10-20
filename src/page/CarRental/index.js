@@ -4,7 +4,6 @@ import {connect} from "react-redux";
 import {compose} from "redux";
 
 import Hero from "./../../components/Hero";
-import Breadcrumb from "./../../components/Breadcrumb";
 import MainTextBlock from "./../../components/MainTextBlock";
 import CarCard from "./../../components/CarCard";
 

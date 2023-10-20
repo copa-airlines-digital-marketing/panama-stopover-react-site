@@ -66,10 +66,6 @@ class App extends React.Component {
   };
 
   render() {
-    const {width} = this.state;
-    const isMobileWidth = width <= 768;
-
-    // console.log(isMobile);
 
     return (
         <div className={(isMobile) ? ('mobile-panel') : ('desktop-panel')}>
@@ -77,62 +73,26 @@ class App extends React.Component {
           <NavMobile/>
 
           <Routes>
-            <Route exact path="/">
-              <HomePage/>
-            </Route>
-            <Route exact path="/conoce-panama/:pager/:identifier">
-              <KnowPanamaDetail/>
-            </Route>
-            <Route exact path="/know-panama/:pager/:identifier">
-              <KnowPanamaDetail/>
-            </Route>
-            <Route exact path="/conoce-panama/:identifier">
-              <KnowPanamaList/>
-            </Route>
-            <Route exact path="/know-panama/:identifier">
-              <KnowPanamaList/>
-            </Route>
-            <Route path="/conoce-panama">
-              <KnowPanamaPage/>
-            </Route>
-            <Route path="/know-panama">
-              <KnowPanamaPage/>
-            </Route>
-            <Route exact path="/tours/:identifier">
-              <ToursPage/>
-            </Route>
-            <Route path="/paquetes/:identifier/:iddays?">
-              <PackagesPage/>
-            </Route>
-            <Route path="/packages/:identifier/:iddays?">
-              <PackagesPage/>
-            </Route>
-            <Route path="/donde-hospedarse/:identifier">
-              <WhereToStayInterna/>
-            </Route>
-            <Route path="/donde-hospedarse">
-              <WhereToStayPage/>
-            </Route>
-            <Route path="/where-to-stay/:identifier">
-              <WhereToStayInterna/>
-            </Route>
-            <Route path="/where-to-stay">
-              <WhereToStayPage/>
-            </Route>
-            <Route path="/alquiler-de-autos">
-              <CarRentalsPage/>
-            </Route>
-            <Route path="/car-rentals">
-              <CarRentalsPage/>
-            </Route>
-            <Route path="/restaurant">
-              <RestaurantPage/>
-            </Route>
+            <Route exact path="/" element={<HomePage/>}></Route>
+            <Route exact path="/conoce-panama/:pager/:identifier" element={<KnowPanamaDetail/>}></Route>
+            <Route exact path="/know-panama/:pager/:identifier" element={<KnowPanamaDetail/>}></Route>
+            <Route exact path="/conoce-panama/:identifier" element={<KnowPanamaList/>}></Route>
+            <Route exact path="/know-panama/:identifier" element={<KnowPanamaList/>}></Route>
+            <Route path="/conoce-panama" element={<KnowPanamaPage/>}></Route>
+            <Route path="/know-panama" element={<KnowPanamaPage/>}></Route>
+            <Route exact path="/tours/:identifier" element={<ToursPage/>}></Route>
+            <Route path="/paquetes/:identifier/:iddays?" element={<PackagesPage/>}></Route>
+            <Route path="/packages/:identifier/:iddays?" element={<PackagesPage/>}></Route>
+            <Route path="/donde-hospedarse/:identifier" element={<WhereToStayInterna/>}></Route>
+            <Route path="/donde-hospedarse" element={<WhereToStayPage/>}></Route>
+            <Route path="/where-to-stay/:identifier" element={<WhereToStayInterna/>}></Route>
+            <Route path="/where-to-stay" element={<WhereToStayPage/>}></Route>
+            <Route path="/alquiler-de-autos" element={<CarRentalsPage/>}></Route>
+            <Route path="/car-rentals" element={<CarRentalsPage/>}></Route>
+            <Route path="/restaurant" element={<RestaurantPage/>}></Route>
             <Route from="/home" element={<Navigate replace to="/"></Navigate>}></Route>
             <Route from="/home/" element={<Navigate replace to="/"></Navigate>}></Route>
-            <Route>
-              <NotFound/>
-            </Route>
+            <Route path='*' element={<NotFound />} />
           </Routes>
 
           <div className="footer-box">

@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import {Link, useParams} from "react-router-dom";
+import {useParams} from "react-router-dom";
 
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -11,12 +11,10 @@ import Map from "./../../components/Map";
 import PrimaryNav from "./../../components/PrimaryNav";
 import dataKnowPanama from "../../data/KnowPanama";
 
-import GoBackButton from "../../components/GoBackButton";
 import {KnowPanamaListAnimation} from "./animations";
 import {isMobile} from "react-device-detect";
-import AnchorLink from "react-anchor-link-smooth-scroll";
-import {withRouter} from "react-router";
 import classnames from "classnames/bind";
+import { withRouter } from "store/withRouter";
 
 const mapStateToProps = state => {
   return {
@@ -138,13 +136,13 @@ function KnowPanamaDetail({idiomasReducer, location, history}) {
         <ul className="breadcrumbs">
           {resultBreadcrumb.map((crumb, k) => {
             return <li><a href={currentLanguage === "es" ? "/conoce-panama" : "/know-panama"}
-                          key={k}>{`${crumb.title}`}</a><span> > </span></li>;
+                          key={k}>{`${crumb.title}`}</a><span> {'>'} </span></li>;
           })}
           {resultBreadcrumbDetail.map((opt, i) => {
             return opt.slug === identifier ? (
               <li key={i}>
                 <a
-                  href={`${currentLanguage === "es" ? "/conoce-panama" : "/know-panama"}/` + opt.type_name.toLowerCase().split(' ').join('-')}>{`${opt.type_name}`}</a><span> > </span>
+                  href={`${currentLanguage === "es" ? "/conoce-panama" : "/know-panama"}/` + opt.type_name.toLowerCase().split(' ').join('-')}>{`${opt.type_name}`}</a><span> {'>'} </span>
                 <strong>{opt.title}</strong>
               </li>
             ) : null;

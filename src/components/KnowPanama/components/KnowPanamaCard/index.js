@@ -1,10 +1,10 @@
 import React from "react";
 
-import {withRouter} from "react-router";
 import classnames from 'classnames/bind';
 
 import "./styles.scss";
 import {isMobile} from "react-device-detect";
+import { withRouter } from "store/withRouter";
 
 // const CONOCE_PANAMA_BASE_URL = 'conoce-panama';
 

@@ -1,8 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { connect } from 'react-redux';
-import { compose } from 'redux';
-import { withLocalize } from 'react-localize-redux';
 import CircularProgress from "@material-ui/core/CircularProgress"
 
 import useStyles from "./styles"

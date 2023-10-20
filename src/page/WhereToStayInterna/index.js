@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 import {withLocalize} from "react-localize-redux";
 import {connect} from "react-redux";
 import {compose} from "redux";
-import {Link, useParams} from "react-router-dom";
+import {useParams} from "react-router-dom";
 
 import Hero from "./../../components/Hero";
 import Breadcrumb from "./../../components/Breadcrumb";
@@ -13,11 +13,8 @@ import GoBackButton from "../../components/GoBackButton";
 
 import './index.scss';
 
-// let url_api = 'https://copa-airlines-stopover-backend.st4ging.dev/api';
-// let url_api = process.env.REACT_APP_API_URL;
 let url_api = 'https://phpstack-685265-3053015.cloudwaysapps.com/api';
 
-// Declarar map del store a los props del componente
 const mapStateToProps = state => {
   return {
     idiomasReducer: state.idiomasReducer
@@ -47,7 +44,7 @@ const WhereToStayInterna = (props) => {
 
   useEffect(() => {
     findBySlug(identifier);
-  }, []);
+  });
 
   const idioma = props.idiomasReducer.currentLanguage;
   const data = hotel[idioma];
@@ -113,7 +110,9 @@ const WhereToStayInterna = (props) => {
             </p>
             <a
               className="btn-primary btn--yellow text-uppercase"
-              href={idioma === 'es' ? data.infoUrl : data.infoUrlEn} target="_blank">
+              href={idioma === 'es' ? data.infoUrl : data.infoUrlEn} 
+              target="_blank"
+              rel='noreferrer'>
               {idioma === 'es' ? 'RESERVA YA' : 'BOOK NOW'}
             </a>
           </div>

@@ -114,13 +114,13 @@ const WhereToStayPage = props => {
   // console.log(hotels[idioma]);
 
   if (hotels && hotels[idioma] && hotels[idioma].length > 0) {
-    hotels[idioma].map(i => {
-      i.map.map(m => markers.push(m));
-    });
+    hotels[idioma].map((i) =>
+      i.map.map(m => markers.push(m))
+    );
     map = markers.length ? <Map coords={markers} /> : null;
   }
 
-  if (filterMax != 0) {
+  if (filterMax !== 0) {
     HotelFiltered = (
       <HotelFilter
         cities={cities}

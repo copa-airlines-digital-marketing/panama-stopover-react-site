@@ -3,7 +3,6 @@ import {withLocalize} from "react-localize-redux";
 import {connect} from "react-redux";
 import {compose} from "redux";
 import {Slider} from 'antd';
-import 'antd/dist/antd.css';
 
 import './index.scss';
 

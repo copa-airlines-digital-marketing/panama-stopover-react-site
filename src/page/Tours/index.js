@@ -1,8 +1,8 @@
-import React, {useState, useEffect} from "react";
+import React from "react";
 import {withLocalize} from "react-localize-redux";
 import {connect} from "react-redux";
 import {compose} from "redux";
-import {Link, useParams} from "react-router-dom";
+import {useParams} from "react-router-dom";
 import NotFound from './../../page/NotFound';
 
 import Hero from "./../../components/Hero";
@@ -36,13 +36,11 @@ const ToursPage = (props) => {
     const cards = tours.cards;
 
     const social = extraInfo.social.map((soc, k) => {
-      if (soc.name != '' && soc.url != '' && soc.text != '') {
-        return <p className="extra-social" key={k}> {soc.name}: <a href={soc.url} target="_blank"> {soc.text} </a></p>
+      if (soc.name !== '' && soc.url !== '' && soc.text !== '') {
+        return <p className="extra-social" key={k}> {soc.name}: <a href={soc.url} target="_blank" rel='noreferrer'> {soc.text} </a></p>
       }
+      return <p></p>
     });
-
-    let total_cards = cards.length;
-     // console.log(tours)
 
     return (
       <div className="full-page tours-page">
@@ -74,8 +72,9 @@ const ToursPage = (props) => {
                   <p className="extra-open"> {extraInfo.open ? extraInfo.open : null} </p>
                   {social ? social : null}
                 </div>
-                <a className="extra-web" href={extraInfo.website}
-                   target="_blank"> {extraInfo.website} </a>
+                <a className="extra-web" href={extraInfo.website} target="_blank" rel='noreferrer' > 
+                   {extraInfo.website}
+                   </a>
               </div>
 
             </div>
@@ -95,7 +94,9 @@ const ToursPage = (props) => {
               <div className="d-flex align-center justify-center flex-column mobile-view">
                 <a
                   className="btn-primary btn--yellow text-uppercase"
-                  href={tours.infoUrl} target="_blank">
+                  href={tours.infoUrl}
+                  target="_blank" 
+                  rel='noreferrer'>
                   {idioma === 'es' ? 'RESERVA YA' : 'BOOK NOW'}
                 </a>
               </div>
@@ -116,7 +117,7 @@ const ToursPage = (props) => {
 
             <div className="container-small">
               <div className="container">
-                <small className={tours.slug == 'canal-de-panama' ? 'display-none' : ''} >
+                <small className={tours.slug === 'canal-de-panama' ? 'display-none' : ''} >
                 {idioma === 'es' ?  'Los productos promocionales y servicios adquiridos con el comprobante de Panamá Stopover en los comercios participantes son responsabilidad única y exclusiva de quienes lo ofrecen.' : 'Promotional products and services purchased with the Panama Parada voucher at participating merchants are the sole and exclusive responsibility of those who offer it.' } 
                 <br />
                 {idioma === 'es' ?  'Ni Copa Airlines ni Promtur Panamá son responsables por ningún reclamo producido por la disponibilidad, compra y obtención de los mismos.' : 'Neither Copa Airlines nor Promtur Panama are responsible for any claim caused by the availability, purchase and obtaining thereof.' } 
@@ -140,7 +141,7 @@ const ToursPage = (props) => {
               </p>
               <a
                 className="btn-primary btn--yellow text-uppercase desktop-view"
-                href={tours.infoUrl} target="_blank">
+                href={tours.infoUrl} target="_blank"  rel='noreferrer'>
                 {idioma === 'es' ? 'RESERVA YA' : 'BOOK NOW'}
               </a>
 

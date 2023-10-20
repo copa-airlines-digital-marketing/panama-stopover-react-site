@@ -1,7 +1,6 @@
-import React, { useLayoutEffect, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
-import { Link, useParams } from "react-router-dom";
-import { withLocalize } from "react-localize-redux";
+import { Link, Navigate, useParams } from "react-router-dom";
 
 import { connect } from "react-redux";
 import { compose } from "redux";
@@ -9,9 +8,6 @@ import { compose } from "redux";
 import PrimaryNav from "components/PrimaryNav";
 import dataKnowPanama from "data/KnowPanama";
 import { KnowPanamaListAnimation } from "./animations";
-
-import { Redirect, withRouter } from "react-router";
-// import GoBackButton from "../../components/GoBackButton";
 import { isMobile } from "react-device-detect";
 import classnames from "classnames/bind";
 
@@ -20,9 +16,9 @@ import classnames from "classnames/bind";
 import pageData from "../../data/Restaurant";
 import RadioButton from '../../components/RadioButton';
 import "./index.scss";
+import { withRouter } from "store/withRouter";
 
 const url_api_restaurant = "https://phpstack-685265-3053015.cloudwaysapps.com/copa-restaurant/api.php";
-// let url_api_restaurant = process.env.REACT_APP_API_URL_RESTAURANT;
 
 const mapStateToProps = state => {
   return {
@@ -30,15 +26,12 @@ const mapStateToProps = state => {
   };
 };
 
-const __orders = 0;
 const __fil = [];
 
 
 function KnowPanamaList({ idiomasReducer, location }) {
   const [showZoom, setZoom] = useState(true);
   let sizeWidth = 0;
-  const { pathname } = location;
-  let showResults = false;
 
   useEffect(() => {
     setTimeout(() => {
@@ -53,15 +46,11 @@ function KnowPanamaList({ idiomasReducer, location }) {
 
   const { identifier } = useParams();
 
-  // console.log('identifier');
-  // console.log(identifier);
-
   const [restaurants, setRestaurants] = useState({ es: [], en: [] });
   const [typesFoods, setTypes] = useState({ es: [], en: [] });
   const [selOrder, setSelOrder] = useState(0);
 
   const [showfilter, setShowFilter] = useState(0);
-  const [showAllBtns, setShowAllBtns] = useState(0);
 
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -76,12 +65,10 @@ function KnowPanamaList({ idiomasReducer, location }) {
   );
 
   if (!resultHero) {
-    return <Redirect to='' />
+    return <Navigate to='' />
   }
 
   const resultBreadcrumb = translations.breadcrumb;
-
-  // console.log(resultBreadcrumb);
 
   const resultWelcome = translations.welcome.find(
     type => type.type === identifier
@@ -110,13 +97,6 @@ function KnowPanamaList({ idiomasReducer, location }) {
     setShowFilter(0);
   }
 
-  function handleShowAllBtns() {
-    setShowAllBtns(1);
-  }
-  function handleHideAllBtns() {
-    setShowAllBtns(0);
-  }
-
   function _filterAll() {
     get(selOrder);
   }
@@ -125,12 +105,11 @@ function KnowPanamaList({ idiomasReducer, location }) {
     let val = fil.currentTarget.value;
 
     let pos = __fil.indexOf(val);
-    if (pos == -1) {
+    if (pos === -1) {
       __fil.push(fil.currentTarget.value);
     } else {
       __fil.splice(pos, 1);
     }
-    //get(selOrder);
   }
 
   function _order(order) {
@@ -150,10 +129,6 @@ function KnowPanamaList({ idiomasReducer, location }) {
         setLoading(false);
         setTypes({ es: [], en: [] });
         setError(null);
-        /*
-        setError(null);
-        setError(result.error);
-        */
       });
   };
 
@@ -172,20 +147,12 @@ function KnowPanamaList({ idiomasReducer, location }) {
         setLoading(false);
         setRestaurants({ es: [], en: [] });
         setError(null);
-        /*
-        setError(null);
-        setError(result.error);
-        */
       });
   };
 
   const idioma = idiomasReducer.currentLanguage;
   const data = pageData[idioma];
-  let markers = [];
 
-  // console.log(filterMin);
-  // console.log(filterMax);
-  // console.log(hotels[idioma]);
 
   if (loading || !data || !restaurants) {
     return <div className="loader-container">
@@ -249,7 +216,7 @@ function KnowPanamaList({ idiomasReducer, location }) {
             <ul className="breadcrumbs" key={k}>
               <li>
                 <a
-                  href={currentLanguage === "es" ? "/conoce-panama" : "/know-panama"}>{`${crumb.title}`}</a><span> > </span>
+                  href={currentLanguage === "es" ? "/conoce-panama" : "/know-panama"}>{`${crumb.title}`}</a><span> {'>'} </span>
               </li>
               {crumb.options.map((opt, i) => {
                 return (
@@ -272,9 +239,9 @@ function KnowPanamaList({ idiomasReducer, location }) {
             <div className="intro-box">
               <h1>{resultWelcome.title}</h1>
               <p dangerouslySetInnerHTML={{ __html: resultWelcome.info_extra }}></p>
-              { ((identifier == 'vida-nocturna')) ? (
+              { ((identifier === 'vida-nocturna')) ? (
               <a href={currentLanguage === "es" ? "/conoce-panama/gastronomia" : "/know-panama/gastronomia"} className="btn-primary btn--yellow">
-                {idioma == "es" ? 'VER MÁS' : 'SEE MORE'}
+                {idioma === "es" ? 'VER MÁS' : 'SEE MORE'}
               </a>
               ) : (null)
               }
@@ -291,18 +258,18 @@ function KnowPanamaList({ idiomasReducer, location }) {
             <div className="container restaurant-block">
               <div className="filtermobile">
                 {/* <a onClick={handleShow} ><img src={data.iconfilter} /></a> */}
-                <h4>{idioma == "es" ? 'Filtrar' : 'Filter'} <a onClick={handleShow} ><img src={data.iconfilter} /></a></h4>
+                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleShow} ><img src={data.iconfilter} alt='filtro filter'/></a></h4>
               </div>
               <div className={"filter " + (showfilter ? 'showinmobile' : '')} >
-                <h4>{idioma == "es" ? 'Filtrar' : 'Filter'} <a onClick={handleHide} ><img src={data.iconfilter} /></a></h4>
+                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleHide} ><img src={data.iconfilter} alt='filtro filter'/></a></h4>
 
                 <div className="content-filters filters-orders">
-                  <span>{idioma == "es" ? 'Por orden alfabético' : 'In alphabetical order'}</span>
+                  <span>{idioma === "es" ? 'Por orden alfabético' : 'In alphabetical order'}</span>
                   <RadioButton items={listOrders} name="order" value="0"
                     className="radio-group"
                     onUpdate={_order} />
 
-                  <span>{idioma == "es" ? 'Por tipo de comida' : 'By type of food'}</span>
+                  <span>{idioma === "es" ? 'Por tipo de comida' : 'By type of food'}</span>
                   <ul>
                     {
                       typesFoods[idioma].map((item, i) => (
@@ -321,14 +288,14 @@ function KnowPanamaList({ idiomasReducer, location }) {
                     ? (
                       <div className="bioseguridad-content">
                         <p>
-                          En Panamá se han implementado los protocolos de bioseguridad necesarios para que disfrutes con tranquilidad. <a href="https://www.visitpanama.com/es/informacion/protocolos-de-viaje/" target="_blank">Conoce más aquí</a>.
+                          En Panamá se han implementado los protocolos de bioseguridad necesarios para que disfrutes con tranquilidad. <a href="https://www.visitpanama.com/es/informacion/protocolos-de-viaje/" rel='noreferrer' target="_blank">Conoce más aquí</a>.
                         </p>
                       </div>
                     )
                     : (
                       <div className="bioseguridad-content">
                         <p>
-                          Panama biosafety protocols have been implemented so that you can enjoy with peace of mind. <a href="https://www.visitpanama.com/information/travel-guidelines/" target="_blank">Learn more here</a>.
+                          Panama biosafety protocols have been implemented so that you can enjoy with peace of mind. <a href="https://www.visitpanama.com/information/travel-guidelines/" rel='noreferrer' target="_blank">Learn more here</a>.
                         </p>
                       </div>
                     )}
@@ -343,10 +310,10 @@ function KnowPanamaList({ idiomasReducer, location }) {
                       <h3>{item[5]}</h3>
                       <h6>{item[1]}</h6>
                       <ul>
-                        <li className={item[2] != "" ? '' : 'no'}><strong>{idioma == "es" ? 'Dirección' : 'Address'}:</strong> {item[2]}</li>
-                        <li className={item[3] != "" ? '' : 'no'}><strong>{idioma == "es" ? 'Teléfono' : 'Phone'}:</strong> {item[3]}</li>
-                        <li className={item[4] != "" ? '' : 'no'}><strong>{idioma == "es" ? 'Sitio web' : 'Website'}:</strong> <a href={'//' + item[4] + item[6]} target="_blank">{item[4]}</a></li>
-                        <li className={item[7] != "" ? '' : 'no'}><strong>{idioma == "es" ? 'Instagram' : 'Instagram'}:</strong> <a href={'//www.instagram.com/' + item[7]} target="_blank">{item[7]}</a></li>
+                        <li className={item[2] !== "" ? '' : 'no'}><strong>{idioma === "es" ? 'Dirección' : 'Address'}:</strong> {item[2]}</li>
+                        <li className={item[3] !== "" ? '' : 'no'}><strong>{idioma === "es" ? 'Teléfono' : 'Phone'}:</strong> {item[3]}</li>
+                        <li className={item[4] !== "" ? '' : 'no'}><strong>{idioma === "es" ? 'Sitio web' : 'Website'}:</strong> <a rel='noreferrer' href={'//' + item[4] + item[6]} target="_blank">{item[4]}</a></li>
+                        <li className={item[7] !== "" ? '' : 'no'}><strong>{idioma === "es" ? 'Instagram' : 'Instagram'}:</strong> <a rel='noreferrer' href={'//www.instagram.com/' + item[7]} target="_blank">{item[7]}</a></li>
                       </ul>
                     </div>
                   ))

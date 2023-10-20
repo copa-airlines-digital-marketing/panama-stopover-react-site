@@ -154,7 +154,7 @@ const museoDeLaMola = {
 ]
 }
 
-export default {
+const data =  {
   es: {
     name: "Tours",
     tours: [
@@ -4267,3 +4267,5 @@ export default {
     ],
   },
 };
+
+export default data

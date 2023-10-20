@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { withLocalize } from "react-localize-redux";
 import { connect } from "react-redux";
 import { compose } from "redux";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 import Hero from "./../../components/Hero";
 import Breadcrumb from "./../../components/Breadcrumb";
@@ -12,8 +12,6 @@ import pageData from "../../data/Packages";
 
 import './index.scss';
 
-// let url_api = 'https://copa-airlines-stopover-backend.st4ging.dev/api';
-// let url_api = process.env.REACT_APP_API_URL;
 let url_api = 'https://phpstack-685265-3053015.cloudwaysapps.com/api';
 
 // Declarar map del store a los props del componente
@@ -28,10 +26,6 @@ const PackagesPage = (props) => {
   const [packageData, setPackageData] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-
-  console.log(packageData);
-  console.log(identifier);
-  console.log("iddays: " + iddays);
 
   function tConvert(time) {
     if (time == null) return '';
@@ -60,19 +54,13 @@ const PackagesPage = (props) => {
   }
 
   function sEmpty(text) {
-    if (text == '' || text == null) return true;
+    if (text === '' || text == null) return true;
     return false;
   }
 
   const findBySlug = identifier => {
 
     let _path = 'find';
-    // if (identifier.includes('basic') || identifier.includes('comfort') || identifier.includes('premium')) {
-    //   _path = 'find';
-    // }
-    // _path = 'find';
-
-    console.log(identifier);
 
     fetch(`${url_api}/package/${_path}/${identifier}`)
       .then(response => response.json())
@@ -90,7 +78,7 @@ const PackagesPage = (props) => {
 
   useEffect(() => {
     findBySlug(identifier);
-  }, []);
+  });
 
   const idioma = props.idiomasReducer.currentLanguage;
   const data = packageData[idioma];
@@ -148,7 +136,7 @@ const PackagesPage = (props) => {
           <div className="each-agency-data">
             {
               data.map((data_details, i) => (
-                <div key={i} className={`${((data_details.days != iddays) && (iddays != 'todos') && (iddays != 'all')) ? "d-none" : ""}`}>
+                <div key={i} className={`${((data_details.days !== iddays) && (iddays !== 'todos') && (iddays !== 'all')) ? "d-none" : ""}`}>
                   <div className="container mt-5 text-cont">
                     <div className="row">
                       <div className="col-left text-left">
@@ -186,7 +174,7 @@ const PackagesPage = (props) => {
                           <span dangerouslySetInnerHTML={{ __html: data_details.notes }}></span>
                         </p>
 
-                        <p className={(data_details.begin_at == "00:00:00" || data_details.begin_at == null) ? 'display-none' : ''}>
+                        <p className={(data_details.begin_at === "00:00:00" || data_details.begin_at == null) ? 'display-none' : ''}>
                           <strong>{idioma === 'es' ? 'Horario: ' : 'Hours: '}</strong>: {tConvert(data_details.begin_at)}{idioma === 'es' ? ' a ' : ' to '}{tConvert(data_details.end_at)}
                         </p>
 
@@ -215,16 +203,16 @@ const PackagesPage = (props) => {
                                   }
                                 </ul>
                                 {(false) ? (
-                                  <div className={"fee " + (data_details.fees.length != 0 ? '' : 'display-none')}>
+                                  <div className={"fee " + (data_details.fees.length !== 0 ? '' : 'display-none')}>
                                     <div className="container">
                                       <div className="row">
                                         <p>
                                           <strong>&nbsp;{idioma === 'es' ? 'Tarifas por habitación' : 'Fee for bedroom'}:</strong>
                                           {
                                             data_details.fees.map((item, f) => (
-                                              <div key={i} className={(f == i && item.value ? '' : 'display-none')}>
-                                                {(f == i && item.value) ? (item.type + ' ') : ''}
-                                                <strong>{(f == i && item.value) ? (tPrice(item.value)) : ''}</strong>
+                                              <div key={i} className={(f === i && item.value ? '' : 'display-none')}>
+                                                {(f === i && item.value) ? (item.type + ' ') : ''}
+                                                <strong>{(f === i && item.value) ? (tPrice(item.value)) : ''}</strong>
                                               </div>
                                             ))
                                           }
@@ -236,7 +224,7 @@ const PackagesPage = (props) => {
                                   null
                                 )}
                                 <br />
-                                <div className={"container-small " + (data_details.fees.length != 0 ? '' : 'display-none')}>
+                                <div className={"container-small " + (data_details.fees.length !== 0 ? '' : 'display-none')}>
                                   <div className="container">
                                     <small>
                                       {idioma === 'es' ? 'Los productos promocionales y servicios adquiridos con el comprobante de Panamá Stopover en los comercios participantes son responsabilidad única y exclusiva de quienes lo ofrecen.' : 'Promotional products and services purchased with the Panama Parada voucher at participating merchants are the sole and exclusive responsibility of those who offer it.'}
@@ -286,7 +274,7 @@ const PackagesPage = (props) => {
                     </p>
                     <a
                       className="btn-primary btn--yellow text-uppercase"
-                      href={idioma === 'es' ? data_details.info_url_es : data_details.info_url_en} target="_blank">
+                      href={idioma === 'es' ? data_details.info_url_es : data_details.info_url_en} target="_blank"  rel='noreferrer'>
                       {idioma === 'es' ? 'RESERVA YA' : 'BOOK NOW'}
                     </a>
                   </div>
