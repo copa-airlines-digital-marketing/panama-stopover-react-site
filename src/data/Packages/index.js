@@ -19,7 +19,8 @@ import imgAct4 from "assets/img/packages/activities/CPA.1068_stopover_microsite_
 import imgAct5 from "assets/img/packages/activities/CPA.1068_stopover_microsite_desktop_paquetes_015_cultura_333x281.jpg";
 import imgAct6 from "assets/img/packages/activities/CPA.1068_stopover_microsite_desktop_paquetes_018_cultura_333x281.jpg";
 
-export default {
+
+const data = {
   es: {
     slug: "paquetes",
     title: "Paquetes",
@@ -257,16 +258,16 @@ export default {
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/006_RetransferPanama/CPA.1068_stopover_microsite_desktop_paquetes_06retransfer_galeria05_1088x690.jpg",
         ],
       },
-      {
+      /* {
         name: "Robles Tours",
         gallery: [
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria01_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria02_1088x690.jpg",
-          /* "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria03_1088x690.jpg", */
+          /* "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria03_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria04_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria05_1088x690.jpg",
         ],
-      },
+      }, */
       {
         name: "Viajes Jazmine",
         gallery: [
@@ -611,16 +612,16 @@ export default {
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/006_RetransferPanama/CPA.1068_stopover_microsite_desktop_paquetes_06retransfer_galeria05_1088x690.jpg",
         ],
       },
-      {
+      /* {
         name: "Robles Tours",
         gallery: [
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria01_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria02_1088x690.jpg",
-          /* "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria03_1088x690.jpg", */
+          /* "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria03_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria04_1088x690.jpg",
           "https://phpstack-685265-3053015.cloudwaysapps.com/storage/img/packages/007_RoblesTours/CPA.1068_stopover_microsite_desktop_paquetes_07robles_galeria05_1088x690.jpg",
         ],
-      },
+      }, */
       {
         name: "Viajes Jazmine",
         gallery: [
@@ -732,3 +733,5 @@ export default {
     ],
   },
 };
+
+export default data;

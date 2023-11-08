@@ -31,7 +31,7 @@ const Gallery = ({idiomasReducer, items}) => {
                       data-id={item.id}
                       className={`preview cover`}>
 
-                  <img className="visibility-hidden" src={item.inGallery} alt={item.name}/>
+                  <img loading="lazy" className="visibility-hidden" src={item.inGallery} alt={item.name}/>
 
                   <span className="preview-area-active">
                     <span className="preview-area-active-all transition-all">
@@ -53,7 +53,7 @@ const Gallery = ({idiomasReducer, items}) => {
                        backgroundImage: `url(${item.inGallery})`,
                      }}>
 
-                  <img className="visibility-hidden" src={item.inGallery}
+                  <img loading="lazy" className="visibility-hidden" src={item.inGallery}
                        alt={item.name}/>
                 </div>
 

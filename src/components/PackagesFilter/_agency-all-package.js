@@ -147,7 +147,7 @@ class PackagesFilterByAgency extends Component {
                            title={item.agency}>
                       </div>
 
-                      <img className="visibility-hidden"
+                      <img loading="lazy" className="visibility-hidden"
                            src={item.bannerImg}
                            alt={item.agency}/>
 

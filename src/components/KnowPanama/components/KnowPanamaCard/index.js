@@ -92,7 +92,7 @@ class KnowPanamaCard extends React.Component {
           onMouseEnter={this.hoverOn}
           onMouseLeave={this.hoverOff}
         >
-          <img
+          <img loading="lazy"
             className="visibility-hidden"
             src={(!isMobile) ? (item.img) : (item.img_mob)}
             alt={welcome.title}
@@ -119,7 +119,7 @@ class KnowPanamaCard extends React.Component {
             backgroundImage: `url(${(!isMobile) ? (item.img) : (item.img_mob)})`
           }}
         >
-          <img
+          <img loading="lazy"
             className="visibility-hidden"
             src={(!isMobile) ? (item.img) : (item.img_mob)}
             alt={item.title}

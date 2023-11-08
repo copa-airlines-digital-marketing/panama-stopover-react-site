@@ -4,7 +4,6 @@ import './index.scss';
 import {compose} from "redux";
 import {withLocalize} from "react-localize-redux";
 import {connect} from "react-redux";
-import GoBackButton from "../GoBackButton";
 
 const mapStateToProps = state => {
   return {
@@ -65,7 +64,7 @@ const TourCard = (props) => {
         <strong>{props.discount ? props.discount : null}</strong>
       </div>
 
-      <a href={props.infoUrl} target="_blank" className="btn-primary btn--yellow text-uppercase tour-card-btn">
+      <a href={props.infoUrl} target="_blank" rel='noreferrer' className="btn-primary btn--yellow text-uppercase tour-card-btn">
         {currentLanguage === "es" ? "Más Información" : "More information"}
       </a>
 

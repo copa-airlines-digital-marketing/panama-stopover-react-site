@@ -90,7 +90,7 @@ const Carousel = ({ idiomasReducer }) => {
 
                       <div className="left-zone">
                         <h1>
-                          <img className="logo-slider" src={slider.logo}
+                          <img loading="lazy" className="logo-slider" src={slider.logo}
                             alt={slider.title} />
                           {slider.title} <span>{slider.subtitle}</span>
                         </h1>
@@ -124,7 +124,7 @@ const Carousel = ({ idiomasReducer }) => {
                       </a>
                     </div>) : (null)*/}
 
-                    <img className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
+                    <img loading="lazy" className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
                       alt={slider.title} />
 
                   </div>
@@ -136,7 +136,7 @@ const Carousel = ({ idiomasReducer }) => {
                     <div className="slider-zonas 2">
 
                       <div className="left-zone">
-                        <img className="logo-slider" src={slider.logo} alt={slider.title} />
+                        <img loading="lazy" className="logo-slider" src={slider.logo} alt={slider.title} />
                         <h1>{slider.title} <span>{slider.subtitle}</span></h1>
                       </div>
 
@@ -168,7 +168,7 @@ const Carousel = ({ idiomasReducer }) => {
                       </a>
                     </div>) : (null)*/}
 
-                    <img className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
+                    <img loading="lazy" className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
                       alt={slider.title} />
 
                   </div>
@@ -187,7 +187,7 @@ const Carousel = ({ idiomasReducer }) => {
                       <div className="left-zone">
 
                         <h1>
-                          <img className="logo-slider" src={slider.logo}
+                          <img loading="lazy" className="logo-slider" src={slider.logo}
                             alt={slider.title} />
                           {slider.title} <span>{slider.subtitle}</span>
                         </h1>
@@ -221,7 +221,7 @@ const Carousel = ({ idiomasReducer }) => {
                       </a>
                     </div>) : (null)*/}
 
-                    <img className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
+                    <img loading="lazy" className="visibility-hidden" src={(!isMobile) ? (slider.img) : (slider.img_mob)}
                       alt={slider.title} />
 
                   </div>

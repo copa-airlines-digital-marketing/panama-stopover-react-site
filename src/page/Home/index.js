@@ -206,13 +206,13 @@ class Home extends React.Component {
                                   <div className="col-6 col-md-7">
                                     <div className="youtube-icon-wrapper pointer" onClick={() => this.showModal(item.video_url)}>
                                       <div className="youtube-play-icon">
-                                        <img src={item.video_img} alt="img" className="pointer"/>
+                                        <img loading="lazy" src={item.video_img} alt="img" className="pointer"/>
                                       </div>
                                     </div>
                                   </div>
                                   <div className="col-6 col-md-5 p-0">
                                     <div className="youtube-video-item-author">
-                                      <img src={item.avatar_img} alt="img"/>
+                                      <img loading="lazy" src={item.avatar_img} alt="img"/>
                                       {item.username}
                                     </div>
                                     <div className="youtube-video-item-body">
@@ -228,13 +228,13 @@ class Home extends React.Component {
                             ?(
                                 <div className="col-sm-12 read-more" onClick={() => this.clickReadMore('')}>
                                   {currentLanguage === 'es'? 'Ver todos ':'See all '}
-                                  <img src={'https://cm-marketing.directus.app/assets/f3ef8eb5-7b4b-45c4-9ddd-cbd03573027a'} alt="img" />
+                                  <img loading="lazy" src={'https://cm-marketing.directus.app/assets/f3ef8eb5-7b4b-45c4-9ddd-cbd03573027a'} alt="img" />
                                 </div>
                             )
                             :(
                                 <div className="col-sm-12 read-more" onClick={() => this.clickReadMore('hide-mobile')}>
                                   {currentLanguage === 'es'? 'Ver menos ':'See less '}
-                                  <img src={'https://cm-marketing.directus.app/assets/574a1b25-1697-4309-b1a4-39d79b74aad1'} alt="img" />
+                                  <img loading="lazy" src={'https://cm-marketing.directus.app/assets/574a1b25-1697-4309-b1a4-39d79b74aad1'} alt="img" />
                                 </div>
                             )
                         }
@@ -255,7 +255,7 @@ class Home extends React.Component {
                 width={!isMobile? 854 : 854}
                 height={!isMobile? 480 : 480}
             >
-              <iframe className="youtube-video-item" src={this.state.ytVideo} title="YouTube video player"
+              <iframe loading="lazy" className="youtube-video-item" src={this.state.ytVideo} title="YouTube video player"
                       id="ytiframe"
                       frameBorder="0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

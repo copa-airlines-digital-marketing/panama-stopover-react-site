@@ -402,7 +402,7 @@ class PackagesFilter extends Component {
                           title={item.agency}>
                         </div>
 
-                        <img className="visibility-hidden"
+                        <img loading="lazy" className="visibility-hidden"
                           src={item.bannerImg}
                           alt={item.agency} />
 
@@ -469,7 +469,7 @@ class PackagesFilter extends Component {
     //              title={item.title}>
     //         </div>
 
-    //         <img className="visibility-hidden"
+    //         <img loading="lazy" className="visibility-hidden"
     //              src={item.img}
     //              alt={item.title}/>
 
@@ -507,7 +507,7 @@ class PackagesFilter extends Component {
     //              title={item.title}>
     //         </div>
 
-    //         <img className="visibility-hidden"
+    //         <img loading="lazy" className="visibility-hidden"
     //              src={item.img}
     //              alt={item.title}/>
 
@@ -546,7 +546,7 @@ class PackagesFilter extends Component {
     //              title={item.title}>
     //         </div>
 
-    //         <img className="visibility-hidden"
+    //         <img loading="lazy" className="visibility-hidden"
     //              src={item.img}
     //              alt={item.title}/>
 

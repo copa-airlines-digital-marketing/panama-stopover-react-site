@@ -1,36 +1,36 @@
-import banner from "./../../assets/img/car-rentals/banner-page.png";
+const banner = "https://cm-marketing.directus.app/assets/bb26e800-7dda-4734-bec8-9c33dff147a6";
 
-// import card1Banner from "./../../assets/img/car-rentals/cpa_autos_avis.jpg";
-// import card1PromoImg from "./../../assets/img/car-rentals/cpa_autos_avis_mob.jpg";
+/*const card1Banner = "https://cm-marketing.directus.app/assets/d9ff9b1e-fbc0-47a1-b7bc-59111c7a8807";
+const card1PromoImg = "https://cm-marketing.directus.app/assets/5b613070-c002-4fb1-b7ea-ee4a4b67df27";
 
-// import card2Banner from "./../../assets/img/car-rentals/cpa_autos_budget.jpg";
-// import card2PromoImg from "./../../assets/img/car-rentals/cpa_autos_budget_mob.jpg";
+const card2Banner = "https://cm-marketing.directus.app/assets/ba1f99b8-7759-4926-8a2a-fe6cc7d979dc";
+const card2PromoImg = "https://cm-marketing.directus.app/assets/9ae8078d-44e6-4721-9a70-31214d1d9172";
 
-// import card3Banner from "./../../assets/img/car-rentals/cpa_autos_dollar.jpg";
-// import card3PromoImg from "./../../assets/img/car-rentals/cpa_autos_dollar_mob.jpg";
+const card3Banner = "https://cm-marketing.directus.app/assets/3034b5f8-2ec5-4de1-beac-132bc8e1dc99";
+const card3PromoImg = "https://cm-marketing.directus.app/assets/9461c1e7-aab0-45f2-89a6-8b7756e7d4fd";
 
-import card4Banner from "./../../assets/img/car-rentals/cpa_autos_ace.jpg";
-import card4PromoImg from "./../../assets/img/car-rentals/cpa_autos_ace_mob.jpg";
+const card4Banner = "https://cm-marketing.directus.app/assets/900f3643-a75c-4cec-9887-23b93877483e";
+const card4PromoImg = "https://cm-marketing.directus.app/assets/1d941606-eb29-44cc-bd29-bf67862ef8be";
 
-import card5Banner from "./../../assets/img/car-rentals/cpa_autos_alamo.jpg";
-import card5PromoImg from "./../../assets/img/car-rentals/cpa_autos_alamo_mob.jpg";
+const card5Banner = "https://cm-marketing.directus.app/assets/bbfa533f-889b-4db6-82af-e3d68cbc5bd1";
+const card5PromoImg = "https://cm-marketing.directus.app/assets/62504c4d-8a99-4beb-a2f8-e1090c09171e"; */
 
-import card6Banner from "./../../assets/img/car-rentals/cpa_autos_dollar.jpg";
-import card6PromoImg from "./../../assets/img/car-rentals/cpa_autos_dollar_mob.jpg";
+const card6Banner = "https://cm-marketing.directus.app/assets/3034b5f8-2ec5-4de1-beac-132bc8e1dc99";
+const card6PromoImg = "https://cm-marketing.directus.app/assets/9461c1e7-aab0-45f2-89a6-8b7756e7d4fd";
 
-import card7Banner from "./../../assets/img/car-rentals/cpa_autos_hertz.jpg";
-import card7PromoImg from "./../../assets/img/car-rentals/cpa_autos_hertz_mob.jpg";
+const card7Banner = "https://cm-marketing.directus.app/assets/859be56d-8182-4054-86f1-8cd7dc8e0020";
+const card7PromoImg = "https://cm-marketing.directus.app/assets/83442927-87b1-4f7b-99c8-87eb4751f507";
 
-import card8Banner from "./../../assets/img/car-rentals/cpa_autos_national.jpg";
-import card8PromoImg from "./../../assets/img/car-rentals/cpa_autos_national_mob.jpg";
+const card8Banner = "https://cm-marketing.directus.app/assets/e19e5c99-c5b9-4144-a8a5-e430f9b101a8";
+const card8PromoImg = "https://cm-marketing.directus.app/assets/ea528eb2-f847-4e88-a21a-ce54c5f33dcb";
 
-import card9Banner from "./../../assets/img/car-rentals/cpa_autos_thrifty.jpg";
-import card9PromoImg from "./../../assets/img/car-rentals/cpa_autos_thrifty_mob.jpg";
+const card9Banner = "https://cm-marketing.directus.app/assets/a6853aae-54f3-4eef-abab-e4ac59b06a40";
+const card9PromoImg = "https://cm-marketing.directus.app/assets/71b020fe-1bb5-4997-95f7-e2bfd7248f9b";
 
-import cardEconomyBanner from "./../../assets/img/car-rentals/cpa_autos_economycarrental.png";
-import cardEconomyPromoImg from "./../../assets/img/car-rentals/cpa_autos_economycarrental_mob.png";
+const cardEconomyBanner = "https://cm-marketing.directus.app/assets/a348b4fb-5ab1-4e75-ae54-85d759158f5e";
+const cardEconomyPromoImg = "https://cm-marketing.directus.app/assets/5a5b6edf-a72e-42d1-9f0a-9fffcf8b20b3";
 
-export default {
+const data = {
   es: {
     name: "Alquiler de Autos",
     bannerImg: banner,
@@ -47,52 +47,52 @@ export default {
       },
     ],
     cars: [
-      // {
-      //   id: 1,
-      //   bannerImg: card1Banner,
-      //   promotionImg: card1PromoImg,
-      //   theName: "Avis",
-      //   promotionText:
-      //     "descuento del 50 % sobre el tiempo y kilometraje de la tarifa de alquiler.",
-      //   code: "AWD O870700",
-      //   considerations: [
-      //     "Aplica para todos los autos de la flota.",
-      //     "Aplica en tarifa de tiempo y kilometraje.",
-      //     "El cliente debe complementar el alquiler con las protecciones LDW y WTC.",
-      //     "El cliente debe cumplir con todos los requisitos de alquiler de AVIS.",
-      //   ],
-      //   url: "https://avis.com.pa/stopover/",
-      // },
-      // {
-      //   id: 2,
-      //   bannerImg: card2Banner,
-      //   promotionImg: card2PromoImg,
-      //   theName: "Budget",
-      //   promotionText: "descuento del 50 % sobre todas las tarifas vigentes.",
-      //   code: "C2H",
-      //   considerations: [
-      //     "No incluye coberturas ni impuestos.",
-      //     "No es válido con otras promociones o descuentos.",
-      //     "El cliente debe presentar el boarding pass al momento de retirar el auto.",
-      //     "Aplican condiciones regular de alquiler.",
-      //   ],
-      //   url: "https://www.budgetpanama.com/en/deals/",
-      // },
-      // {
-      //   id: 3,
-      //   bannerImg: card3Banner,
-      //   promotionImg: card3PromoImg,
-      //   theName: "Dollar",
-      //   promotionText:
-      //     "descuento del 50 % sobre todas las tarifas en la página web.",
-      //   code: null,
-      //   considerations: [
-      //     "No aplica para SUV, 7Packs, ni categoría comercial.",
-      //     "No aplica con otras promociones ni descuentos.",
-      //   ],
-      //   url: "http://stopover.dollarpanama.com/",
-      // },
-        /*
+      /*
+      {
+        id: 1,
+        bannerImg: card1Banner,
+        promotionImg: card1PromoImg,
+        theName: "Avis",
+        promotionText:
+          "descuento del 50 % sobre el tiempo y kilometraje de la tarifa de alquiler.",
+        code: "AWD O870700",
+        considerations: [
+          "Aplica para todos los autos de la flota.",
+          "Aplica en tarifa de tiempo y kilometraje.",
+          "El cliente debe complementar el alquiler con las protecciones LDW y WTC.",
+          "El cliente debe cumplir con todos los requisitos de alquiler de AVIS.",
+        ],
+        url: "https://avis.com.pa/stopover/",
+      },
+      {
+        id: 2,
+        bannerImg: card2Banner,
+        promotionImg: card2PromoImg,
+        theName: "Budget",
+        promotionText: "descuento del 50 % sobre todas las tarifas vigentes.",
+        code: "C2H",
+        considerations: [
+          "No incluye coberturas ni impuestos.",
+          "No es válido con otras promociones o descuentos.",
+          "El cliente debe presentar el boarding pass al momento de retirar el auto.",
+          "Aplican condiciones regular de alquiler.",
+        ],
+        url: "https://www.budgetpanama.com/en/deals/",
+      },
+      {
+        id: 3,
+        bannerImg: card3Banner,
+        promotionImg: card3PromoImg,
+        theName: "Dollar",
+        promotionText:
+          "descuento del 50 % sobre todas las tarifas en la página web.",
+        code: null,
+        considerations: [
+          "No aplica para SUV, 7Packs, ni categoría comercial.",
+          "No aplica con otras promociones ni descuentos.",
+        ],
+        url: "http://stopover.dollarpanama.com/",
+      },
       {
         id: 4,
         bannerImg: card4Banner,
@@ -108,7 +108,6 @@ export default {
         ],
         url: "https://www.acerentacar.com/Landing/Panama/Tocumen/Tocumen-Intl-Airport/Panama_Stopover_Tocumen_Intl_Airport.aspx?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
-        /*
        {
          id: 5,
          bannerImg: card5Banner,
@@ -165,14 +164,14 @@ export default {
         theName: "Hertz Rent a Car",
         promotionText: "50% de descuento en todos nuestros autos.",
         promotionBody: null,
-        code: "stopoverhz",
+        code: "VISITPTY",
         considerations: [
           "El descuento aplica para todos los autos de nuestra flota",
           "El descuento aplica solo en tarifa de tiempo de kilometraje",
           "El descuento no se incluye en coberturas e impuestos",
           "El cliente debe cumplir con todos los requisitos de Hertz Rent a Car ",
         ],
-        url: "https://hertzpanama.com.pa/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://www.panamahertz.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
       {
          id: 8,
@@ -196,7 +195,7 @@ export default {
         theName: "Thrifty Car Rental",
         promotionText: "50% de descuento en todos nuestros autos",
         promotionBody: null,
-        code: "stopoverth",
+        code: "VISITPTY",
         considerations: [
           "El descuento aplica para todos los autos de nuestra flota",
           "El descuento aplica solo en tarifa de tiempo de kilometraje",
@@ -204,7 +203,7 @@ export default {
           "El cliente debe cumplir con todos los requisitos de Thrifty Car Rental",
           "Este cupón no aplica del 23 de diciembre 2021 al 2 de enero 2022.",
         ],
-        url: "https://es.panamathrifty.com/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://www.panamathrifty.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
     ],
     infoUrl: "https://www.acerentacar.com/Landing/Panama/Tocumen/Tocumen-Intl-Airport/Panama_Stopover_Tocumen_Intl_Airport.aspx?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
@@ -225,48 +224,48 @@ export default {
       },
     ],
     cars: [
-      // {
-      //   id: 1,
-      //   bannerImg: card1Banner,
-      //   promotionImg: card1PromoImg,
-      //   promotionText:
-      //     "Special offer: 50% discount on the time and mileage of the rental rate.",
-      //   code: "AWD O870700",
-      //   considerations: [
-      //     "This applies to all the cars of the fleet.",
-      //     "This applies to the time and mileage rate.",
-      //     "The customer must complement the rental with LDW and WTC coverage.",
-      //     "The customer must meet all AVIS rental requirements.",
-      //   ],
-      //   url: "https://avis.com.pa/stopover/",
-      // },
-      // {
-      //   id: 2,
-      //   bannerImg: card2Banner,
-      //   promotionImg: card2PromoImg,
-      //   promotionText: "50 % discount on all current rates.",
-      //   code: "C2H",
-      //   considerations: [
-      //     "This does not include coverages or taxes.",
-      //     "This is not applicable to other special offers or discounts.",
-      //     "The customer must present their boarding pass when picking up the car.",
-      //     "Regular rental conditions apply.",
-      //   ],
-      //   url: "https://www.budgetpanama.com/en/deals/",
-      // },
-      // {
-      //   id: 3,
-      //   bannerImg: card3Banner,
-      //   promotionImg: card3PromoImg,
-      //   promotionText: "50 % discount on all current rates.",
-      //   code: null,
-      //   considerations: [
-      //     "This does not include SUVs, 7Packs, or the commercial category.",
-      //     "This cannot be combined with other special offers or discounts.",
-      //   ],
-      //   url: "http://stopover.dollarpanama.com/",
-      // },
-        /*
+      /*
+      {
+        id: 1,
+        bannerImg: card1Banner,
+        promotionImg: card1PromoImg,
+        promotionText:
+          "Special offer: 50% discount on the time and mileage of the rental rate.",
+        code: "AWD O870700",
+        considerations: [
+          "This applies to all the cars of the fleet.",
+          "This applies to the time and mileage rate.",
+          "The customer must complement the rental with LDW and WTC coverage.",
+          "The customer must meet all AVIS rental requirements.",
+        ],
+        url: "https://avis.com.pa/stopover/",
+      },
+      {
+        id: 2,
+        bannerImg: card2Banner,
+        promotionImg: card2PromoImg,
+        promotionText: "50 % discount on all current rates.",
+        code: "C2H",
+        considerations: [
+          "This does not include coverages or taxes.",
+          "This is not applicable to other special offers or discounts.",
+          "The customer must present their boarding pass when picking up the car.",
+          "Regular rental conditions apply.",
+        ],
+        url: "https://www.budgetpanama.com/en/deals/",
+      },
+      {
+        id: 3,
+        bannerImg: card3Banner,
+        promotionImg: card3PromoImg,
+        promotionText: "50 % discount on all current rates.",
+        code: null,
+        considerations: [
+          "This does not include SUVs, 7Packs, or the commercial category.",
+          "This cannot be combined with other special offers or discounts.",
+        ],
+        url: "http://stopover.dollarpanama.com/",
+      },
       {
         id: 4,
         bannerImg: card4Banner,
@@ -298,7 +297,7 @@ export default {
          ],
          url: "https://www.alamopanama.com/en/stop-over-promo/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
-         */
+      */
       {
         id: 5,
         bannerImg: cardEconomyBanner,
@@ -339,14 +338,14 @@ export default {
         theName: "Hertz Rent a Car",
         promotionText: "50% OFF in all of our fleet.",
         promotionBody: null,
-        code: "stopoverhz",
+        code: "VISITPTY",
         considerations: [
           "This discount applies for all of our fleet",
           "This applies only to the time and milleage rate",
           "This does not include discount on coverages or taxes",
           "The customer most meet all Hertz Rent A Car rental requirements",
         ],
-        url: "https://hertzpanama.com.pa/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://www.panamahertz.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
        {
          id: 8,
@@ -370,7 +369,7 @@ export default {
         theName: "Thrifty Car Rental",
         promotionText: "50% OFF in all of our fleet.",
         promotionBody: null,
-        code: "stopoverth",
+        code: "VISITPTY",
         considerations: [
           "This discount applies for all of our fleet",
           "This applies only to the time and milleage rate",
@@ -384,3 +383,5 @@ export default {
     infoUrl: "https://es.panamathrifty.com/en/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
   },
 };
+
+export default data;

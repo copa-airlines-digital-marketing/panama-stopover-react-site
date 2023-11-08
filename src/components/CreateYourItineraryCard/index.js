@@ -36,7 +36,7 @@ class CreateYourItineraryCard extends Component {
             <div
               className="col-md-6 left-itinerario-item">
 
-              <img className="visibility-hidden"
+              <img loading="lazy" className="visibility-hidden"
                    src={(!isMobile) ? (img) : (img_mob)}
                    alt={title}/>
 

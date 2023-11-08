@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import { withLocalize } from "react-localize-redux";
 import { compose } from "redux";
 import { connect } from "react-redux";
-import { Link } from "react-router-dom";
 
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -22,9 +21,6 @@ const mapStateToProps = (state) => {
 };
 
 class ToursHome extends Component {
-  constructor(props) {
-    super(props);
-  }
 
   render() {
     const { currentLanguage } = this.props.idiomasReducer;
@@ -139,7 +135,7 @@ class ToursHome extends Component {
                         title={tour.title}
                       ></div>
 
-                      <img
+                      <img loading="lazy"
                         className="visibility-hidden"
                         src={!isMobile ? tour.img : tour.img_mob}
                         alt={tour.title}

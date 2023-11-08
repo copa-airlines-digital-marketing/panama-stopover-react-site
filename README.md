@@ -1,16 +1,34 @@
 # Copa Airlines - Stopover
 
-## Requisitos
+## Aplicacion 
 
-*  Tener Docker Compose instalado en la máquina local.
+Esta es una aplicacion de tipo Create React App y el servidor se constuye usando using Express.
 
-*  Servicio Traefik corriendo en la máquina local.
-   Ver [traefik](traefik) para las instrucciones sobre cómo configurarlo.
+La aplicacion tiene todos los paquetes actualizados hasta Nov de 2023, Material UI no se actualizo por la cantidad de cambios y ajustes que requiere la migracion a la version mas actual.
 
-## Levantar servidor de desarrollo
+## Desarrollo
 
-Ejecutar en la raiz del proyecto:
+Para poder instalar las dependencias usar
 
-    docker-compose up -d
+`
+npm i --legacy-peer-deps
+`
 
-Abrir http://copa-airlines-stopover.lndo.site como URL del entorno local.
+Para hacer pruebas de desarrollo usar
+
+`
+npm run dev
+`
+
+Para probar la configuracion que va al servidor usar
+
+`
+npm run build
+`
+y cuando termina de compilar el codigo usar
+
+`
+npm run start
+`
+
+Y acceder a localhost con el puerto que se designe en las variables de entorno o [http://127.0.0.1:5000]

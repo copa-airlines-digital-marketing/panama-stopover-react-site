@@ -291,7 +291,7 @@ class CreateYourItinerary extends Component {
 
                   <h2 className="video-itinerario-box-h2">{item.video_text}</h2>
 
-                  <img
+                  <img loading="lazy"
                     className="visibility-hidden"
                     src={!isMobile ? item.video_img : item.video_img_mob}
                     alt={item.title}

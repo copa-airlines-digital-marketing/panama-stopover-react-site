@@ -36,7 +36,7 @@ class FooterArea extends Component {
                   <li id={`key-${i}`} className="footer-brands-li" key={i}>
                     <a style={{backgroundImage: `url(${item.img})`}} target="_blank" href={`${item.url}`}
                        className="footer-brands-a">
-                      <img className="visibility-hidden" src={item.img} alt={item.title}/>
+                      <img loading="lazy" className="visibility-hidden" src={item.img} alt={item.title}/>
                     </a>
                   </li>
                 );

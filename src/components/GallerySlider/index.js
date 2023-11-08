@@ -63,7 +63,7 @@ const GallerySlider = props => {
                         style={{ backgroundImage: `url(${slide})` }}
                         title="Slide image"
                     ></a>
-                    <img className="visibility-hidden" src={slide} alt="slide image" />
+                    <img loading="lazy" className="visibility-hidden" src={slide} alt="slide image" />
                 </div>
             </div>
         )

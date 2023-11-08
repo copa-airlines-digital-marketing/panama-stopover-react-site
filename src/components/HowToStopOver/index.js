@@ -151,7 +151,7 @@ const HowToStopOver = ({ ...props }) => {
                               key={i}
                             >
                               <div className="img-saber-box">
-                                <img src={icon.img} alt={icon.title} />
+                                <img loading="lazy" src={icon.img} alt={icon.title} />
                               </div>
 
                               <h1>{icon.title}</h1>

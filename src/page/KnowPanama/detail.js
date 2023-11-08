@@ -121,7 +121,7 @@ function KnowPanamaDetail({idiomasReducer, location, history}) {
                   backgroundImage: `url(${item.hero})`
                 }}
               >
-                <img
+                <img loading="lazy"
                   className="visibility-hidden"
                   src={item.hero}
                   alt={item.title}
@@ -179,7 +179,7 @@ function KnowPanamaDetail({idiomasReducer, location, history}) {
                                 backgroundImage: `url(${(!isMobile) ? (item.did_you_know_img) : (item.did_you_know_img_mobile)})`
                               }}
                             >
-                              <img
+                              <img loading="lazy"
                                 className="visibility-hidden"
                                 src={(!isMobile) ? (item.did_you_know_img) : (item.did_you_know_img_mobile)}
                                 alt={item.did_you_know_title}
@@ -263,7 +263,7 @@ function KnowPanamaDetail({idiomasReducer, location, history}) {
                                               style={{backgroundImage: `url(${(!isMobile) ? (gal.img) : (gal.img_mob)})`}}
                                               title={gal.title}
                                             />
-                                            <img
+                                            <img loading="lazy"
                                               className="visibility-hidden"
                                               src={(!isMobile) ? (gal.img) : (gal.img_mob)}
                                               alt={gal.title}
@@ -307,7 +307,7 @@ function KnowPanamaDetail({idiomasReducer, location, history}) {
                           style={{backgroundImage: `url(${(!isMobile) ? (gal.img) : (gal.img_mob)})`}}
                           title={gal.title}
                         />
-                        <img
+                        <img loading="lazy"
                           className="visibility-hidden"
                           src={(!isMobile) ? (gal.img) : (gal.img_mob)}
                           alt={gal.title}

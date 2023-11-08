@@ -61,7 +61,7 @@ class KnowPanamaPage extends React.Component {
                            style={{
                              backgroundImage: `url(${(!isMobile) ? (item.hero) : (item.hero)})`
                            }}>
-                        <img className="visibility-hidden" src={(!isMobile) ? (item.hero) : (item.hero)} alt={item.title}/>
+                        <img loading="lazy" className="visibility-hidden" src={(!isMobile) ? (item.hero) : (item.hero)} alt={item.title}/>
                       </div>
                     );
                   })

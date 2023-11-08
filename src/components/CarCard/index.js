@@ -22,7 +22,7 @@ const ItemCard = (props) => {
       <div className="item-card-body">
         <div className="heading">
           <div className="heading-img">
-            <img src={props.promotionImg} alt="img"/>
+            <img loading="lazy" src={props.promotionImg} alt="img"/>
           </div>
           <div className="heading-title">
             {/* {idioma === 'es' ? 'Promoción' : 'Promotion'}: {props.promotionText} */}

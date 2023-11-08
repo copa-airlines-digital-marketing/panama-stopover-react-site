@@ -70,7 +70,7 @@ class Map extends React.PureComponent {
     const text = this.props.text
       ?
       <div className="map-title mt-5 text-left">
-        <img src={MarkerIcon} alt="marker"/> {this.props.text}
+        <img loading="lazy" src={MarkerIcon} alt="marker"/> {this.props.text}
       </div>
       :
       null;

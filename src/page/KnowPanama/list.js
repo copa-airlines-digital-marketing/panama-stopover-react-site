@@ -200,7 +200,7 @@ function KnowPanamaList({ idiomasReducer, location }) {
               style={{
                 backgroundImage: `url(${(!isMobile) ? (resultHero.img) : (resultHero.img_mob)})`
               }}>
-              <img
+              <img loading="lazy"
                 className="visibility-hidden"
                 src={(!isMobile) ? (resultHero.img) : (resultHero.img_mob)}
                 alt={resultWelcome.title}
@@ -257,11 +257,11 @@ function KnowPanamaList({ idiomasReducer, location }) {
           <div className="restaurant-list-box">
             <div className="container restaurant-block">
               <div className="filtermobile">
-                {/* <a onClick={handleShow} ><img src={data.iconfilter} /></a> */}
-                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleShow} ><img src={data.iconfilter} alt='filtro filter'/></a></h4>
+                {/* <a onClick={handleShow} ><img loading="lazy" src={data.iconfilter} /></a> */}
+                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleShow} ><img loading="lazy" src={data.iconfilter} alt='filtro filter'/></a></h4>
               </div>
               <div className={"filter " + (showfilter ? 'showinmobile' : '')} >
-                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleHide} ><img src={data.iconfilter} alt='filtro filter'/></a></h4>
+                <h4>{idioma === "es" ? 'Filtrar' : 'Filter'} <a onClick={handleHide} ><img loading="lazy" src={data.iconfilter} alt='filtro filter'/></a></h4>
 
                 <div className="content-filters filters-orders">
                   <span>{idioma === "es" ? 'Por orden alfabético' : 'In alphabetical order'}</span>
@@ -377,13 +377,13 @@ function KnowPanamaList({ idiomasReducer, location }) {
                               className="container-box-list-item-img effect-scale"
                               style={{ backgroundImage: `url(${(!isMobile) ? (item.img) : (item.img_mob)})` }}
                             >
-                              <img
+                              <img loading="lazy"
                                 className="visibility-hidden"
                                 src={`${(!isMobile) ? (item.img) : (item.img_mob)}`}
                                 alt={item.title}
                               />
                             </div>
-                            <img
+                            <img loading="lazy"
                               className="visibility-hidden"
                               src={`${(!isMobile) ? (item.img) : (item.img_mob)}`}
                               alt={item.title}

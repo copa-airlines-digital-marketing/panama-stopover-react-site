@@ -1,8 +1,7 @@
-import React, { useState, lazy } from 'react';
+import React, { useState } from 'react';
 import { connect } from 'react-redux';
 import { compose } from 'redux';
 import { withLocalize } from 'react-localize-redux';
-import PropTypes from 'prop-types';
 import { Grid } from '@material-ui/core';
 
 
@@ -10,7 +9,6 @@ import useStyles, { StylizedTab as Tab, StylizedTabs as Tabs } from './styles';
 import bookingPanel from '../../data/BookingPanel';
 import TabPanel from './components/tabPanel';
 import SearchPanel from './components/searchPanel';
-import TypographyCo from './ui/typography/typographyCo';
 
 // const TabPanel = lazy(() => import("./components/tabPanel"))
 

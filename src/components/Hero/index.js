@@ -18,7 +18,7 @@ const Hero = props => {
             backgroundImage: `url(${props.heroData})`
           }}
         >
-          <img
+          <img loading="lazy"
             className="visibility-hidden"
             src={props.heroData}
           />
