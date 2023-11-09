@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { withLocalize } from "react-localize-redux";
 
 import ModalBox from "./../../components/ModalBox";

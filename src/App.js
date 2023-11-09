@@ -68,8 +68,7 @@ class App extends React.Component {
   render() {
 
     return (
-        <div className={(isMobile) ? ('mobile-panel') : ('desktop-panel')}>
-
+        <main>
           <NavMobile/>
 
           <Routes>
@@ -101,7 +100,7 @@ class App extends React.Component {
 
           <BackTop/>
 
-        </div>
+        </main>
     );
   }
 }

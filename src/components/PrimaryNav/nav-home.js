@@ -19,10 +19,6 @@ const mapStateToProps = (state) => {
 };
 
 class PrimaryNavHome extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   safetyLogo(lang) {
     if (lang === "es") {
       return safetyLogoEs;

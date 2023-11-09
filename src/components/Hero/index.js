@@ -1,8 +1,6 @@
 import React from 'react';
 import PrimaryNav from "../PrimaryNav";
 
-import './index.scss';
-
 const Hero = props => {
   return (
     <div className="header-box">

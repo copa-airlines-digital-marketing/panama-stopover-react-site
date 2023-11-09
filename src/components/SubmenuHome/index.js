@@ -21,11 +21,11 @@ const SubmenuHome = (props) => {
         {
           homeData.submenu_home.map((item, i) => {
             return (
-              <li className="col-md-4 submenu-list-box-item" key={i}>
+              <li className="col-md submenu-list-box-item" key={i}>
                 <AnchorLink
                   id={`key-${i}`}
                   href={`${item.href}`}
-                  className="col-md-12 submenu-list-box-item-a"
+                  className="submenu-list-box-item-a"
                 >
                   <span>{item.title}</span>
                 </AnchorLink>
