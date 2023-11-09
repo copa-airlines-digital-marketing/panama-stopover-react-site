@@ -184,7 +184,7 @@ const data = {
          considerations: [
            "Descuento aplica sobre tarifa regular, descuento no aplica en coberturas, accesorios ni servicios adicionales.",
            "No aplica con otros descuentos ni promociones.",
-           "Válido del 1 de junio de 2021 al 31 de diciembre de 2022. ",
+           "Válido hasta el 31 de diciembre de 2024.",
          ],
          url: "https://www.nationalpanama.com/es/stop-over-promo/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
       },
@@ -358,7 +358,7 @@ const data = {
          considerations: [
            "Discount applies on regular rate, discount does not apply to additional coverages, accessories or services.",
            "Does not apply with other discounts or promotions.",
-           "Valid from June 1, 2021 to December 31, 2022.",
+           "Valid through December 31, 2024.",
          ],
          url: "https://www.nationalpanama.com/en/stop-over-promo/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
        },
