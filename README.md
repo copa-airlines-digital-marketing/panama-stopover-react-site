@@ -32,3 +32,8 @@ npm run start
 `
 
 Y acceder a localhost con el puerto que se designe en las variables de entorno o [http://127.0.0.1:5000]
+
+## Publicacion
+
+El codigo primero se compila en staging y luego se promueve a produccion.
+
