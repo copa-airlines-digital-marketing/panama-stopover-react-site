@@ -171,7 +171,7 @@ const data = {
           "El descuento no se incluye en coberturas e impuestos",
           "El cliente debe cumplir con todos los requisitos de Hertz Rent a Car ",
         ],
-        url: "https://www.panamahertz.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://www.panamahertz.com",
       },
       {
          id: 8,
@@ -202,10 +202,9 @@ const data = {
           "El descuento no se incluye en coberturas e impuestos",
           "El cliente debe cumplir con todos los requisitos de Thrifty Car Rental",
         ],
-        url: "https://www.panamathrifty.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://es.panamathrifty.com/en/stopover/",
       },
-    ],
-    infoUrl: "https://www.acerentacar.com/Landing/Panama/Tocumen/Tocumen-Intl-Airport/Panama_Stopover_Tocumen_Intl_Airport.aspx?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+    ]
   },
   en: {
     name: "Alquiler de Autos",
@@ -344,7 +343,7 @@ const data = {
           "This does not include discount on coverages or taxes",
           "The customer most meet all Hertz Rent A Car rental requirements",
         ],
-        url: "https://www.panamahertz.com?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://www.panamahertz.com",
       },
        {
          id: 8,
@@ -375,10 +374,9 @@ const data = {
           "This does not include discount on coverages or taxes",
           "The customer most meet all Thrifty Car Rental rental requirements",
         ],
-        url: "https://es.panamathrifty.com/en/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+        url: "https://es.panamathrifty.com/en/stopover/",
       },
-    ],
-    infoUrl: "https://es.panamathrifty.com/en/stopover/?utm_source=stopoverinpanama&utm_medium=referral&utm_campaign=stopoverinpanama",
+    ]
   },
 };
 
