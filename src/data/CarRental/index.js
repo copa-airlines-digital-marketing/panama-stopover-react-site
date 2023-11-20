@@ -202,7 +202,7 @@ const data = {
           "El descuento no se incluye en coberturas e impuestos",
           "El cliente debe cumplir con todos los requisitos de Thrifty Car Rental",
         ],
-        url: "https://es.panamathrifty.com/en/stopover/",
+        url: "https://www.panamathrifty.com/",
       },
     ]
   },
@@ -374,7 +374,7 @@ const data = {
           "This does not include discount on coverages or taxes",
           "The customer most meet all Thrifty Car Rental rental requirements",
         ],
-        url: "https://es.panamathrifty.com/en/stopover/",
+        url: "https://www.panamathrifty.com/",
       },
     ]
   },
